@@ -1,0 +1,141 @@
+crew_id,full_name,role,day_rate_ngn,employment_type,is_active,email,dq_flags
+CR-00001,Renée Chen,Art Director,156000.0,Freelance,False,Unknown,No issues
+CR-00002,Kelechi Mohammed,Grip,76000.0,Staff,True,kelechi@xtrimstudios.com,role_filled_from_timesheets
+CR-00003,Núria Okafor,Grip,49000.0,Freelance,True,núria@xtrimstudios.com,No issues
+CR-00004,Grace Adeyemi,Art Director,158000.0,Freelance,True,Unknown,No issues
+CR-00005,Kelechi Farouk,Editor,149000.0,Staff,True,kelechi@xtrimstudios.com,No issues
+CR-00006,Zainab Ojo,Grip,66000.0,Freelance,True,zainab@xtrimstudios.com,No issues
+CR-00007,Tunde Kim,Colorist,271000.0,Staff,True,tunde@xtrimstudios.com,No issues
+CR-00008,Sarah Smith,Art Director,126000.0,Staff,True,sarah@xtrimstudios.com,No issues
+CR-00009,Björn Osei,Drone Operator,142000.0,Freelance,True,Unknown,day_rate_filled_from_timesheets
+CR-00010,Emeka Ojo,Gaffer,107000.0,Freelance,True,Unknown,No issues
+CR-00011,Zainab Adeyemi,Production Assistant,25000.0,Unknown,False,zainab@xtrimstudios.com,No issues
+CR-00012,Thabo Kim,Production Assistant,27000.0,Freelance,True,thabo@xtrimstudios.com,No issues
+CR-00013,Renée Adeyemi,Director of Photography,410000.0,Staff,False,renée@xtrimstudios.com,No issues
+CR-00014,Chioma Farouk,Gaffer,130000.0,Freelance,True,chioma@xtrimstudios.com,No issues
+CR-00015,Aisha García,Colorist,272000.0,Freelance,False,aisha@xtrimstudios.com,No issues
+CR-00016,Ahmed Adebayo-Cole,Drone Operator,188000.0,Freelance,True,ahmed@xtrimstudios.com,No issues
+CR-00017,Kelechi Mensah,Editor,178000.0,Staff,True,Unknown,No issues
+CR-00018,Fatima Farouk,Drone Operator,230000.0,Freelance,True,fatima@xtrimstudios.com,role_filled_from_timesheets
+CR-00019,Amaka Chen,Camera Operator,175000.0,Freelance,False,amaka@xtrimstudios.com,No issues
+CR-00020,Daniel Okafor,Drone Operator,143000.0,Staff,True,daniel@xtrimstudios.com,No issues
+CR-00021,Björn Chen,Editor,120000.0,Staff,True,björn@xtrimstudios.com,No issues
+CR-00022,Uche Adebayo-Cole,Sound Recordist,82000.0,Freelance,True,uche@xtrimstudios.com,No issues
+CR-00023,Grace Anyanwu,Camera Operator,158000.0,Freelance,True,Unknown,No issues
+CR-00024,Femi Smith,Editor,185000.0,Unknown,True,Unknown,No issues
+CR-00025,Bola Achebe,Grip,61000.0,Staff,True,Unknown,role_filled_from_timesheets
+CR-00026,José Chukwu,Gaffer,142000.0,Freelance,True,josé@xtrimstudios.com,No issues
+CR-00027,Aisha Adebayo-Cole,Production Assistant,42000.0,Freelance,True,aisha@xtrimstudios.com,No issues
+CR-00028,Kofi Danjuma,Colorist,287000.0,Staff,True,kofi@xtrimstudios.com,No issues
+CR-00029,Musa O'Brien,Director of Photography,269000.0,Staff,True,musa@xtrimstudios.com,No issues
+CR-00030,Musa Ojo,Director of Photography,447000.0,Freelance,True,musa@xtrimstudios.com,No issues
+CR-00031,André Eze,Grip,87000.0,Unknown,True,andré@xtrimstudios.com,role_filled_from_timesheets
+CR-00032,Grace Danjuma,Production Assistant,32000.0,Freelance,True,grace@xtrimstudios.com,No issues
+CR-00033,Amaka Nwosu,Art Director,135000.0,Freelance,True,Unknown,No issues
+CR-00034,Sarah Chen,Production Assistant,37000.0,Freelance,True,sarah@xtrimstudios.com,No issues
+CR-00035,Adaeze Chukwu,Art Director,115000.0,Freelance,False,Unknown,No issues
+CR-00036,Björn Adebayo-Cole,Sound Recordist,106000.0,Staff,True,Unknown,No issues
+CR-00037,Sade Olawale,Production Assistant,32000.0,Freelance,True,sade@xtrimstudios.com,No issues
+CR-00038,Chioma Mohammed,Art Director,137000.0,Freelance,True,chioma@xtrimstudios.com,No issues
+CR-00039,Yusuf Adebayo-Cole,Editor,215000.0,Freelance,True,yusuf@xtrimstudios.com,No issues
+CR-00040,Emeka Nwosu,Gaffer,102000.0,Freelance,True,emeka@xtrimstudios.com,No issues
+CR-00041,Emeka O'Brien,Colorist,273000.0,Staff,False,Unknown,No issues
+CR-00042,Emeka Balogun,Director of Photography,339000.0,Freelance,True,emeka@xtrimstudios.com,No issues
+CR-00043,Sarah Chukwu,Colorist,280000.0,Freelance,False,sarah@xtrimstudios.com,day_rate_filled_from_timesheets
+CR-00044,Halima Anyanwu,Camera Operator,114000.0,Staff,True,halima@xtrimstudios.com,No issues
+CR-00045,Marcus Kim,Gaffer,104000.0,Freelance,True,marcus@xtrimstudios.com,No issues
+CR-00046,Obinna Osei,Director of Photography,368000.0,Staff,True,obinna@xtrimstudios.com,day_rate_filled_from_timesheets
+CR-00047,Halima Okafor,Art Director,115000.0,Freelance,True,halima@xtrimstudios.com,No issues
+CR-00048,Halima Mohammed,Camera Operator,104000.0,Staff,True,Unknown,No issues
+CR-00049,Zainab Ibrahim,Production Assistant,27000.0,Freelance,True,zainab@xtrimstudios.com,No issues
+CR-00050,Uche Balogun,Director of Photography,261000.0,Freelance,True,uche@xtrimstudios.com,No issues
+CR-00051,Marcus Adebayo-Cole,Colorist,169000.0,Staff,True,marcus@xtrimstudios.com,No issues
+CR-00052,Chioma Nwosu,Sound Recordist,115000.0,Freelance,True,chioma@xtrimstudios.com,No issues
+CR-00053,Ahmed Oyelaran,Colorist,204000.0,Freelance,True,Unknown,No issues
+CR-00054,Obinna Abiola,Gaffer,107000.0,Unknown,False,obinna@xtrimstudios.com,No issues
+CR-00055,Fatima Bello,Grip,64000.0,Freelance,False,fatima@xtrimstudios.com,role_filled_from_timesheets
+CR-00056,Kelechi Oyelaran,Colorist,155000.0,Staff,True,Unknown,No issues
+CR-00057,Wei Okafor,Colorist,267000.0,Staff,True,wei@xtrimstudios.com,No issues
+CR-00058,Obinna Osei,Drone Operator,170000.0,Staff,True,obinna@xtrimstudios.com,No issues
+CR-00059,Kelechi Achebe,Sound Recordist,134000.0,Freelance,True,kelechi@xtrimstudios.com,No issues
+CR-00060,Priya Chukwu,Colorist,154000.0,Freelance,True,priya@xtrimstudios.com,No issues
+CR-00061,Musa Nwosu,Director of Photography,410000.0,Freelance,False,musa@xtrimstudios.com,No issues
+CR-00062,Grace Ibrahim,Grip,59000.0,Freelance,True,Unknown,No issues
+CR-00063,Fatima Chukwu,Grip,64000.0,Freelance,False,fatima@xtrimstudios.com,No issues
+CR-00064,Chidinma Osei,Camera Operator,118000.0,Freelance,False,chidinma@xtrimstudios.com,No issues
+CR-00065,Priya Sowore,Production Assistant,40000.0,Unknown,False,Unknown,day_rate_filled_from_timesheets
+CR-00066,Sarah Chukwu,Camera Operator,154000.0,Freelance,True,Unknown,No issues
+CR-00067,Segun Mensah,Gaffer,122000.0,Freelance,False,segun@xtrimstudios.com,day_rate_filled_from_timesheets
+CR-00068,Elena Achebe,Drone Operator,210000.0,Freelance,True,elena@xtrimstudios.com,No issues
+CR-00069,Núria Mohammed,Gaffer,90000.0,Staff,True,núria@xtrimstudios.com,No issues
+CR-00070,Zainab Olawale,Camera Operator,160000.0,Freelance,True,zainab@xtrimstudios.com,No issues
+CR-00071,Chidinma Eze,Director of Photography,447000.0,Staff,False,chidinma@xtrimstudios.com,No issues
+CR-00072,Femi Mohammed,Sound Recordist,120000.0,Freelance,False,femi@xtrimstudios.com,No issues
+CR-00073,Emeka Danjuma,Drone Operator,184000.0,Freelance,True,emeka@xtrimstudios.com,day_rate_filled_from_timesheets
+CR-00074,Halima Danjuma,Camera Operator,174000.0,Staff,True,halima@xtrimstudios.com,No issues
+CR-00075,Zainab Olawale,Grip,81000.0,Freelance,True,zainab@xtrimstudios.com,No issues
+CR-00076,Wei Nwosu,Editor,212000.0,Staff,False,Unknown,No issues
+CR-00077,Tunde Ojo,Art Director,196000.0,Freelance,True,tunde@xtrimstudios.com,day_rate_filled_from_timesheets
+CR-00078,Renée Mohammed,Sound Recordist,127000.0,Staff,True,renée@xtrimstudios.com,No issues
+CR-00079,Olamide Nwosu,Sound Recordist,148000.0,Freelance,False,olamide@xtrimstudios.com,No issues
+CR-00080,André Ojo,Grip,54000.0,Freelance,True,andré@xtrimstudios.com,No issues
+CR-00081,Damilola Adeyemi,Colorist,184000.0,Staff,True,damilola@xtrimstudios.com,No issues
+CR-00082,Ahmed Osei,Grip,49000.0,Unknown,True,ahmed@xtrimstudios.com,No issues
+CR-00083,Renée Adebayo-Cole,Gaffer,120000.0,Freelance,True,renée@xtrimstudios.com,No issues
+CR-00084,Fatima Chen,Editor,165000.0,Freelance,True,fatima@xtrimstudios.com,No issues
+CR-00085,Grace Okafor,Gaffer,137000.0,Freelance,False,grace@xtrimstudios.com,No issues
+CR-00086,Sade Anyanwu,Director of Photography,199000.0,Freelance,False,Unknown,No issues
+CR-00087,Kelechi Osei,Director of Photography,243000.0,Freelance,False,kelechi@xtrimstudios.com,No issues
+CR-00088,Amaka García,Director of Photography,368000.0,Freelance,True,amaka@xtrimstudios.com,role_filled_from_timesheets
+CR-00089,André Ibrahim,Art Director,127000.0,Staff,True,Unknown,No issues
+CR-00090,Sade Farouk,Production Assistant,27000.0,Freelance,False,Unknown,No issues
+CR-00091,Femi Chen,Drone Operator,238000.0,Freelance,True,femi@xtrimstudios.com,No issues
+CR-00092,Yusuf Sowore,Drone Operator,141000.0,Staff,True,yusuf@xtrimstudios.com,No issues
+CR-00093,Elena Danjuma,Drone Operator,199000.0,Freelance,True,elena@xtrimstudios.com,No issues
+CR-00094,Halima Dlamini,Editor,174000.0,Freelance,True,halima@xtrimstudios.com,day_rate_filled_from_timesheets
+CR-00095,Emeka Chen,Colorist,281000.0,Freelance,True,emeka@xtrimstudios.com,No issues
+CR-00096,Ngozi Kim,Production Assistant,37000.0,Freelance,True,ngozi@xtrimstudios.com,No issues
+CR-00097,Damilola Abiola,Editor,108000.0,Freelance,True,damilola@xtrimstudios.com,day_rate_filled_from_timesheets
+CR-00098,Kofi Nwosu,Art Director,177000.0,Freelance,True,kofi@xtrimstudios.com,No issues
+CR-00099,Olamide Abiola,Grip,48000.0,Freelance,True,olamide@xtrimstudios.com,No issues
+CR-00100,Sade O'Brien,Camera Operator,124000.0,Freelance,True,sade@xtrimstudios.com,No issues
+CR-00101,Kofi Dlamini,Drone Operator,188000.0,Freelance,True,kofi@xtrimstudios.com,No issues
+CR-00102,Amaka Müller,Editor,210000.0,Staff,True,Unknown,No issues
+CR-00103,Femi Farouk,Sound Recordist,125000.0,Freelance,True,femi@xtrimstudios.com,No issues
+CR-00104,Thabo Müller,Art Director,117000.0,Freelance,True,thabo@xtrimstudios.com,day_rate_filled_from_timesheets
+CR-00105,Elena Bello,Gaffer,72000.0,Unknown,True,elena@xtrimstudios.com,No issues
+CR-00106,Obinna Osei,Editor,144000.0,Freelance,True,Unknown,No issues
+CR-00107,Uche Oyelaran,Editor,124000.0,Freelance,True,Unknown,role_filled_from_timesheets
+CR-00108,Zainab Adeyemi,Editor,154000.0,Unknown,True,zainab@xtrimstudios.com,No issues
+CR-00109,Thabo Müller,Sound Recordist,128000.0,Freelance,True,thabo@xtrimstudios.com,No issues
+CR-00110,Amaka Ibrahim,Camera Operator,120000.0,Freelance,True,Unknown,No issues
+CR-00111,Grace Balogun,Art Director,135000.0,Freelance,True,grace@xtrimstudios.com,No issues
+CR-00112,Segun O'Brien,Sound Recordist,87000.0,Freelance,True,segun@xtrimstudios.com,No issues
+CR-00113,Aisha Okafor,Gaffer,106000.0,Freelance,True,Unknown,No issues
+CR-00114,Daniel Dlamini,Colorist,195000.0,Unknown,False,daniel@xtrimstudios.com,No issues
+CR-00115,Musa Abiola,Editor,176000.0,Freelance,True,musa@xtrimstudios.com,No issues
+CR-00116,Priya O'Brien,Director of Photography,260000.0,Staff,True,priya@xtrimstudios.com,No issues
+CR-00117,Fatima Eze,Editor,132000.0,Freelance,False,fatima@xtrimstudios.com,No issues
+CR-00118,Uche Oyelaran,Drone Operator,146000.0,Unknown,True,Unknown,No issues
+CR-00119,Aisha Okafor,Art Director,119000.0,Freelance,True,aisha@xtrimstudios.com,No issues
+CR-00120,Elena Anyanwu,Gaffer,140000.0,Staff,True,elena@xtrimstudios.com,No issues
+CR-00121,Sarah Chukwu,Art Director,153000.0,Freelance,True,sarah@xtrimstudios.com,No issues
+CR-00122,Femi Abiola,Editor,219000.0,Freelance,True,femi@xtrimstudios.com,day_rate_filled_from_timesheets
+CR-00123,Halima Ibrahim,Sound Recordist,121000.0,Freelance,True,halima@xtrimstudios.com,No issues
+CR-00124,Kelechi Nwosu,Production Assistant,49000.0,Freelance,True,kelechi@xtrimstudios.com,No issues
+CR-00125,Fatima Achebe,Art Director,205000.0,Staff,True,fatima@xtrimstudios.com,No issues
+CR-00126,Temitope Kim,Colorist,167000.0,Freelance,True,temitope@xtrimstudios.com,No issues
+CR-00127,Priya Olawale,Sound Recordist,143000.0,Freelance,True,priya@xtrimstudios.com,No issues
+CR-00128,Priya Farouk,Director of Photography,286000.0,Freelance,False,priya@xtrimstudios.com,No issues
+CR-00129,Björn Ojo,Camera Operator,171000.0,Unknown,True,björn@xtrimstudios.com,No issues
+CR-00130,Aisha Bello,Grip,47000.0,Staff,False,aisha@xtrimstudios.com,No issues
+CR-00131,Emeka Chen,Director of Photography,295000.0,Freelance,False,Unknown,No issues
+CR-00132,Emeka Mensah,Director of Photography,220000.0,Unknown,True,emeka@xtrimstudios.com,No issues
+CR-00133,Sarah O'Brien,Director of Photography,355000.0,Staff,True,sarah@xtrimstudios.com,day_rate_filled_from_timesheets
+CR-00134,Kelechi Olawale,Director of Photography,339000.0,Freelance,False,kelechi@xtrimstudios.com,No issues
+CR-00135,Wei O'Brien,Director of Photography,443000.0,Unknown,True,wei@xtrimstudios.com,No issues
+CR-00136,Ngozi Smith,Camera Operator,153000.0,Staff,True,ngozi@xtrimstudios.com,No issues
+CR-00137,Grace Mensah,Drone Operator,235000.0,Freelance,True,grace@xtrimstudios.com,No issues
+CR-00138,Elena Danjuma,Gaffer,142000.0,Freelance,True,elena@xtrimstudios.com,No issues
+CR-00139,Fatima Anyanwu,Director of Photography,243000.0,Freelance,True,Unknown,No issues
+CR-00140,Tunde Nwosu,Colorist,234000.0,Staff,True,tunde@xtrimstudios.com,day_rate_filled_from_timesheets

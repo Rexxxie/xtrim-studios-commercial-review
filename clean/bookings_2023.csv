@@ -1,0 +1,959 @@
+booking_id,client_id,service_type,shoot_date,shoot_days,location_city,currency,gross_amount_ngn,discount_pct,net_amount_ngn,fx_converted,status,lead_source,notes,dq_flags
+BK-01001,XT-00583,Event Coverage,2023-01-02,1,Lagos,NGN,2542000.0,0.0,2542000.0,False,Completed,Referral,"See contract, clause 4b - travel, per diem",No issues
+BK-01002,XT-01093,Photoshoot,2023-01-04,1,Enugu,NGN,1152000.0,0.0,1152000.0,False,Invoiced,Unknown,Not applicable,No issues
+BK-01003,XT-00881,Corporate Documentary,2023-01-04,1,Accra,NGN,7726000.0,0.0,7726000.0,False,Completed,Unknown,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01004,XT-00116,Studio Rental,2023-01-05,1,Abuja,NGN,1386000.0,0.0,1386000.0,False,Postponed,Referral,"half payment received, balance pending",No issues
+BK-01005,XT-00927,Wedding Film,2023-01-05,5,Dubai,NGN,4546868.3,0.0,4546868.3,True,Completed,Instagram,Not applicable,location_city_taken_from_client
+BK-01006,XT-01457,Commercial / TVC,2023-01-08,Unknown,Lagos,NGN,20080000.0,0.0,20080000.0,False,Cancelled,Agency Partner,"Overtime: crew stayed till 2am, billed separately","shoot_days_missing,location_city_taken_from_client"
+BK-01007,XT-00463,Commercial / TVC,2023-01-08,1,Lagos,NGN,26978000.0,0.0,26978000.0,False,Completed,Walk-in,drone denied by airport authority,No issues
+BK-01008,XT-00923,Commercial / TVC,2023-01-08,1,Abuja,NGN,26238000.0,0.0,26238000.0,False,Completed,Google,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01009,XT-01237,Event Coverage,2023-01-08,2,Lagos,NGN,3963000.0,0.05,3764850.0,False,Completed,Walk-in,drone denied by airport authority,No issues
+BK-01010,XT-01572,Commercial / TVC,2023-01-12,1,Johannesburg,NGN,32598000.0,0.0,32598000.0,False,In Production,Agency Partner,Not applicable,No issues
+BK-01011,XT-01622,Studio Rental,2023-01-12,1,Kano,NGN,156000.0,0.05,148200.0,False,Completed,Referral,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01012,XT-01511,Wedding Film,2023-01-12,1,Atlanta,NGN,772350.95,0.0,772350.95,True,Postponed,TikTok,"See contract, clause 4b - travel, per diem",No issues
+BK-01013,XT-00049,Wedding Film,2023-01-17,1,Lagos,NGN,5453000.0,0.0,5453000.0,False,Completed,Google,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01014,XT-00771,Photoshoot,2023-01-18,1,Abuja,NGN,3231000.0,0.0,3231000.0,False,Cancelled,Referral,"See contract, clause 4b - travel, per diem",No issues
+BK-01015,XT-00920,Unknown,2023-01-24,1,Abuja,NGN,25056000.0,0.0,25056000.0,False,Postponed,Repeat Client,Not applicable,"location_city_taken_from_client,service_type_missing"
+BK-01016,XT-01111,Wedding Film,2023-01-26,2,Abuja,NGN,3550000.0,0.0,3550000.0,False,Invoiced,Unknown,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01017,XT-01655,Photoshoot,2023-01-26,1,Atlanta,NGN,247820.53,0.0,247820.53,True,Cancelled,Walk-in,"See contract, clause 4b - travel, per diem",No issues
+BK-01018,XT-00260,Studio Rental,2023-01-26,1,Lagos,NGN,1165000.0,0.0,1165000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01019,XT-00669,Commercial / TVC,2023-01-26,1,Atlanta,NGN,5563813.77,0.0,5563813.77,True,Completed,Referral,drone denied by airport authority,No issues
+BK-01020,XT-01086,Studio Rental,2023-01-29,1,Lagos,NGN,1250000.0,0.15,1062500.0,False,Completed,Referral,"half payment received, balance pending",No issues
+BK-01021,XT-01816,Wedding Film,2023-01-30,2,Abuja,NGN,8540000.0,0.0,8540000.0,False,Completed,Referral,"Client said ""make it cinematic, like Nolan""",location_city_taken_from_client
+BK-01022,XT-00203,Unknown,2023-01-30,2,Lagos,NGN,4842000.0,0.0,4842000.0,False,Completed,Instagram,"half payment received, balance pending",service_type_missing
+BK-01023,XT-01778,Event Coverage,2023-01-31,1,Port Harcourt,NGN,2095000.0,0.0,2095000.0,False,Completed,Walk-in,location permit paid by client,No issues
+BK-01024,XT-00598,Corporate Documentary,2023-02-02,1,Dubai,NGN,3293475.3,0.0,3293475.3,True,Invoiced,Repeat Client,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01025,XT-00866,Wedding Film,2023-02-02,2,Lagos,NGN,2882000.0,0.0,2882000.0,False,Completed,Referral,Not applicable,No issues
+BK-01026,XT-00379,Corporate Documentary,2023-02-03,1,Lagos,NGN,14251000.0,0.0,14251000.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01027,XT-01183,Wedding Film,2023-02-04,1,Lagos,NGN,5319000.0,0.0,5319000.0,False,Cancelled,Agency Partner,Not applicable,No issues
+BK-01028,XT-00980,Unknown,2023-02-04,1,Lagos,NGN,407000.0,0.0,407000.0,False,Postponed,TikTok,Not applicable,service_type_missing
+BK-01029,XT-01214,Studio Rental,2023-02-04,1,Lagos,NGN,825000.0,0.0,825000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01030,XT-00250,Commercial / TVC,2023-02-04,1,Accra,NGN,6830000.0,0.0,6830000.0,False,Completed,Repeat Client,drone denied by airport authority,No issues
+BK-01031,XT-01203,Wedding Film,2023-02-05,1,Lagos,NGN,3355000.0,0.0,3355000.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01032,XT-01617,Music Video,2023-02-06,3,Lagos,NGN,10037000.0,0.0,10037000.0,False,Postponed,Referral,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01033,XT-01788,Corporate Documentary,2023-02-07,2,Abuja,NGN,13725000.0,0.0,13725000.0,False,Postponed,Referral,client rescheduled once,No issues
+BK-01034,XT-01381,Music Video,2023-02-07,1,Lagos,NGN,11186000.0,0.0,11186000.0,False,Completed,Referral,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01035,XT-00098,Corporate Documentary,2023-02-07,2,Abuja,NGN,7585000.0,0.0,7585000.0,False,In Production,Google,location permit paid by client,No issues
+BK-01036,XT-00650,Wedding Film,2023-02-09,1,Lagos,NGN,6202000.0,0.1,5581800.0,False,Cancelled,Instagram,"half payment received, balance pending",No issues
+BK-01037,XT-01580,Corporate Documentary,2023-02-09,1,Enugu,NGN,10077000.0,0.0,10077000.0,False,Invoiced,Referral,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01038,XT-01537,Studio Rental,2023-02-09,1,Abuja,NGN,169000.0,0.0,169000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01039,XT-00215,Commercial / TVC,2023-02-10,1,Abuja,NGN,45968000.0,0.0,45968000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01040,XT-00390,Wedding Film,2023-02-11,1,Port Harcourt,NGN,6155000.0,0.0,6155000.0,False,Cancelled,Unknown,drone denied by airport authority,No issues
+BK-01041,XT-01139,Event Coverage,2023-02-11,1,London,NGN,1231488.63,0.0,1231488.63,True,Completed,Instagram,"Client said ""make it cinematic, like Nolan""",fx_rate_carried_from_earlier_day
+BK-01042,XT-00103,Commercial / TVC,2023-02-11,1,Enugu,NGN,14098000.0,0.0,14098000.0,False,Cancelled,Instagram,"See contract, clause 4b - travel, per diem",No issues
+BK-01043,XT-01051,Wedding Film,2023-02-14,2,Atlanta,NGN,2388338.17,0.0,2388338.17,True,Cancelled,Repeat Client,Not applicable,No issues
+BK-01044,XT-01273,Commercial / TVC,2023-02-14,2,Atlanta,NGN,4707592.18,0.0,4707592.18,True,Completed,Instagram,"Client said ""make it cinematic, like Nolan""",location_city_taken_from_client
+BK-01045,XT-00189,Photoshoot,2023-02-15,3,Lagos,NGN,2389000.0,0.0,2389000.0,False,Postponed,Instagram,Not applicable,location_city_taken_from_client
+BK-01046,XT-01240,Music Video,2023-02-16,1,Lagos,NGN,3597000.0,0.0,3597000.0,False,Invoiced,Repeat Client,location permit paid by client,No issues
+BK-01047,XT-01267,Photoshoot,2023-02-17,1,Lagos,NGN,3040000.0,0.0,3040000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01048,XT-01814,Event Coverage,2023-02-19,1,Lagos,NGN,1350000.0,0.0,1350000.0,False,Completed,Referral,client rescheduled once,No issues
+BK-01049,XT-00032,Music Video,2023-02-19,1,Johannesburg,NGN,5189000.0,0.0,5189000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01050,XT-01663,Studio Rental,2023-02-19,1,Lagos,NGN,895000.0,0.0,895000.0,False,Completed,Agency Partner,"half payment received, balance pending",No issues
+BK-01051,XT-01579,Wedding Film,2023-02-20,1,Dubai,NGN,2177646.65,0.0,2177646.65,True,Completed,Agency Partner,Not applicable,No issues
+BK-01052,XT-00419,Photoshoot,2023-02-22,1,Lagos,NGN,1486000.0,0.0,1486000.0,False,Completed,Agency Partner,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01053,XT-00234,Commercial / TVC,2023-02-22,3,Abuja,NGN,46004000.0,0.0,46004000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01054,XT-01213,Studio Rental,2023-02-24,1,Abuja,NGN,864000.0,0.0,864000.0,False,Cancelled,Unknown,Not applicable,No issues
+BK-01055,XT-00870,Unknown,2023-02-25,1,Lagos,NGN,1391000.0,0.0,1391000.0,False,Completed,Google,Not applicable,service_type_missing
+BK-01056,XT-00098,Photoshoot,2023-02-26,2,Abuja,NGN,2986000.0,0.0,2986000.0,False,Completed,Repeat Client,drone denied by airport authority,No issues
+BK-01057,XT-00244,Music Video,2023-02-26,2,Enugu,NGN,4502000.0,0.0,4502000.0,False,Invoiced,Repeat Client,Not applicable,currency_inferred_from_client_other_bookings
+BK-01058,XT-00289,Wedding Film,2023-02-26,1,Ibadan,NGN,5177000.0,0.0,5177000.0,False,Completed,Instagram,"half payment received, balance pending",No issues
+BK-01059,XT-01879,Music Video,2023-02-26,1,Lagos,NGN,17446000.0,0.0,17446000.0,False,Postponed,Referral,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01060,XT-01251,Event Coverage,2023-02-27,1,Ibadan,NGN,1512000.0,0.0,1512000.0,False,Cancelled,Referral,drone denied by airport authority,No issues
+BK-01061,XT-01323,Event Coverage,2023-02-27,1,Abuja,NGN,883000.0,0.0,883000.0,False,Completed,TikTok,drone denied by airport authority,No issues
+BK-01062,XT-00968,Wedding Film,2023-02-27,3,Port Harcourt,NGN,4630000.0,0.0,4630000.0,False,Completed,Agency Partner,"See contract, clause 4b - travel, per diem",location_city_taken_from_client
+BK-01063,XT-01252,Event Coverage,2023-02-27,1,Lagos,NGN,3131000.0,0.0,3131000.0,False,Completed,Agency Partner,"half payment received, balance pending",No issues
+BK-01064,XT-00372,Studio Rental,2023-03-01,2,Lagos,NGN,287000.0,0.0,287000.0,False,Invoiced,Instagram,drone denied by airport authority,No issues
+BK-01065,XT-00098,Studio Rental,2023-03-01,1,Abuja,NGN,977000.0,0.0,977000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01066,XT-01526,Photoshoot,2023-03-01,1,Enugu,NGN,2800000.0,0.0,2800000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01067,XT-00998,Short Film,2023-03-02,1,Port Harcourt,NGN,17827000.0,0.0,17827000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01068,XT-00997,Photoshoot,2023-03-02,1,Dubai,NGN,958971.23,0.0,958971.23,True,Unknown,Unknown,Not applicable,status_missing
+BK-01069,XT-00114,Music Video,2023-03-02,1,Abuja,NGN,3990000.0,0.0,3990000.0,False,Completed,Google,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01070,XT-01854,Photoshoot,2023-03-02,4,Lagos,NGN,5634000.0,0.0,5634000.0,False,Completed,TikTok,"Client said ""make it cinematic, like Nolan""",shoot_days_counted_from_timesheets
+BK-01071,XT-01400,Wedding Film,2023-03-03,1,Lagos,NGN,4077000.0,0.0,4077000.0,False,Postponed,TikTok,Not applicable,No issues
+BK-01072,XT-00727,Event Coverage,2023-03-03,1,Lagos,NGN,1242000.0,0.05,1179900.0,False,Completed,Google,location permit paid by client,No issues
+BK-01073,XT-00584,Photoshoot,2023-03-03,1,Enugu,NGN,1887000.0,0.0,1887000.0,False,Completed,Google,"half payment received, balance pending",No issues
+BK-01074,XT-01080,Corporate Documentary,2023-03-04,3,Lagos,NGN,19140000.0,0.0,19140000.0,False,Postponed,TikTok,Not applicable,No issues
+BK-01075,XT-00370,Wedding Film,2023-03-06,1,Port Harcourt,NGN,2757000.0,0.0,2757000.0,False,In Production,Walk-in,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01076,XT-00661,Event Coverage,2023-03-07,1,Ibadan,NGN,3303000.0,0.0,3303000.0,False,Completed,Agency Partner,"half payment received, balance pending",No issues
+BK-01077,XT-01806,Music Video,2023-03-09,2,Port Harcourt,NGN,12390000.0,0.0,12390000.0,False,Postponed,Referral,"half payment received, balance pending",No issues
+BK-01078,XT-00020,Commercial / TVC,2023-03-09,1,Abuja,NGN,12130000.0,0.0,12130000.0,False,Completed,TikTok,drone denied by airport authority,No issues
+BK-01079,XT-01853,Wedding Film,2023-03-10,1,Lagos,NGN,5987000.0,0.0,5987000.0,False,Postponed,Repeat Client,location permit paid by client,location_city_taken_from_client
+BK-01080,XT-00647,Wedding Film,2023-03-10,1,Ibadan,NGN,2685000.0,0.0,2685000.0,False,Invoiced,Unknown,Not applicable,No issues
+BK-01081,XT-01647,Photoshoot,2023-03-11,2,Atlanta,NGN,1363847.6,0.0,1363847.6,True,Unknown,Instagram,"Client said ""make it cinematic, like Nolan""","fx_rate_carried_from_earlier_day,status_missing"
+BK-01082,XT-00736,Event Coverage,2023-03-12,1,Johannesburg,NGN,3538000.0,0.0,3538000.0,False,Invoiced,Referral,Not applicable,No issues
+BK-01083,XT-00322,Commercial / TVC,2023-03-12,2,Lagos,NGN,8435000.0,0.0,8435000.0,False,Cancelled,Walk-in,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01084,XT-00075,Photoshoot,2023-03-12,1,Lagos,NGN,3223000.0,0.0,3223000.0,False,Completed,Instagram,"half payment received, balance pending",No issues
+BK-01085,XT-01615,Event Coverage,2023-03-13,1,London,NGN,560448.02,0.0,560448.02,True,Completed,Referral,Not applicable,No issues
+BK-01086,XT-01699,Wedding Film,2023-03-14,1,Lagos,NGN,2252000.0,0.0,2252000.0,False,Invoiced,Walk-in,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01087,XT-00215,Photoshoot,2023-03-15,1,Abuja,NGN,824000.0,0.0,824000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01088,XT-00803,Commercial / TVC,2023-03-15,2,London,NGN,4009038.71,0.0,4009038.71,True,Completed,Referral,client rescheduled once,No issues
+BK-01089,XT-00105,Commercial / TVC,2023-03-16,1,Abuja,NGN,37866000.0,0.0,37866000.0,False,Completed,Referral,Not applicable,No issues
+BK-01090,XT-00306,Event Coverage,2023-03-17,1,Port Harcourt,NGN,2056000.0,0.0,2056000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01091,XT-01774,Unknown,2023-03-17,1,Abuja,NGN,6405000.0,0.0,6405000.0,False,Completed,Unknown,drone denied by airport authority,"shoot_days_counted_from_timesheets,service_type_missing"
+BK-01092,XT-00147,Wedding Film,2023-03-18,2,Kano,NGN,7584000.0,0.0,7584000.0,False,Completed,Walk-in,client rescheduled once,No issues
+BK-01093,XT-01014,Event Coverage,2023-03-18,1,Accra,NGN,3817000.0,0.0,3817000.0,False,Postponed,Referral,client rescheduled once,No issues
+BK-01094,XT-01734,Unknown,2023-03-18,1,Lagos,NGN,4791000.0,0.0,4791000.0,False,Invoiced,Agency Partner,Not applicable,service_type_missing
+BK-01095,XT-01181,Studio Rental,2023-03-20,1,Port Harcourt,NGN,592000.0,0.0,592000.0,False,Completed,Referral,Not applicable,No issues
+BK-01096,XT-00218,Photoshoot,2023-03-21,1,Lagos,NGN,782000.0,0.0,782000.0,False,In Production,Google,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01097,XT-01012,Wedding Film,2023-03-21,1,Lagos,NGN,6345000.0,0.0,6345000.0,False,In Production,Repeat Client,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01098,XT-00152,Commercial / TVC,2023-03-22,1,Lagos,NGN,13237000.0,0.0,13237000.0,False,Postponed,Walk-in,drone denied by airport authority,No issues
+BK-01099,XT-01451,Wedding Film,2023-03-22,1,Lagos,NGN,2242000.0,0.0,2242000.0,False,In Production,TikTok,client rescheduled once,No issues
+BK-01100,XT-01683,Commercial / TVC,2023-03-24,1,Lagos,NGN,7075000.0,0.0,7075000.0,False,Invoiced,Instagram,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01101,XT-01012,Wedding Film,2023-03-25,2,Lagos,NGN,3944000.0,0.0,3944000.0,False,Completed,Instagram,"half payment received, balance pending",No issues
+BK-01102,XT-00300,Wedding Film,2023-03-25,1,Accra,NGN,2790000.0,0.0,2790000.0,False,Invoiced,TikTok,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01103,XT-01521,Wedding Film,2023-03-25,1,Lagos,NGN,2899000.0,0.05,2754050.0,False,Completed,Repeat Client,Not applicable,shoot_days_counted_from_timesheets
+BK-01104,XT-01009,Event Coverage,2023-03-25,1,Port Harcourt,NGN,3860000.0,0.0,3860000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01105,XT-00650,Unknown,2023-03-25,2,Lagos,NGN,3485000.0,0.0,3485000.0,False,In Production,Repeat Client,Not applicable,service_type_missing
+BK-01106,XT-00915,Unknown,2023-03-25,1,Accra,NGN,2419000.0,0.0,2419000.0,False,Completed,Unknown,location permit paid by client,service_type_missing
+BK-01107,XT-00248,Photoshoot,2023-03-25,2,Lagos,NGN,2405000.0,0.0,2405000.0,False,Completed,Google,location permit paid by client,No issues
+BK-01108,XT-01629,Corporate Documentary,2023-03-25,1,London,NGN,1045116.82,0.0,1045116.82,True,Invoiced,TikTok,"half payment received, balance pending",fx_rate_carried_from_earlier_day
+BK-01109,XT-00376,Wedding Film,2023-03-25,1,Nairobi,NGN,3080000.0,0.0,3080000.0,False,Completed,Repeat Client,client rescheduled once,No issues
+BK-01110,XT-00440,Studio Rental,2023-03-26,1,Abuja,NGN,1195000.0,0.0,1195000.0,False,Completed,Agency Partner,client rescheduled once,No issues
+BK-01111,XT-01061,Short Film,2023-03-26,1,Abuja,NGN,9109000.0,0.0,9109000.0,False,Completed,Google,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01112,XT-01699,Wedding Film,2023-03-26,1,Lagos,NGN,5580000.0,0.0,5580000.0,False,Unknown,TikTok,client rescheduled once,"location_city_taken_from_client,status_missing"
+BK-01113,XT-01664,Music Video,2023-03-26,1,Enugu,NGN,6190000.0,0.0,6190000.0,False,Completed,Instagram,client rescheduled once,No issues
+BK-01114,XT-01493,Commercial / TVC,2023-03-27,1,Port Harcourt,NGN,32372000.0,0.0,32372000.0,False,Completed,Unknown,"See contract, clause 4b - travel, per diem",No issues
+BK-01115,XT-00911,Wedding Film,2023-03-29,1,Nairobi,NGN,2341000.0,0.0,2341000.0,False,Completed,Instagram,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01116,XT-00845,Unknown,2023-03-29,1,Abuja,NGN,16672000.0,0.05,15838400.0,False,Completed,Agency Partner,"half payment received, balance pending",service_type_missing
+BK-01117,XT-00323,Studio Rental,2023-03-30,1,Ibadan,NGN,1293000.0,0.0,1293000.0,False,Postponed,Agency Partner,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01118,XT-01759,Event Coverage,2023-03-31,2,Lagos,NGN,2856000.0,0.0,2856000.0,False,In Production,Unknown,drone denied by airport authority,No issues
+BK-01119,XT-01334,Studio Rental,2023-03-31,1,Lagos,NGN,653000.0,0.0,653000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01120,XT-01474,Photoshoot,2023-03-31,1,Port Harcourt,NGN,1766000.0,0.0,1766000.0,False,Unknown,Unknown,Not applicable,status_missing
+BK-01121,XT-00765,Photoshoot,2023-04-01,1,Lagos,NGN,3343000.0,0.0,3343000.0,False,Completed,Instagram,location permit paid by client,No issues
+BK-01122,XT-00825,Music Video,2023-04-01,1,Lagos,NGN,10109000.0,0.0,10109000.0,False,Cancelled,Walk-in,Not applicable,No issues
+BK-01123,XT-00521,Music Video,2023-04-01,1,Kano,NGN,8757000.0,0.0,8757000.0,False,In Production,Instagram,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01124,XT-01536,Corporate Documentary,2023-04-01,1,Ibadan,NGN,14080000.0,0.05,13376000.0,False,Cancelled,Walk-in,Not applicable,No issues
+BK-01125,XT-00872,Event Coverage,2023-04-02,1,Abuja,NGN,3536000.0,0.0,3536000.0,False,Completed,Walk-in,"See contract, clause 4b - travel, per diem",No issues
+BK-01126,XT-00011,Photoshoot,2023-04-02,Unknown,Enugu,NGN,1406000.0,0.0,1406000.0,False,Cancelled,Referral,Not applicable,shoot_days_missing
+BK-01127,XT-00502,Wedding Film,2023-04-02,4,Lagos,NGN,10390000.0,0.0,10390000.0,False,Invoiced,Repeat Client,Not applicable,No issues
+BK-01128,XT-01717,Corporate Documentary,2023-04-02,1,Lagos,NGN,12317000.0,0.0,12317000.0,False,Completed,Instagram,Not applicable,location_city_taken_from_client
+BK-01129,XT-01875,Music Video,2023-04-02,2,Lagos,NGN,24682000.0,0.0,24682000.0,False,Completed,Google,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01130,XT-01334,Wedding Film,2023-04-02,3,Lagos,NGN,7190000.0,0.0,7190000.0,False,In Production,Unknown,Not applicable,No issues
+BK-01131,XT-01341,Commercial / TVC,2023-04-02,1,Accra,NGN,44872000.0,0.0,44872000.0,False,Unknown,Unknown,Not applicable,status_missing
+BK-01132,XT-01006,Wedding Film,2023-04-02,1,Lagos,NGN,3756000.0,0.0,3756000.0,False,Completed,TikTok,location permit paid by client,location_city_taken_from_client
+BK-01133,XT-00910,Photoshoot,2023-04-03,1,London,NGN,1083746.39,0.0,1083746.39,True,Postponed,Walk-in,drone denied by airport authority,No issues
+BK-01134,XT-00918,Studio Rental,2023-04-03,1,Abuja,NGN,1221000.0,0.0,1221000.0,False,Completed,Repeat Client,location permit paid by client,No issues
+BK-01135,XT-01735,Unknown,2023-04-03,1,Lagos,NGN,1355000.0,0.0,1355000.0,False,Completed,Unknown,Not applicable,service_type_missing
+BK-01136,XT-00549,Unknown,2023-04-03,2,Atlanta,NGN,608180.4,0.0,608180.4,True,Completed,Walk-in,client rescheduled once,service_type_missing
+BK-01137,XT-00158,Photoshoot,2023-04-04,4,Accra,NGN,3659000.0,0.0,3659000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01138,XT-00892,Commercial / TVC,2023-04-04,1,Lagos,NGN,28063000.0,0.0,28063000.0,False,Completed,Walk-in,"half payment received, balance pending",No issues
+BK-01139,XT-01072,Music Video,2023-04-04,4,Lagos,NGN,33884000.0,0.0,33884000.0,False,Completed,Referral,"Client said ""make it cinematic, like Nolan""",shoot_days_counted_from_timesheets
+BK-01140,XT-01378,Event Coverage,2023-04-05,1,Lagos,NGN,2292000.0,0.05,2177400.0,False,Completed,Google,"See contract, clause 4b - travel, per diem",No issues
+BK-01141,XT-00349,Unknown,2023-04-05,1,Ibadan,NGN,2560000.0,0.0,2560000.0,False,Cancelled,Agency Partner,"Overtime: crew stayed till 2am, billed separately",service_type_missing
+BK-01142,XT-01230,Corporate Documentary,2023-04-05,1,Lagos,NGN,4341000.0,0.0,4341000.0,False,Cancelled,Repeat Client,drone denied by airport authority,No issues
+BK-01143,XT-00696,Wedding Film,2023-04-06,1,Lagos,NGN,1935000.0,0.1,1741500.0,False,In Production,Agency Partner,"See contract, clause 4b - travel, per diem",No issues
+BK-01144,XT-01025,Wedding Film,2023-04-06,3,Lagos,NGN,6280000.0,0.0,6280000.0,False,Completed,Instagram,"See contract, clause 4b - travel, per diem",No issues
+BK-01145,XT-01258,Photoshoot,2023-04-06,1,Abuja,NGN,3123000.0,0.0,3123000.0,False,Cancelled,Unknown,client rescheduled once,No issues
+BK-01146,XT-00952,Music Video,2023-04-07,2,Dubai,NGN,3914866.4,0.0,3914866.4,True,Completed,Google,Not applicable,fx_rate_carried_from_earlier_day
+BK-01147,XT-00605,Corporate Documentary,2023-04-07,2,Enugu,NGN,19060000.0,0.1,17154000.0,False,Completed,Instagram,Not applicable,location_city_taken_from_client
+BK-01148,XT-01573,Event Coverage,2023-04-07,3,Port Harcourt,NGN,6638000.0,0.0,6638000.0,False,Invoiced,Instagram,"half payment received, balance pending",location_city_taken_from_client
+BK-01149,XT-01039,Event Coverage,2023-04-08,1,Nairobi,NGN,3109000.0,0.1,2798100.0,False,Completed,Google,Not applicable,No issues
+BK-01150,XT-00062,Unknown,2023-04-08,1,Lagos,NGN,1104000.0,0.0,1104000.0,False,In Production,Referral,"Overtime: crew stayed till 2am, billed separately",service_type_missing
+BK-01151,XT-01641,Unknown,2023-04-08,1,Abuja,NGN,1298000.0,0.0,1298000.0,False,Completed,TikTok,RAW files delivered on 2 x 1TB SSD,service_type_missing
+BK-01152,XT-00940,Music Video,2023-04-08,1,Abuja,NGN,14227000.0,0.0,14227000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01153,XT-00725,Wedding Film,2023-04-08,Unknown,Lagos,NGN,10192000.0,0.0,10192000.0,False,Cancelled,Google,Not applicable,shoot_days_missing
+BK-01154,XT-00503,Music Video,2023-04-08,1,Lagos,NGN,17289000.0,0.0,17289000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01155,XT-00765,Music Video,2023-04-09,1,Lagos,NGN,15685000.0,0.0,15685000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01156,XT-01498,Photoshoot,2023-04-09,1,Lagos,NGN,2618000.0,0.0,2618000.0,False,In Production,TikTok,"half payment received, balance pending",No issues
+BK-01157,XT-01243,Wedding Film,2023-04-09,2,Lagos,NGN,7815000.0,0.0,7815000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01158,XT-01645,Unknown,2023-04-09,1,Abuja,NGN,3344000.0,0.0,3344000.0,False,Completed,Instagram,location permit paid by client,service_type_missing
+BK-01159,XT-00482,Wedding Film,2023-04-09,1,Lagos,NGN,4992000.0,0.0,4992000.0,False,Cancelled,Instagram,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01160,XT-01490,Wedding Film,2023-04-09,1,Enugu,NGN,6023000.0,0.0,6023000.0,False,Cancelled,TikTok,"See contract, clause 4b - travel, per diem",No issues
+BK-01161,XT-01747,Commercial / TVC,2023-04-10,5,Lagos,NGN,89520000.0,0.0,89520000.0,False,Completed,Referral,"Client said ""make it cinematic, like Nolan""",shoot_days_counted_from_timesheets
+BK-01162,XT-01005,Event Coverage,2023-04-12,1,Unknown,NGN,1031955.0,0.0,1031955.0,True,Completed,Instagram,"half payment received, balance pending",No issues
+BK-01163,XT-01136,Commercial / TVC,2023-04-12,1,Lagos,NGN,34366000.0,0.0,34366000.0,False,Invoiced,Unknown,Not applicable,No issues
+BK-01164,XT-00981,Event Coverage,2023-04-12,1,Port Harcourt,NGN,2734000.0,0.0,2734000.0,False,Completed,Google,Not applicable,No issues
+BK-01165,XT-01660,Wedding Film,2023-04-13,3,Lagos,NGN,10516000.0,0.0,10516000.0,False,Invoiced,Repeat Client,Not applicable,No issues
+BK-01166,XT-01359,Music Video,2023-04-13,1,Abuja,NGN,2784000.0,0.0,2784000.0,False,Completed,Repeat Client,location permit paid by client,No issues
+BK-01167,XT-00273,Corporate Documentary,2023-04-13,2,Port Harcourt,NGN,15439000.0,0.0,15439000.0,False,In Production,Google,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01168,XT-01215,Studio Rental,2023-04-14,1,London,NGN,214543.4,0.1,193089.06,True,Completed,Google,location permit paid by client,No issues
+BK-01169,XT-00651,Photoshoot,2023-04-14,1,Abuja,NGN,1400000.0,0.0,1400000.0,False,Completed,Instagram,client rescheduled once,No issues
+BK-01170,XT-01627,Event Coverage,2023-04-14,2,Lagos,NGN,3525000.0,0.0,3525000.0,False,Completed,Instagram,client rescheduled once,No issues
+BK-01171,XT-01526,Commercial / TVC,2023-04-15,3,Enugu,NGN,77369000.0,0.0,77369000.0,False,Invoiced,Unknown,Not applicable,No issues
+BK-01172,XT-00954,Studio Rental,2023-04-15,5,Accra,NGN,3031000.0,0.0,3031000.0,False,Completed,Repeat Client,client rescheduled once,No issues
+BK-01173,XT-00832,Music Video,2023-04-15,1,Abuja,NGN,10818000.0,0.0,10818000.0,False,Completed,Google,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01174,XT-00989,Music Video,2023-04-17,1,Lagos,NGN,3447000.0,0.1,3102300.0,False,Completed,TikTok,location permit paid by client,location_city_taken_from_client
+BK-01175,XT-01767,Photoshoot,2023-04-17,1,Enugu,NGN,913000.0,0.0,913000.0,False,Completed,TikTok,client rescheduled once,location_city_taken_from_client
+BK-01176,XT-01336,Unknown,2023-04-17,2,Lagos,NGN,11275000.0,0.0,11275000.0,False,Completed,Google,Not applicable,service_type_missing
+BK-01177,XT-01883,Event Coverage,2023-04-17,1,Enugu,NGN,2232000.0,0.0,2232000.0,False,Completed,TikTok,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01178,XT-01028,Event Coverage,2023-04-19,1,Dubai,NGN,806186.22,0.0,806186.22,True,Completed,Agency Partner,Not applicable,No issues
+BK-01179,XT-00098,Wedding Film,2023-04-19,3,Abuja,NGN,9802000.0,0.0,9802000.0,False,Completed,Repeat Client,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01180,XT-00188,Event Coverage,2023-04-19,1,Enugu,NGN,1800000.0,0.0,1800000.0,False,Completed,Instagram,"half payment received, balance pending",shoot_days_counted_from_timesheets
+BK-01181,XT-01183,Unknown,2023-04-20,1,Lagos,NGN,2750000.0,0.0,2750000.0,False,Completed,Google,Not applicable,service_type_missing
+BK-01182,XT-01097,Music Video,2023-04-20,1,Lagos,NGN,15070000.0,0.0,15070000.0,False,Cancelled,Google,"See contract, clause 4b - travel, per diem",location_city_taken_from_client
+BK-01183,XT-01330,Wedding Film,2023-04-21,2,Lagos,NGN,4042000.0,0.0,4042000.0,False,Completed,Unknown,Not applicable,shoot_days_counted_from_timesheets
+BK-01184,XT-01602,Wedding Film,2023-04-21,1,Abuja,NGN,2574000.0,0.0,2574000.0,False,Cancelled,Google,location permit paid by client,No issues
+BK-01185,XT-01381,Short Film,2023-04-21,1,Lagos,NGN,21414000.0,0.0,21414000.0,False,Completed,TikTok,location permit paid by client,location_city_taken_from_client
+BK-01186,XT-00513,Music Video,2023-04-21,1,Lagos,NGN,4366000.0,0.0,4366000.0,False,Completed,Unknown,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01187,XT-00700,Photoshoot,2023-04-22,1,Accra,NGN,1466000.0,0.0,1466000.0,False,Postponed,TikTok,drone denied by airport authority,No issues
+BK-01188,XT-00134,Event Coverage,2023-04-22,3,Accra,NGN,4163000.0,0.0,4163000.0,False,Completed,Referral,client rescheduled once,shoot_days_counted_from_timesheets
+BK-01189,XT-00846,Photoshoot,2023-04-22,1,Lagos,NGN,840000.0,0.0,840000.0,False,Completed,Agency Partner,client rescheduled once,No issues
+BK-01190,XT-00364,Short Film,2023-04-23,1,London,NGN,2351447.98,0.0,2351447.98,True,In Production,Repeat Client,"Overtime: crew stayed till 2am, billed separately",fx_rate_carried_from_earlier_day
+BK-01191,XT-00206,Wedding Film,2023-04-23,4,Johannesburg,NGN,6674000.0,0.0,6674000.0,False,Completed,Unknown,drone denied by airport authority,No issues
+BK-01192,XT-01002,Wedding Film,2023-04-23,2,Abuja,NGN,6317000.0,0.0,6317000.0,False,Postponed,Walk-in,Not applicable,No issues
+BK-01193,XT-00913,Unknown,2023-04-23,1,Lagos,NGN,11622000.0,0.0,11622000.0,False,Completed,Unknown,location permit paid by client,service_type_missing
+BK-01194,XT-01206,Wedding Film,2023-04-24,1,Kano,NGN,3040000.0,0.0,3040000.0,False,Postponed,Walk-in,Not applicable,No issues
+BK-01195,XT-01878,Studio Rental,2023-04-24,1,Johannesburg,NGN,284000.0,0.0,284000.0,False,Postponed,Referral,Not applicable,No issues
+BK-01196,XT-00331,Photoshoot,2023-04-25,1,Lagos,NGN,3142000.0,0.0,3142000.0,False,Postponed,Google,"half payment received, balance pending",No issues
+BK-01197,XT-01875,Music Video,2023-04-25,1,Lagos,NGN,6923000.0,0.0,6923000.0,False,Completed,Repeat Client,location permit paid by client,No issues
+BK-01198,XT-01570,Wedding Film,2023-04-26,1,Johannesburg,NGN,2255000.0,0.0,2255000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01199,XT-01541,Event Coverage,2023-04-26,1,Abuja,NGN,3154000.0,0.0,3154000.0,False,Completed,Referral,Not applicable,location_city_taken_from_client
+BK-01200,XT-00396,Corporate Documentary,2023-04-26,1,Lagos,NGN,9311000.0,0.0,9311000.0,False,Completed,TikTok,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01201,XT-00628,Event Coverage,2023-04-26,2,Kano,NGN,4836000.0,0.0,4836000.0,False,Cancelled,Walk-in,Not applicable,No issues
+BK-01202,XT-00744,Corporate Documentary,2023-04-27,1,Lagos,NGN,13038000.0,0.0,13038000.0,False,Cancelled,Instagram,Not applicable,No issues
+BK-01203,XT-01520,Music Video,2023-04-28,2,Accra,NGN,11149000.0,0.05,10591550.0,False,Completed,Agency Partner,"half payment received, balance pending",No issues
+BK-01204,XT-01028,Photoshoot,2023-04-28,2,Dubai,NGN,1170144.89,0.0,1170144.89,True,Completed,Referral,Not applicable,No issues
+BK-01205,XT-01123,Music Video,2023-04-28,1,Lagos,NGN,3848000.0,0.0,3848000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01206,XT-00838,Event Coverage,2023-04-28,1,Lagos,NGN,2772000.0,0.1,2494800.0,False,In Production,Instagram,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01207,XT-01107,Event Coverage,2023-04-29,2,Abuja,NGN,1640000.0,0.0,1640000.0,False,In Production,Agency Partner,location permit paid by client,No issues
+BK-01208,XT-00029,Event Coverage,2023-04-29,1,Lagos,NGN,4693000.0,0.0,4693000.0,False,Completed,Walk-in,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01209,XT-00644,Studio Rental,2023-04-29,1,Johannesburg,NGN,462000.0,0.0,462000.0,False,Postponed,Agency Partner,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01210,XT-00921,Music Video,2023-04-29,1,Lagos,NGN,17969000.0,0.05,17070550.0,False,Completed,Walk-in,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01211,XT-00258,Wedding Film,2023-04-29,1,Accra,NGN,6223000.0,0.0,6223000.0,False,In Production,Walk-in,location permit paid by client,No issues
+BK-01212,XT-00601,Music Video,2023-04-29,1,London,NGN,4200121.86,0.0,4200121.86,True,Invoiced,Google,"Overtime: crew stayed till 2am, billed separately","location_city_taken_from_client,fx_rate_carried_from_earlier_day"
+BK-01213,XT-00399,Event Coverage,2023-04-30,1,Abuja,NGN,4677000.0,0.0,4677000.0,False,Completed,Google,"See contract, clause 4b - travel, per diem",No issues
+BK-01214,XT-01076,Music Video,2023-04-30,1,Abuja,NGN,8237000.0,0.0,8237000.0,False,Completed,Unknown,drone denied by airport authority,No issues
+BK-01215,XT-00506,Studio Rental,2023-04-30,1,Abuja,NGN,416000.0,0.0,416000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01216,XT-01748,Commercial / TVC,2023-04-30,1,Lagos,NGN,32813000.0,0.0,32813000.0,False,Completed,Referral,"See contract, clause 4b - travel, per diem",location_city_taken_from_client
+BK-01217,XT-00378,Wedding Film,2023-05-01,1,Abuja,NGN,2826000.0,0.1,2543400.0,False,Completed,Unknown,Not applicable,No issues
+BK-01218,XT-00598,Corporate Documentary,2023-05-01,1,Dubai,NGN,3748619.22,0.0,3748619.22,True,Completed,Referral,drone denied by airport authority,No issues
+BK-01219,XT-01040,Event Coverage,2023-05-02,1,Lagos,NGN,3088000.0,0.0,3088000.0,False,Completed,TikTok,"half payment received, balance pending",No issues
+BK-01220,XT-01410,Photoshoot,2023-05-02,1,Dubai,NGN,644858.93,0.0,644858.93,True,In Production,Walk-in,"See contract, clause 4b - travel, per diem","location_city_taken_from_client,fx_rate_carried_from_earlier_day"
+BK-01221,XT-00970,Music Video,2023-05-03,2,Abuja,NGN,11512000.0,0.15,9785200.0,False,Completed,Walk-in,client rescheduled once,location_city_taken_from_client
+BK-01222,XT-00455,Studio Rental,2023-05-04,1,Kano,NGN,1070000.0,0.0,1070000.0,False,Postponed,Unknown,Not applicable,No issues
+BK-01223,XT-00892,Music Video,2023-05-04,1,Lagos,NGN,8346000.0,0.0,8346000.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01224,XT-00500,Music Video,2023-05-04,2,Johannesburg,NGN,14614000.0,0.0,14614000.0,False,Invoiced,Referral,Not applicable,shoot_days_counted_from_timesheets
+BK-01225,XT-00642,Wedding Film,2023-05-05,1,London,NGN,1458684.38,0.0,1458684.38,True,Completed,Instagram,client rescheduled once,No issues
+BK-01226,XT-00676,Event Coverage,2023-05-05,1,Enugu,NGN,1229000.0,0.0,1229000.0,False,In Production,Unknown,drone denied by airport authority,No issues
+BK-01227,XT-01071,Studio Rental,2023-05-05,1,Ibadan,NGN,1267000.0,0.0,1267000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01228,XT-01580,Photoshoot,2023-05-06,1,Enugu,NGN,2725000.0,0.0,2725000.0,False,Postponed,TikTok,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01229,XT-00030,Studio Rental,2023-05-06,2,Abuja,NGN,771000.0,0.0,771000.0,False,Completed,Google,client rescheduled once,No issues
+BK-01230,XT-00343,Corporate Documentary,2023-05-06,1,Lagos,NGN,9660000.0,0.0,9660000.0,False,Completed,Unknown,Not applicable,shoot_days_counted_from_timesheets
+BK-01231,XT-01164,Commercial / TVC,2023-05-07,1,London,NGN,15474738.64,0.0,15474738.64,True,Postponed,Agency Partner,drone denied by airport authority,fx_rate_carried_from_earlier_day
+BK-01232,XT-00334,Event Coverage,2023-05-08,1,Lagos,NGN,889000.0,0.0,889000.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01233,XT-00088,Music Video,2023-05-10,1,Atlanta,NGN,5568281.07,0.0,5568281.07,True,Completed,Referral,RAW files delivered on 2 x 1TB SSD,fx_rate_carried_from_earlier_day
+BK-01234,XT-00781,Music Video,2023-05-10,1,Abuja,NGN,6669000.0,0.0,6669000.0,False,Completed,Google,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01235,XT-00410,Music Video,2023-05-10,1,Lagos,NGN,12092000.0,0.0,12092000.0,False,Invoiced,Agency Partner,location permit paid by client,No issues
+BK-01236,XT-01334,Corporate Documentary,2023-05-10,2,Lagos,NGN,14177000.0,0.0,14177000.0,False,Completed,Referral,location permit paid by client,No issues
+BK-01237,XT-01323,Wedding Film,2023-05-11,1,Abuja,NGN,2303000.0,0.0,2303000.0,False,In Production,Agency Partner,"See contract, clause 4b - travel, per diem",No issues
+BK-01238,XT-00088,Photoshoot,2023-05-13,2,Atlanta,NGN,1703860.73,0.0,1703860.73,True,Postponed,Agency Partner,Not applicable,fx_rate_carried_from_earlier_day
+BK-01239,XT-00413,Wedding Film,2023-05-13,3,Lagos,NGN,10744000.0,0.05,10206800.0,False,Completed,Google,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01240,XT-01550,Photoshoot,2023-05-13,2,Atlanta,NGN,607670.61,0.0,607670.61,True,Completed,Unknown,client rescheduled once,"shoot_days_counted_from_timesheets,fx_rate_carried_from_earlier_day"
+BK-01241,XT-00781,Studio Rental,2023-05-14,1,Abuja,NGN,1149000.0,0.0,1149000.0,False,Completed,Google,Not applicable,No issues
+BK-01242,XT-00037,Music Video,2023-05-15,2,Port Harcourt,NGN,16864000.0,0.0,16864000.0,False,In Production,Instagram,Not applicable,No issues
+BK-01243,XT-01678,Photoshoot,2023-05-16,1,London,NGN,1140720.0,0.1,1026648.0,True,Completed,Repeat Client,Not applicable,No issues
+BK-01244,XT-00683,Music Video,2023-05-16,1,Enugu,NGN,14407000.0,0.0,14407000.0,False,Completed,Google,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01245,XT-00925,Commercial / TVC,2023-05-17,1,Lagos,NGN,11144000.0,0.05,10586800.0,False,Completed,Repeat Client,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01246,XT-00336,Photoshoot,2023-05-18,2,Enugu,NGN,952000.0,0.0,952000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01247,XT-01897,Music Video,2023-05-18,1,Lagos,NGN,9831000.0,0.05,9339450.0,False,In Production,Instagram,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01248,XT-01109,Music Video,2023-05-18,1,Abuja,NGN,13950000.0,0.0,13950000.0,False,Completed,Repeat Client,location permit paid by client,No issues
+BK-01249,XT-01047,Event Coverage,2023-05-18,1,Lagos,NGN,3206000.0,0.0,3206000.0,False,Postponed,Agency Partner,Not applicable,No issues
+BK-01250,XT-01483,Commercial / TVC,2023-05-19,1,Lagos,NGN,33300000.0,0.0,33300000.0,False,In Production,Referral,drone denied by airport authority,No issues
+BK-01251,XT-01196,Music Video,2023-05-19,1,Port Harcourt,NGN,18083000.0,0.0,18083000.0,False,Cancelled,Referral,Not applicable,No issues
+BK-01252,XT-01813,Studio Rental,2023-05-20,1,Lagos,NGN,1300000.0,0.0,1300000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01253,XT-01584,Photoshoot,2023-05-20,1,London,NGN,526288.0,0.0,526288.0,True,Unknown,Walk-in,"Overtime: crew stayed till 2am, billed separately","fx_rate_carried_from_earlier_day,status_missing"
+BK-01254,XT-01690,Music Video,2023-05-20,1,London,NGN,5065522.0,0.0,5065522.0,True,Completed,TikTok,"half payment received, balance pending",fx_rate_carried_from_earlier_day
+BK-01255,XT-00129,Wedding Film,2023-05-20,2,Nairobi,NGN,4017000.0,0.0,4017000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01256,XT-00839,Photoshoot,2023-05-21,Unknown,Lagos,NGN,1275000.0,0.0,1275000.0,False,Cancelled,Walk-in,"Client said ""make it cinematic, like Nolan""",shoot_days_missing
+BK-01257,XT-00765,Wedding Film,2023-05-21,1,Lagos,NGN,4503000.0,0.0,4503000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01258,XT-01224,Photoshoot,2023-05-21,2,Ibadan,NGN,2364000.0,0.1,2127600.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01259,XT-00809,Photoshoot,2023-05-21,1,Accra,NGN,1341000.0,0.0,1341000.0,False,Completed,Walk-in,location permit paid by client,No issues
+BK-01260,XT-01398,Studio Rental,2023-05-23,1,Lagos,NGN,810000.0,0.0,810000.0,False,In Production,Unknown,"half payment received, balance pending",No issues
+BK-01261,XT-00365,Corporate Documentary,2023-05-23,1,Atlanta,NGN,2448613.06,0.0,2448613.06,True,Invoiced,Agency Partner,drone denied by airport authority,No issues
+BK-01262,XT-01208,Photoshoot,2023-05-23,1,Abuja,NGN,1911000.0,0.05,1815450.0,False,Completed,Instagram,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01263,XT-00896,Commercial / TVC,2023-05-24,1,London,NGN,14718711.12,0.0,14718711.12,True,Completed,TikTok,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01264,XT-01810,Short Film,2023-05-24,1,Johannesburg,NGN,8878000.0,0.0,8878000.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01265,XT-01195,Wedding Film,2023-05-24,1,Lagos,NGN,4844000.0,0.0,4844000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01266,XT-00798,Photoshoot,2023-05-25,5,Port Harcourt,NGN,4469000.0,0.0,4469000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01267,XT-01194,Music Video,2023-05-25,1,Nairobi,NGN,9621000.0,0.0,9621000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01268,XT-01833,Wedding Film,2023-05-25,2,London,NGN,3192367.2,0.0,3192367.2,True,Postponed,TikTok,Not applicable,No issues
+BK-01269,XT-00147,Wedding Film,2023-05-27,1,Kano,NGN,4579000.0,0.0,4579000.0,False,Completed,Walk-in,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01270,XT-01610,Photoshoot,2023-05-28,1,Ibadan,NGN,938000.0,0.0,938000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01271,XT-00023,Studio Rental,2023-05-28,1,Johannesburg,NGN,1477000.0,0.0,1477000.0,False,Completed,Instagram,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01272,XT-01588,Studio Rental,2023-05-28,2,Abuja,NGN,242000.0,0.0,242000.0,False,Completed,TikTok,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01273,XT-00726,Unknown,2023-05-28,1,Abuja,NGN,8841000.0,0.0,8841000.0,False,Completed,Agency Partner,drone denied by airport authority,service_type_missing
+BK-01274,XT-00928,Unknown,2023-05-28,1,Ibadan,NGN,5099000.0,0.0,5099000.0,False,In Production,Agency Partner,"See contract, clause 4b - travel, per diem",service_type_missing
+BK-01275,XT-00343,Commercial / TVC,2023-05-28,1,Lagos,NGN,26543000.0,0.0,26543000.0,False,Invoiced,Referral,Not applicable,No issues
+BK-01276,XT-01849,Music Video,2023-05-30,1,Lagos,NGN,12712000.0,0.0,12712000.0,False,Completed,Referral,location permit paid by client,No issues
+BK-01277,XT-00932,Music Video,2023-05-30,2,Abuja,NGN,17288000.0,0.0,17288000.0,False,Completed,Google,Not applicable,No issues
+BK-01278,XT-01097,Studio Rental,2023-05-30,1,Lagos,NGN,344000.0,0.0,344000.0,False,Invoiced,Google,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01279,XT-00875,Studio Rental,2023-05-31,2,London,NGN,209254.4,0.0,209254.4,True,Completed,Google,"half payment received, balance pending",No issues
+BK-01280,XT-01698,Event Coverage,2023-05-31,1,Enugu,NGN,4098000.0,0.0,4098000.0,False,In Production,Agency Partner,Not applicable,No issues
+BK-01281,XT-00468,Music Video,2023-05-31,2,Port Harcourt,NGN,21502000.0,0.0,21502000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01282,XT-00284,Commercial / TVC,2023-06-02,2,Accra,NGN,24866000.0,0.0,24866000.0,False,Completed,Referral,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01283,XT-00632,Photoshoot,2023-06-02,1,Johannesburg,NGN,2549000.0,0.0,2549000.0,False,Cancelled,Referral,Not applicable,No issues
+BK-01284,XT-00751,Photoshoot,2023-06-04,1,Lagos,NGN,3197000.0,0.0,3197000.0,False,Completed,Google,Not applicable,No issues
+BK-01285,XT-00439,Wedding Film,2023-06-04,1,Dubai,NGN,2633044.32,0.0,2633044.32,True,Completed,Google,Not applicable,fx_rate_carried_from_earlier_day
+BK-01286,XT-01152,Photoshoot,2023-06-04,2,Lagos,NGN,1030000.0,0.05,978500.0,False,Unknown,Google,"See contract, clause 4b - travel, per diem","location_city_taken_from_client,status_missing"
+BK-01287,XT-00288,Music Video,2023-06-04,1,Abuja,NGN,9694000.0,0.0,9694000.0,False,Unknown,Agency Partner,location permit paid by client,status_missing
+BK-01288,XT-01790,Event Coverage,2023-06-04,1,Lagos,NGN,977000.0,0.0,977000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01289,XT-00459,Wedding Film,2023-06-04,4,Johannesburg,NGN,13873000.0,0.0,13873000.0,False,In Production,Unknown,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01290,XT-01810,Music Video,2023-06-05,5,Johannesburg,NGN,38842000.0,0.0,38842000.0,False,Completed,TikTok,drone denied by airport authority,shoot_days_counted_from_timesheets
+BK-01291,XT-00039,Studio Rental,2023-06-06,4,Enugu,NGN,1010000.0,0.05,959500.0,False,Postponed,Google,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01292,XT-00399,Photoshoot,2023-06-06,4,Abuja,NGN,2739000.0,0.0,2739000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01293,XT-01386,Commercial / TVC,2023-06-06,2,Lagos,NGN,21507000.0,0.0,21507000.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01294,XT-00990,Short Film,2023-06-07,2,Lagos,NGN,11535000.0,0.0,11535000.0,False,Cancelled,Unknown,Not applicable,No issues
+BK-01295,XT-01850,Photoshoot,2023-06-07,2,Lagos,NGN,2898000.0,0.0,2898000.0,False,In Production,Unknown,Not applicable,No issues
+BK-01296,XT-01122,Corporate Documentary,2023-06-07,1,Port Harcourt,NGN,10187000.0,0.0,10187000.0,False,Completed,Repeat Client,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01297,XT-01734,Corporate Documentary,2023-06-09,3,Lagos,NGN,9323000.0,0.0,9323000.0,False,Completed,Repeat Client,location permit paid by client,No issues
+BK-01298,XT-00853,Wedding Film,2023-06-09,4,London,NGN,3189628.2,0.0,3189628.2,True,In Production,Unknown,drone denied by airport authority,No issues
+BK-01299,XT-01495,Corporate Documentary,2023-06-09,1,Lagos,NGN,8495000.0,0.0,8495000.0,False,Cancelled,Google,location permit paid by client,No issues
+BK-01300,XT-00666,Music Video,2023-06-10,1,Enugu,NGN,15962000.0,0.0,15962000.0,False,Cancelled,Unknown,client rescheduled once,No issues
+BK-01301,XT-01850,Wedding Film,2023-06-10,2,Lagos,NGN,5283000.0,0.0,5283000.0,False,Completed,Walk-in,drone denied by airport authority,No issues
+BK-01302,XT-00629,Wedding Film,2023-06-10,2,Kano,NGN,7312000.0,0.05,6946400.0,False,In Production,Instagram,Not applicable,No issues
+BK-01303,XT-01434,Commercial / TVC,2023-06-10,2,Kano,NGN,11151000.0,0.0,11151000.0,False,Completed,TikTok,"half payment received, balance pending",No issues
+BK-01304,XT-00882,Studio Rental,2023-06-10,4,Abuja,NGN,2340000.0,0.0,2340000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01305,XT-01048,Photoshoot,2023-06-10,1,Dubai,NGN,413710.2,0.0,413710.2,True,Completed,Google,"See contract, clause 4b - travel, per diem",fx_rate_carried_from_earlier_day
+BK-01306,XT-00038,Wedding Film,2023-06-11,2,Lagos,NGN,4045000.0,0.0,4045000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01307,XT-01574,Photoshoot,2023-06-11,1,Atlanta,NGN,1127210.4,0.1,1014489.36,True,Completed,Walk-in,Not applicable,fx_rate_carried_from_earlier_day
+BK-01308,XT-01883,Wedding Film,2023-06-11,3,Enugu,NGN,9241000.0,0.0,9241000.0,False,Completed,Google,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01309,XT-01564,Commercial / TVC,2023-06-11,1,Abuja,NGN,45184000.0,0.0,45184000.0,False,Completed,Walk-in,client rescheduled once,No issues
+BK-01310,XT-01152,Music Video,2023-06-12,4,Lagos,NGN,32789000.0,0.0,32789000.0,False,In Production,Unknown,"See contract, clause 4b - travel, per diem",shoot_days_counted_from_timesheets
+BK-01311,XT-01169,Unknown,2023-06-12,1,Enugu,NGN,1774000.0,0.0,1774000.0,False,Completed,Referral,RAW files delivered on 2 x 1TB SSD,service_type_missing
+BK-01312,XT-01717,Photoshoot,2023-06-13,Unknown,Lagos,NGN,2868000.0,0.0,2868000.0,False,Cancelled,Unknown,drone denied by airport authority,shoot_days_missing
+BK-01313,XT-00149,Event Coverage,2023-06-13,1,Enugu,NGN,3676000.0,0.0,3676000.0,False,Completed,Walk-in,client rescheduled once,No issues
+BK-01314,XT-00958,Event Coverage,2023-06-13,1,Lagos,NGN,4160000.0,0.0,4160000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01315,XT-01877,Event Coverage,2023-06-15,1,Johannesburg,NGN,1504000.0,0.1,1353600.0,False,Completed,Unknown,Not applicable,No issues
+BK-01316,XT-00570,Commercial / TVC,2023-06-15,1,Atlanta,NGN,20756592.0,0.0,20756592.0,True,Completed,Google,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01317,XT-01272,Unknown,2023-06-15,1,Port Harcourt,NGN,5028000.0,0.0,5028000.0,False,In Production,Repeat Client,"See contract, clause 4b - travel, per diem",service_type_missing
+BK-01318,XT-00672,Unknown,2023-06-16,3,Nairobi,NGN,890000.0,0.0,890000.0,False,Completed,Agency Partner,client rescheduled once,service_type_missing
+BK-01319,XT-01331,Wedding Film,2023-06-16,1,Dubai,NGN,1712838.6,0.0,1712838.6,True,Completed,Agency Partner,client rescheduled once,No issues
+BK-01320,XT-01050,Wedding Film,2023-06-17,1,Lagos,NGN,4693000.0,0.0,4693000.0,False,Invoiced,Agency Partner,Not applicable,location_city_taken_from_client
+BK-01321,XT-00411,Event Coverage,2023-06-17,2,Johannesburg,NGN,5279000.0,0.1,4751100.0,False,Completed,Google,Not applicable,No issues
+BK-01322,XT-01854,Commercial / TVC,2023-06-17,2,Lagos,NGN,26274000.0,0.05,24960300.0,False,Completed,Instagram,Not applicable,No issues
+BK-01323,XT-01895,Music Video,2023-06-17,1,Lagos,NGN,6962000.0,0.0,6962000.0,False,Cancelled,TikTok,Not applicable,status_inferred_cancelled_no_crew_days
+BK-01324,XT-00754,Wedding Film,2023-06-17,1,Johannesburg,NGN,5152000.0,0.0,5152000.0,False,Completed,Repeat Client,drone denied by airport authority,No issues
+BK-01325,XT-00092,Wedding Film,2023-06-17,1,London,NGN,1505842.08,0.0,1505842.08,True,Completed,Agency Partner,Not applicable,fx_rate_carried_from_earlier_day
+BK-01326,XT-00410,Photoshoot,2023-06-18,1,Lagos,NGN,1451000.0,0.0,1451000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01327,XT-00029,Wedding Film,2023-06-18,1,Lagos,NGN,3453000.0,0.0,3453000.0,False,Invoiced,TikTok,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01328,XT-01842,Wedding Film,2023-06-18,1,Lagos,NGN,1967000.0,0.0,1967000.0,False,Completed,TikTok,RAW files delivered on 2 x 1TB SSD,shoot_days_counted_from_timesheets
+BK-01329,XT-01620,Music Video,2023-06-18,1,Lagos,NGN,11631000.0,0.0,11631000.0,False,Unknown,Instagram,location permit paid by client,"currency_inferred_from_client_other_bookings,status_missing"
+BK-01330,XT-01718,Wedding Film,2023-06-19,2,Abuja,NGN,6235000.0,0.0,6235000.0,False,Completed,Repeat Client,client rescheduled once,No issues
+BK-01331,XT-00987,Photoshoot,2023-06-19,1,Port Harcourt,NGN,842000.0,0.0,842000.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01332,XT-01631,Wedding Film,2023-06-19,1,Accra,NGN,4800000.0,0.0,4800000.0,False,Completed,Repeat Client,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01333,XT-01202,Unknown,2023-06-20,1,Kano,NGN,4312000.0,0.0,4312000.0,False,Completed,Walk-in,Not applicable,service_type_missing
+BK-01334,XT-01522,Corporate Documentary,2023-06-20,1,Accra,NGN,10553000.0,0.0,10553000.0,False,Completed,Google,Not applicable,No issues
+BK-01335,XT-00926,Wedding Film,2023-06-21,1,London,NGN,3022852.4,0.15,2569424.54,True,Completed,Google,client rescheduled once,No issues
+BK-01336,XT-00179,Wedding Film,2023-06-21,1,Abuja,NGN,4773000.0,0.0,4773000.0,False,Completed,Unknown,"half payment received, balance pending",No issues
+BK-01337,XT-00229,Wedding Film,2023-06-21,1,Port Harcourt,NGN,3969000.0,0.0,3969000.0,False,Completed,Unknown,"See contract, clause 4b - travel, per diem",shoot_days_counted_from_timesheets
+BK-01338,XT-01609,Short Film,2023-06-22,1,Lagos,NGN,14274000.0,0.0,14274000.0,False,Completed,Agency Partner,client rescheduled once,No issues
+BK-01339,XT-00437,Corporate Documentary,2023-06-22,3,Johannesburg,NGN,9026000.0,0.0,9026000.0,False,Unknown,TikTok,drone denied by airport authority,status_missing
+BK-01340,XT-01717,Studio Rental,2023-06-22,1,Lagos,NGN,1061000.0,0.0,1061000.0,False,Postponed,Agency Partner,Not applicable,No issues
+BK-01341,XT-00237,Wedding Film,2023-06-22,2,Enugu,NGN,8823000.0,0.15,7499550.0,False,Completed,Google,Not applicable,No issues
+BK-01342,XT-00058,Studio Rental,2023-06-23,1,Nairobi,NGN,950000.0,0.0,950000.0,False,Completed,Google,"Overtime: crew stayed till 2am, billed separately",location_city_taken_from_client
+BK-01343,XT-01892,Commercial / TVC,2023-06-23,1,Abuja,NGN,19464000.0,0.0,19464000.0,False,In Production,Google,"half payment received, balance pending",location_city_taken_from_client
+BK-01344,XT-00741,Studio Rental,2023-06-23,5,Lagos,NGN,2466000.0,0.0,2466000.0,False,Completed,Walk-in,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01345,XT-01201,Corporate Documentary,2023-06-23,3,Lagos,NGN,16740000.0,0.0,16740000.0,False,Completed,Walk-in,location permit paid by client,No issues
+BK-01346,XT-00056,Short Film,2023-06-24,1,Abuja,NGN,20715000.0,0.0,20715000.0,False,Completed,Agency Partner,location permit paid by client,No issues
+BK-01347,XT-01686,Corporate Documentary,2023-06-24,1,Port Harcourt,NGN,10860000.0,0.0,10860000.0,False,Invoiced,Unknown,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01348,XT-01032,Event Coverage,2023-06-24,1,Accra,NGN,1571000.0,0.0,1571000.0,False,Completed,Instagram,drone denied by airport authority,No issues
+BK-01349,XT-00072,Corporate Documentary,2023-06-24,1,Dubai,NGN,8932561.36,0.0,8932561.36,True,Postponed,TikTok,Not applicable,fx_rate_carried_from_earlier_day
+BK-01350,XT-00402,Short Film,2023-06-24,1,Dubai,NGN,10032427.95,0.0,10032427.95,True,In Production,Referral,"See contract, clause 4b - travel, per diem",fx_rate_carried_from_earlier_day
+BK-01351,XT-00938,Short Film,2023-06-24,1,Dubai,NGN,13691797.16,0.0,13691797.16,True,Completed,Google,drone denied by airport authority,fx_rate_carried_from_earlier_day
+BK-01352,XT-00097,Wedding Film,2023-06-25,1,Port Harcourt,NGN,5652000.0,0.0,5652000.0,False,Completed,Google,Not applicable,shoot_days_counted_from_timesheets
+BK-01353,XT-01098,Music Video,2023-06-25,1,Abuja,NGN,17964000.0,0.0,17964000.0,False,Invoiced,Referral,client rescheduled once,No issues
+BK-01354,XT-00881,Wedding Film,2023-06-25,2,Accra,NGN,6475000.0,0.0,6475000.0,False,Completed,Google,Not applicable,No issues
+BK-01355,XT-00187,Wedding Film,2023-06-25,1,Kano,NGN,2404000.0,0.0,2404000.0,False,Completed,Walk-in,location permit paid by client,No issues
+BK-01356,XT-01649,Wedding Film,2023-06-25,2,Lagos,NGN,5406000.0,0.0,5406000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01357,XT-01755,Event Coverage,2023-06-25,1,Kano,NGN,4250000.0,0.0,4250000.0,False,In Production,Agency Partner,drone denied by airport authority,No issues
+BK-01358,XT-00318,Photoshoot,2023-06-25,1,Abuja,NGN,1571000.0,0.1,1413900.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01359,XT-01032,Corporate Documentary,2023-06-25,1,Accra,NGN,5901000.0,0.0,5901000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01360,XT-01477,Photoshoot,2023-06-26,1,Atlanta,NGN,1322114.17,0.1,1189902.75,True,Completed,Unknown,Not applicable,No issues
+BK-01361,XT-00526,Photoshoot,2023-06-26,1,Lagos,NGN,1568000.0,0.0,1568000.0,False,Cancelled,Repeat Client,location permit paid by client,status_inferred_cancelled_no_crew_days
+BK-01362,XT-01239,Music Video,2023-06-26,1,Lagos,NGN,3514000.0,0.0,3514000.0,False,Invoiced,TikTok,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01363,XT-00959,Wedding Film,2023-06-26,1,Dubai,NGN,3427326.73,0.0,3427326.73,True,Completed,Google,drone denied by airport authority,No issues
+BK-01364,XT-01122,Event Coverage,2023-06-27,2,Port Harcourt,NGN,1564000.0,0.05,1485800.0,False,Completed,Repeat Client,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01365,XT-00503,Event Coverage,2023-06-28,2,Lagos,NGN,3571000.0,0.0,3571000.0,False,Completed,Repeat Client,location permit paid by client,No issues
+BK-01366,XT-00768,Music Video,2023-06-28,1,Ibadan,NGN,9248000.0,0.0,9248000.0,False,Cancelled,TikTok,drone denied by airport authority,No issues
+BK-01367,XT-00673,Event Coverage,2023-06-29,1,Lagos,NGN,1202000.0,0.0,1202000.0,False,Cancelled,Repeat Client,Not applicable,No issues
+BK-01368,XT-01834,Music Video,2023-07-01,3,London,NGN,6847237.6,0.0,6847237.6,True,Completed,Unknown,location permit paid by client,fx_rate_carried_from_earlier_day
+BK-01369,XT-00235,Wedding Film,2023-07-01,2,Abuja,NGN,8014000.0,0.0,8014000.0,False,Completed,Google,location permit paid by client,No issues
+BK-01370,XT-01292,Commercial / TVC,2023-07-01,1,Johannesburg,NGN,16577000.0,0.0,16577000.0,False,Completed,Google,"See contract, clause 4b - travel, per diem",No issues
+BK-01371,XT-00284,Music Video,2023-07-01,2,Accra,NGN,5319000.0,0.0,5319000.0,False,Cancelled,Walk-in,"Client said ""make it cinematic, like Nolan""",location_city_taken_from_client
+BK-01372,XT-01576,Music Video,2023-07-01,1,London,NGN,3627752.8,0.0,3627752.8,True,Cancelled,Walk-in,"Client said ""make it cinematic, like Nolan""","location_city_taken_from_client,fx_rate_carried_from_earlier_day"
+BK-01373,XT-01196,Photoshoot,2023-07-01,1,Port Harcourt,NGN,1920000.0,0.0,1920000.0,False,Cancelled,Instagram,client rescheduled once,No issues
+BK-01374,XT-00136,Event Coverage,2023-07-02,2,Lagos,NGN,5975000.0,0.0,5975000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01375,XT-00016,Studio Rental,2023-07-02,2,Port Harcourt,NGN,2027000.0,0.0,2027000.0,False,Invoiced,Google,Not applicable,No issues
+BK-01376,XT-01863,Wedding Film,2023-07-02,2,Port Harcourt,NGN,3384000.0,0.0,3384000.0,False,Invoiced,Google,Not applicable,location_city_taken_from_client
+BK-01377,XT-01642,Studio Rental,2023-07-03,2,Lagos,NGN,1557000.0,0.0,1557000.0,False,Postponed,Referral,Not applicable,No issues
+BK-01378,XT-01870,Wedding Film,2023-07-04,2,Lagos,NGN,9397000.0,0.0,9397000.0,False,Postponed,Google,client rescheduled once,No issues
+BK-01379,XT-00626,Studio Rental,2023-07-04,2,Ibadan,NGN,546000.0,0.0,546000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01380,XT-00432,Unknown,2023-07-04,1,Lagos,NGN,5273000.0,0.1,4745700.0,False,Completed,Google,RAW files delivered on 2 x 1TB SSD,service_type_missing
+BK-01381,XT-01430,Corporate Documentary,2023-07-05,2,Lagos,NGN,5881000.0,0.05,5586950.0,False,Completed,Unknown,Not applicable,No issues
+BK-01382,XT-00268,Photoshoot,2023-07-06,1,Kano,NGN,2685000.0,0.0,2685000.0,False,Postponed,Unknown,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01383,XT-00179,Photoshoot,2023-07-06,5,Abuja,NGN,6487000.0,0.0,6487000.0,False,Invoiced,Google,Not applicable,No issues
+BK-01384,XT-00586,Music Video,2023-07-06,1,Ibadan,NGN,6786000.0,0.0,6786000.0,False,Completed,Instagram,client rescheduled once,No issues
+BK-01385,XT-00047,Event Coverage,2023-07-07,1,Lagos,NGN,3953000.0,0.0,3953000.0,False,Invoiced,Referral,Not applicable,No issues
+BK-01386,XT-00443,Event Coverage,2023-07-08,1,Abuja,NGN,4353000.0,0.05,4135350.0,False,Completed,Referral,drone denied by airport authority,No issues
+BK-01387,XT-00519,Photoshoot,2023-07-08,1,Accra,NGN,2306000.0,0.0,2306000.0,False,Completed,Walk-in,location permit paid by client,No issues
+BK-01388,XT-00864,Commercial / TVC,2023-07-08,1,Abuja,NGN,34170000.0,0.0,34170000.0,False,Completed,Walk-in,location permit paid by client,No issues
+BK-01389,XT-01588,Wedding Film,2023-07-09,2,Abuja,NGN,9208000.0,0.0,9208000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01390,XT-00828,Event Coverage,2023-07-09,2,Ibadan,NGN,6128000.0,0.0,6128000.0,False,Completed,Instagram,"See contract, clause 4b - travel, per diem",No issues
+BK-01391,XT-00500,Studio Rental,2023-07-09,1,Johannesburg,NGN,1321000.0,0.0,1321000.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01392,XT-00171,Unknown,2023-07-09,1,Lagos,NGN,4455000.0,0.0,4455000.0,False,Completed,Instagram,Not applicable,"location_city_taken_from_client,service_type_missing"
+BK-01393,XT-00905,Photoshoot,2023-07-10,1,Ibadan,NGN,1201000.0,0.0,1201000.0,False,Invoiced,Unknown,location permit paid by client,No issues
+BK-01394,XT-00799,Commercial / TVC,2023-07-10,1,Lagos,NGN,20348000.0,0.0,20348000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01395,XT-00332,Event Coverage,2023-07-10,1,Lagos,NGN,1026000.0,0.0,1026000.0,False,Postponed,Agency Partner,client rescheduled once,No issues
+BK-01396,XT-01551,Photoshoot,2023-07-10,1,Abuja,NGN,1737000.0,0.0,1737000.0,False,Cancelled,Instagram,client rescheduled once,No issues
+BK-01397,XT-01553,Event Coverage,2023-07-11,1,London,NGN,1145236.88,0.0,1145236.88,True,In Production,Referral,"See contract, clause 4b - travel, per diem",No issues
+BK-01398,XT-01589,Event Coverage,2023-07-11,1,Enugu,NGN,1727000.0,0.0,1727000.0,False,Completed,Repeat Client,client rescheduled once,No issues
+BK-01399,XT-00725,Photoshoot,2023-07-12,1,Lagos,NGN,2075000.0,0.0,2075000.0,False,Unknown,TikTok,drone denied by airport authority,status_missing
+BK-01400,XT-00754,Photoshoot,2023-07-12,1,Johannesburg,NGN,2284000.0,0.0,2284000.0,False,Completed,Google,Not applicable,No issues
+BK-01401,XT-00439,Music Video,2023-07-13,1,Dubai,NGN,2138242.66,0.0,2138242.66,True,Completed,Repeat Client,client rescheduled once,No issues
+BK-01402,XT-01378,Commercial / TVC,2023-07-13,1,Lagos,NGN,30918000.0,0.15,26280300.0,False,Completed,Repeat Client,"See contract, clause 4b - travel, per diem",No issues
+BK-01403,XT-01317,Corporate Documentary,2023-07-13,1,Lagos,NGN,13982000.0,0.0,13982000.0,False,Completed,Agency Partner,drone denied by airport authority,No issues
+BK-01404,XT-00516,Studio Rental,2023-07-13,1,Lagos,NGN,769000.0,0.0,769000.0,False,Postponed,TikTok,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01405,XT-01670,Photoshoot,2023-07-13,1,Port Harcourt,NGN,558000.0,0.0,558000.0,False,Completed,Unknown,"Overtime: crew stayed till 2am, billed separately",location_city_taken_from_client
+BK-01406,XT-00011,Photoshoot,2023-07-14,1,Enugu,NGN,2895000.0,0.0,2895000.0,False,Completed,Unknown,"See contract, clause 4b - travel, per diem",No issues
+BK-01407,XT-01510,Photoshoot,2023-07-14,1,Lagos,NGN,3248000.0,0.0,3248000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01408,XT-00318,Photoshoot,2023-07-14,1,Abuja,NGN,1246000.0,0.0,1246000.0,False,Completed,Agency Partner,drone denied by airport authority,No issues
+BK-01409,XT-00426,Photoshoot,2023-07-15,1,Port Harcourt,NGN,1226000.0,0.0,1226000.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01410,XT-01618,Photoshoot,2023-07-15,1,Abuja,NGN,1364000.0,0.0,1364000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01411,XT-01231,Short Film,2023-07-15,1,Lagos,NGN,15668000.0,0.0,15668000.0,False,Completed,Unknown,"See contract, clause 4b - travel, per diem",location_city_taken_from_client
+BK-01412,XT-00771,Event Coverage,2023-07-15,1,Abuja,NGN,2843000.0,0.0,2843000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01413,XT-01426,Wedding Film,2023-07-16,1,Lagos,NGN,4294000.0,0.0,4294000.0,False,Completed,Walk-in,Not applicable,location_city_taken_from_client
+BK-01414,XT-01119,Unknown,2023-07-16,2,Lagos,NGN,14814000.0,0.1,13332600.0,False,Completed,Unknown,Not applicable,service_type_missing
+BK-01415,XT-00672,Event Coverage,2023-07-16,1,Nairobi,NGN,829000.0,0.0,829000.0,False,Postponed,TikTok,"See contract, clause 4b - travel, per diem",No issues
+BK-01416,XT-01122,Corporate Documentary,2023-07-16,1,Port Harcourt,NGN,13967000.0,0.0,13967000.0,False,Completed,Unknown,client rescheduled once,No issues
+BK-01417,XT-00558,Studio Rental,2023-07-16,3,Lagos,NGN,1919000.0,0.1,1727100.0,False,Cancelled,Referral,Not applicable,No issues
+BK-01418,XT-01079,Photoshoot,2023-07-16,3,Port Harcourt,NGN,5723000.0,0.0,5723000.0,False,Unknown,TikTok,"half payment received, balance pending","location_city_taken_from_client,status_missing"
+BK-01419,XT-01153,Photoshoot,2023-07-17,1,Abuja,NGN,2057000.0,0.0,2057000.0,False,Completed,Agency Partner,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01420,XT-00313,Commercial / TVC,2023-07-18,1,Kano,NGN,18706000.0,0.05,17770700.0,False,Cancelled,Google,client rescheduled once,No issues
+BK-01421,XT-00792,Unknown,2023-07-18,1,Johannesburg,NGN,1485000.0,0.0,1485000.0,False,Invoiced,Referral,Not applicable,service_type_missing
+BK-01422,XT-01414,Event Coverage,2023-07-19,3,Lagos,NGN,7392000.0,0.05,7022400.0,False,Completed,Referral,client rescheduled once,No issues
+BK-01423,XT-01243,Event Coverage,2023-07-19,3,Lagos,NGN,7775000.0,0.0,7775000.0,False,Completed,Repeat Client,RAW files delivered on 2 x 1TB SSD,location_city_taken_from_client
+BK-01424,XT-00657,Event Coverage,2023-07-19,2,Abuja,NGN,1591000.0,0.0,1591000.0,False,Completed,Google,location permit paid by client,No issues
+BK-01425,XT-00504,Wedding Film,2023-07-19,1,Lagos,NGN,4870000.0,0.0,4870000.0,False,Completed,Instagram,RAW files delivered on 2 x 1TB SSD,location_city_taken_from_client
+BK-01426,XT-01826,Wedding Film,2023-07-19,1,Dubai,NGN,4461596.26,0.0,4461596.26,True,Postponed,TikTok,drone denied by airport authority,No issues
+BK-01427,XT-00719,Wedding Film,2023-07-20,4,Abuja,NGN,12230000.0,0.0,12230000.0,False,Completed,Unknown,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01428,XT-01303,Wedding Film,2023-07-20,1,Lagos,NGN,5639000.0,0.0,5639000.0,False,Completed,Unknown,drone denied by airport authority,No issues
+BK-01429,XT-01114,Corporate Documentary,2023-07-21,5,Abuja,NGN,15345000.0,0.0,15345000.0,False,Completed,Instagram,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01430,XT-00453,Studio Rental,2023-07-21,2,Nairobi,NGN,1565000.0,0.0,1565000.0,False,Cancelled,Agency Partner,Not applicable,location_city_taken_from_client
+BK-01431,XT-01205,Short Film,2023-07-22,1,Enugu,NGN,19895000.0,0.0,19895000.0,False,Completed,Walk-in,"half payment received, balance pending",No issues
+BK-01432,XT-00018,Wedding Film,2023-07-23,4,Abuja,NGN,12503000.0,0.0,12503000.0,False,Completed,Referral,"half payment received, balance pending",No issues
+BK-01433,XT-01171,Event Coverage,2023-07-23,1,Accra,NGN,2188000.0,0.0,2188000.0,False,Completed,TikTok,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01434,XT-01290,Wedding Film,2023-07-23,3,Lagos,NGN,11133000.0,0.0,11133000.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01435,XT-00927,Short Film,2023-07-24,1,Dubai,NGN,14818114.0,0.0,14818114.0,True,Completed,Unknown,"See contract, clause 4b - travel, per diem",No issues
+BK-01436,XT-01893,Event Coverage,2023-07-24,1,Kano,NGN,4016000.0,0.0,4016000.0,False,Completed,Referral,Not applicable,No issues
+BK-01437,XT-00684,Short Film,2023-07-24,1,Abuja,NGN,17612000.0,0.0,17612000.0,False,In Production,Agency Partner,Not applicable,No issues
+BK-01438,XT-01583,Event Coverage,2023-07-24,1,Nairobi,NGN,2140000.0,0.0,2140000.0,False,In Production,Unknown,Not applicable,No issues
+BK-01439,XT-01025,Unknown,2023-07-25,1,Lagos,NGN,3151000.0,0.0,3151000.0,False,Completed,Google,Not applicable,service_type_missing
+BK-01440,XT-01337,Short Film,2023-07-25,1,Port Harcourt,NGN,17304000.0,0.0,17304000.0,False,Invoiced,Unknown,Not applicable,No issues
+BK-01441,XT-00591,Corporate Documentary,2023-07-25,1,London,NGN,4113021.6,0.0,4113021.6,True,Completed,Walk-in,"half payment received, balance pending",No issues
+BK-01442,XT-00893,Photoshoot,2023-07-25,3,Enugu,NGN,3827000.0,0.0,3827000.0,False,Completed,Google,Not applicable,No issues
+BK-01443,XT-01430,Photoshoot,2023-07-25,1,Lagos,NGN,3382000.0,0.0,3382000.0,False,Postponed,Repeat Client,Not applicable,No issues
+BK-01444,XT-01551,Music Video,2023-07-25,1,Abuja,NGN,17171000.0,0.05,16312450.0,False,Completed,Google,location permit paid by client,No issues
+BK-01445,XT-01894,Commercial / TVC,2023-07-26,1,Lagos,NGN,19786000.0,0.0,19786000.0,False,Cancelled,Google,Not applicable,No issues
+BK-01446,XT-00748,Event Coverage,2023-07-27,1,Atlanta,NGN,970404.87,0.0,970404.87,True,In Production,Walk-in,location permit paid by client,No issues
+BK-01447,XT-00355,Photoshoot,2023-07-27,5,Atlanta,NGN,5867045.55,0.05,5573693.27,True,In Production,Referral,Not applicable,No issues
+BK-01448,XT-00543,Music Video,2023-07-28,2,Lagos,NGN,18988000.0,0.0,18988000.0,False,Completed,Referral,drone denied by airport authority,No issues
+BK-01449,XT-01640,Event Coverage,2023-07-28,1,London,NGN,2077342.2,0.0,2077342.2,True,Completed,Repeat Client,Not applicable,No issues
+BK-01450,XT-01559,Music Video,2023-07-29,1,Lagos,NGN,18898000.0,0.0,18898000.0,False,Completed,Referral,location permit paid by client,No issues
+BK-01451,XT-01806,Wedding Film,2023-07-29,1,Port Harcourt,NGN,6015000.0,0.0,6015000.0,False,Invoiced,Unknown,Not applicable,No issues
+BK-01452,XT-01613,Photoshoot,2023-07-29,1,Abuja,NGN,2244000.0,0.0,2244000.0,False,In Production,Agency Partner,Not applicable,No issues
+BK-01453,XT-00447,Corporate Documentary,2023-07-29,1,Johannesburg,NGN,14114000.0,0.1,12702600.0,False,Completed,TikTok,drone denied by airport authority,No issues
+BK-01454,XT-01712,Photoshoot,2023-07-29,2,Lagos,NGN,751000.0,0.0,751000.0,False,Cancelled,Unknown,"See contract, clause 4b - travel, per diem",No issues
+BK-01455,XT-00952,Photoshoot,2023-07-29,1,Dubai,NGN,1903031.22,0.0,1903031.22,True,Completed,Instagram,"Client said ""make it cinematic, like Nolan""",fx_rate_carried_from_earlier_day
+BK-01456,XT-01068,Event Coverage,2023-07-30,2,Lagos,NGN,1906000.0,0.0,1906000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01457,XT-01072,Music Video,2023-07-30,1,Lagos,NGN,18402000.0,0.0,18402000.0,False,Completed,Referral,Not applicable,No issues
+BK-01458,XT-01506,Photoshoot,2023-07-30,1,London,NGN,1282310.0,0.0,1282310.0,True,Completed,Walk-in,Not applicable,fx_rate_carried_from_earlier_day
+BK-01459,XT-01006,Corporate Documentary,2023-07-31,4,Lagos,NGN,25073000.0,0.0,25073000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01460,XT-01130,Commercial / TVC,2023-07-31,1,Abuja,NGN,15041000.0,0.15,12784850.0,False,Completed,Google,Not applicable,No issues
+BK-01461,XT-00664,Studio Rental,2023-08-01,2,Abuja,NGN,1567000.0,0.0,1567000.0,False,Completed,Instagram,"half payment received, balance pending",No issues
+BK-01462,XT-01627,Music Video,2023-08-01,1,Lagos,NGN,5994000.0,0.0,5994000.0,False,Completed,Google,drone denied by airport authority,No issues
+BK-01463,XT-01347,Corporate Documentary,2023-08-02,2,Abuja,NGN,10170000.0,0.0,10170000.0,False,Completed,TikTok,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01464,XT-00453,Photoshoot,2023-08-02,1,Nairobi,NGN,2145000.0,0.0,2145000.0,False,In Production,Referral,Not applicable,No issues
+BK-01465,XT-00192,Music Video,2023-08-02,2,Accra,NGN,15364000.0,0.0,15364000.0,False,Cancelled,Walk-in,Not applicable,No issues
+BK-01466,XT-00206,Event Coverage,2023-08-02,1,Johannesburg,NGN,2209000.0,0.0,2209000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01467,XT-00691,Music Video,2023-08-02,1,Ibadan,NGN,8180000.0,0.0,8180000.0,False,Cancelled,Repeat Client,Not applicable,No issues
+BK-01468,XT-01243,Photoshoot,2023-08-03,1,Lagos,NGN,1785000.0,0.0,1785000.0,False,Completed,Unknown,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01469,XT-00580,Music Video,2023-08-03,1,Lagos,NGN,4085000.0,0.0,4085000.0,False,Completed,Unknown,drone denied by airport authority,No issues
+BK-01470,XT-00609,Wedding Film,2023-08-04,1,Nairobi,NGN,6601000.0,0.0,6601000.0,False,Completed,Referral,Not applicable,No issues
+BK-01471,XT-00017,Photoshoot,2023-08-04,1,Abuja,NGN,2259000.0,0.0,2259000.0,False,Completed,Google,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01472,XT-00194,Wedding Film,2023-08-04,3,Lagos,NGN,3793000.0,0.0,3793000.0,False,Invoiced,Walk-in,Not applicable,location_city_taken_from_client
+BK-01473,XT-00925,Photoshoot,2023-08-05,1,Lagos,NGN,2757000.0,0.0,2757000.0,False,In Production,Unknown,Not applicable,No issues
+BK-01474,XT-00753,Corporate Documentary,2023-08-05,1,Lagos,NGN,12494000.0,0.0,12494000.0,False,Completed,Repeat Client,"See contract, clause 4b - travel, per diem",No issues
+BK-01475,XT-00966,Music Video,2023-08-05,2,Dubai,NGN,19939177.33,0.0,19939177.33,True,Completed,TikTok,Not applicable,fx_rate_carried_from_earlier_day
+BK-01476,XT-01297,Corporate Documentary,2023-08-05,1,Abuja,NGN,10343000.0,0.0,10343000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01477,XT-00802,Photoshoot,2023-08-06,1,London,NGN,2064336.16,0.15,1754685.74,True,Completed,Repeat Client,RAW files delivered on 2 x 1TB SSD,fx_rate_carried_from_earlier_day
+BK-01478,XT-00246,Wedding Film,2023-08-06,2,Abuja,NGN,3019000.0,0.0,3019000.0,False,In Production,Instagram,"Overtime: crew stayed till 2am, billed separately",shoot_days_counted_from_timesheets
+BK-01479,XT-00731,Commercial / TVC,2023-08-06,5,Abuja,NGN,19316000.0,0.0,19316000.0,False,In Production,Walk-in,Not applicable,No issues
+BK-01480,XT-00307,Music Video,2023-08-06,1,Dubai,NGN,9562442.11,0.0,9562442.11,True,Completed,Repeat Client,location permit paid by client,"location_city_taken_from_client,fx_rate_carried_from_earlier_day"
+BK-01481,XT-01195,Wedding Film,2023-08-06,1,Lagos,NGN,6206000.0,0.0,6206000.0,False,Completed,Agency Partner,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01482,XT-00644,Music Video,2023-08-06,1,Johannesburg,NGN,14750000.0,0.0,14750000.0,False,Completed,Google,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01483,XT-00135,Unknown,2023-08-06,3,Lagos,NGN,4312000.0,0.0,4312000.0,False,Completed,Referral,"See contract, clause 4b - travel, per diem",service_type_missing
+BK-01484,XT-00759,Commercial / TVC,2023-08-06,2,Enugu,NGN,31396000.0,0.0,31396000.0,False,Completed,Walk-in,"See contract, clause 4b - travel, per diem",No issues
+BK-01485,XT-01514,Wedding Film,2023-08-06,2,Lagos,NGN,5498000.0,0.0,5498000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01486,XT-00406,Short Film,2023-08-07,1,Port Harcourt,NGN,16270000.0,0.0,16270000.0,False,Unknown,Agency Partner,client rescheduled once,status_missing
+BK-01487,XT-01049,Commercial / TVC,2023-08-07,1,London,NGN,13185356.8,0.05,12526088.96,True,Completed,Agency Partner,Not applicable,No issues
+BK-01488,XT-01333,Event Coverage,2023-08-07,1,London,NGN,2910049.45,0.0,2910049.45,True,Completed,Instagram,Not applicable,No issues
+BK-01489,XT-01524,Corporate Documentary,2023-08-07,2,Lagos,NGN,18749000.0,0.0,18749000.0,False,Cancelled,Unknown,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01490,XT-00903,Photoshoot,2023-08-08,1,London,NGN,1110900.01,0.0,1110900.01,True,Completed,Referral,Not applicable,No issues
+BK-01491,XT-00080,Photoshoot,2023-08-08,1,Lagos,NGN,779000.0,0.0,779000.0,False,Completed,Agency Partner,location permit paid by client,No issues
+BK-01492,XT-00967,Commercial / TVC,2023-08-08,1,Enugu,NGN,42747000.0,0.0,42747000.0,False,Completed,Referral,Not applicable,No issues
+BK-01493,XT-01265,Wedding Film,2023-08-08,3,Dubai,NGN,6363711.9,0.0,6363711.9,True,Completed,Unknown,location permit paid by client,No issues
+BK-01494,XT-00138,Photoshoot,2023-08-09,1,Abuja,NGN,2065000.0,0.0,2065000.0,False,Completed,TikTok,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01495,XT-01350,Unknown,2023-08-09,1,Accra,NGN,1356000.0,0.0,1356000.0,False,In Production,Walk-in,"See contract, clause 4b - travel, per diem",service_type_missing
+BK-01496,XT-00144,Wedding Film,2023-08-09,1,Lagos,NGN,6326000.0,0.0,6326000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01497,XT-01358,Photoshoot,2023-08-09,1,Abuja,NGN,2325000.0,0.0,2325000.0,False,Cancelled,Agency Partner,Not applicable,No issues
+BK-01498,XT-00936,Event Coverage,2023-08-09,1,Port Harcourt,NGN,2271000.0,0.0,2271000.0,False,Completed,Referral,Not applicable,No issues
+BK-01499,XT-00958,Studio Rental,2023-08-09,1,Lagos,NGN,460000.0,0.0,460000.0,False,Cancelled,Google,Not applicable,No issues
+BK-01500,XT-01251,Wedding Film,2023-08-09,2,Ibadan,NGN,5006000.0,0.15,4255100.0,False,In Production,Referral,Not applicable,No issues
+BK-01501,XT-00466,Event Coverage,2023-08-10,1,Accra,NGN,4883000.0,0.0,4883000.0,False,Unknown,Unknown,"Client said ""make it cinematic, like Nolan""",status_missing
+BK-01502,XT-01178,Commercial / TVC,2023-08-11,4,Lagos,NGN,54787000.0,0.0,54787000.0,False,Cancelled,Instagram,Not applicable,No issues
+BK-01503,XT-00125,Wedding Film,2023-08-11,1,Lagos,NGN,2661000.0,0.0,2661000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01504,XT-01896,Wedding Film,2023-08-11,1,Kano,NGN,4910000.0,0.0,4910000.0,False,In Production,Walk-in,"See contract, clause 4b - travel, per diem",No issues
+BK-01505,XT-01119,Studio Rental,2023-08-12,1,Lagos,NGN,733000.0,0.1,659700.0,False,Cancelled,Walk-in,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01506,XT-00052,Studio Rental,2023-08-13,4,Lagos,NGN,1696000.0,0.0,1696000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01507,XT-01790,Short Film,2023-08-13,1,Lagos,NGN,20796000.0,0.0,20796000.0,False,Completed,Unknown,client rescheduled once,No issues
+BK-01508,XT-01841,Wedding Film,2023-08-13,4,Abuja,NGN,11744000.0,0.0,11744000.0,False,Unknown,Referral,Not applicable,status_missing
+BK-01509,XT-01447,Corporate Documentary,2023-08-13,1,Port Harcourt,NGN,4554000.0,0.0,4554000.0,False,Completed,Unknown,location permit paid by client,No issues
+BK-01510,XT-00597,Photoshoot,2023-08-13,1,Abuja,NGN,2977000.0,0.0,2977000.0,False,Invoiced,Google,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01511,XT-00974,Photoshoot,2023-08-13,3,Lagos,NGN,2054000.0,0.0,2054000.0,False,Completed,Repeat Client,Not applicable,shoot_days_counted_from_timesheets
+BK-01512,XT-00972,Studio Rental,2023-08-14,1,Abuja,NGN,1052000.0,0.0,1052000.0,False,Postponed,Repeat Client,Not applicable,No issues
+BK-01513,XT-01798,Event Coverage,2023-08-14,2,Lagos,NGN,3225000.0,0.0,3225000.0,False,In Production,Agency Partner,Not applicable,No issues
+BK-01514,XT-00632,Music Video,2023-08-14,2,Johannesburg,NGN,23761000.0,0.05,22572950.0,False,Completed,Agency Partner,client rescheduled once,No issues
+BK-01515,XT-00988,Music Video,2023-08-14,1,Accra,NGN,10564000.0,0.0,10564000.0,False,Postponed,Referral,"half payment received, balance pending",No issues
+BK-01516,XT-01339,Photoshoot,2023-08-14,1,Lagos,NGN,2774000.0,0.0,2774000.0,False,Completed,Unknown,Not applicable,location_city_taken_from_client
+BK-01517,XT-01666,Studio Rental,2023-08-15,1,Atlanta,NGN,974357.41,0.0,974357.41,True,Postponed,Repeat Client,"half payment received, balance pending",No issues
+BK-01518,XT-00731,Wedding Film,2023-08-15,3,Abuja,NGN,8083000.0,0.0,8083000.0,False,Completed,Instagram,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01519,XT-00015,Studio Rental,2023-08-15,1,Ibadan,NGN,807000.0,0.0,807000.0,False,Cancelled,TikTok,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01520,XT-00538,Wedding Film,2023-08-15,1,Enugu,NGN,6326000.0,0.0,6326000.0,False,Invoiced,Instagram,"Client said ""make it cinematic, like Nolan""",shoot_days_counted_from_timesheets
+BK-01521,XT-00083,Music Video,2023-08-16,3,Lagos,NGN,29362000.0,0.0,29362000.0,False,Completed,Walk-in,client rescheduled once,location_city_taken_from_client
+BK-01522,XT-00534,Unknown,2023-08-17,1,Port Harcourt,NGN,732000.0,0.0,732000.0,False,Completed,Referral,Not applicable,"location_city_taken_from_client,service_type_missing"
+BK-01523,XT-01576,Studio Rental,2023-08-18,1,London,NGN,360544.5,0.05,342517.27,True,Completed,Walk-in,Not applicable,No issues
+BK-01524,XT-01045,Studio Rental,2023-08-18,1,London,NGN,841270.5,0.0,841270.5,True,Cancelled,Unknown,"half payment received, balance pending",No issues
+BK-01525,XT-00628,Music Video,2023-08-19,1,Kano,NGN,15570000.0,0.0,15570000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01526,XT-01276,Music Video,2023-08-19,1,Johannesburg,NGN,13003000.0,0.0,13003000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01527,XT-01544,Unknown,2023-08-19,4,Ibadan,NGN,22690000.0,0.0,22690000.0,False,Completed,Agency Partner,"half payment received, balance pending",service_type_missing
+BK-01528,XT-00529,Wedding Film,2023-08-19,1,Lagos,NGN,4011000.0,0.0,4011000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01529,XT-01232,Event Coverage,2023-08-19,1,Lagos,NGN,4027000.0,0.15,3422950.0,False,Completed,Repeat Client,client rescheduled once,No issues
+BK-01530,XT-01643,Event Coverage,2023-08-19,1,Lagos,NGN,3151000.0,0.0,3151000.0,False,Completed,Walk-in,location permit paid by client,"shoot_days_counted_from_timesheets,location_city_taken_from_client"
+BK-01531,XT-01223,Music Video,2023-08-20,1,Lagos,NGN,3782000.0,0.05,3592900.0,False,In Production,Referral,Not applicable,No issues
+BK-01532,XT-00540,Studio Rental,2023-08-20,3,Johannesburg,NGN,2161000.0,0.0,2161000.0,False,Completed,Unknown,client rescheduled once,No issues
+BK-01533,XT-00953,Music Video,2023-08-20,1,Enugu,NGN,8650000.0,0.0,8650000.0,False,Completed,Repeat Client,Not applicable,location_city_taken_from_client
+BK-01534,XT-01320,Photoshoot,2023-08-20,1,Enugu,NGN,2562000.0,0.0,2562000.0,False,In Production,Walk-in,"Overtime: crew stayed till 2am, billed separately",location_city_taken_from_client
+BK-01535,XT-00563,Wedding Film,2023-08-21,1,Enugu,NGN,3184000.0,0.05,3024800.0,False,Invoiced,Instagram,Not applicable,No issues
+BK-01536,XT-01822,Photoshoot,2023-08-21,1,Atlanta,NGN,2488337.14,0.0,2488337.14,True,In Production,Walk-in,Not applicable,No issues
+BK-01537,XT-00152,Commercial / TVC,2023-08-21,1,Lagos,NGN,25678000.0,0.0,25678000.0,False,Invoiced,TikTok,Not applicable,location_city_taken_from_client
+BK-01538,XT-00651,Wedding Film,2023-08-22,1,Abuja,NGN,6433000.0,0.0,6433000.0,False,Completed,Agency Partner,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01539,XT-00580,Event Coverage,2023-08-22,1,Lagos,NGN,2918000.0,0.0,2918000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01540,XT-00233,Unknown,2023-08-22,1,Abuja,NGN,1137000.0,0.0,1137000.0,False,Completed,TikTok,location permit paid by client,service_type_missing
+BK-01541,XT-00051,Commercial / TVC,2023-08-23,1,Abuja,NGN,16082000.0,0.05,15277900.0,False,Completed,Unknown,Not applicable,No issues
+BK-01542,XT-00770,Event Coverage,2023-08-24,1,Port Harcourt,NGN,2833000.0,0.0,2833000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01543,XT-00068,Studio Rental,2023-08-24,2,Port Harcourt,NGN,800000.0,0.05,760000.0,False,Completed,TikTok,location permit paid by client,No issues
+BK-01544,XT-00097,Wedding Film,2023-08-25,1,Port Harcourt,NGN,7021000.0,0.0,7021000.0,False,Completed,Unknown,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01545,XT-01667,Music Video,2023-08-26,1,Lagos,NGN,7628000.0,0.0,7628000.0,False,Completed,TikTok,"Client said ""make it cinematic, like Nolan""",location_city_taken_from_client
+BK-01546,XT-00918,Studio Rental,2023-08-26,1,Abuja,NGN,488000.0,0.1,439200.0,False,Cancelled,Walk-in,"See contract, clause 4b - travel, per diem",No issues
+BK-01547,XT-01230,Photoshoot,2023-08-26,1,Lagos,NGN,1380000.0,0.0,1380000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01548,XT-01787,Wedding Film,2023-08-27,2,Lagos,NGN,8622000.0,0.0,8622000.0,False,Cancelled,Google,"half payment received, balance pending",No issues
+BK-01549,XT-01665,Photoshoot,2023-08-27,2,Lagos,NGN,1596000.0,0.0,1596000.0,False,Postponed,Unknown,location permit paid by client,No issues
+BK-01550,XT-01498,Photoshoot,2023-08-27,1,Lagos,NGN,3133000.0,0.0,3133000.0,False,Invoiced,Agency Partner,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01551,XT-00040,Event Coverage,2023-08-27,1,Enugu,NGN,4699000.0,0.0,4699000.0,False,In Production,Google,location permit paid by client,No issues
+BK-01552,XT-00781,Commercial / TVC,2023-08-28,2,Abuja,NGN,11666000.0,0.0,11666000.0,False,Completed,Instagram,"half payment received, balance pending",No issues
+BK-01553,XT-00421,Photoshoot,2023-08-28,1,Abuja,NGN,1815000.0,0.0,1815000.0,False,Cancelled,Repeat Client,Not applicable,No issues
+BK-01554,XT-00629,Music Video,2023-08-28,1,Kano,NGN,12793000.0,0.0,12793000.0,False,Completed,Unknown,"See contract, clause 4b - travel, per diem",No issues
+BK-01555,XT-00293,Wedding Film,2023-08-28,1,Lagos,NGN,1998000.0,0.0,1998000.0,False,Completed,Walk-in,drone denied by airport authority,No issues
+BK-01556,XT-01220,Unknown,2023-08-28,2,Lagos,NGN,17185000.0,0.0,17185000.0,False,Completed,Repeat Client,Not applicable,service_type_missing
+BK-01557,XT-01167,Event Coverage,2023-08-29,3,Ibadan,NGN,7732000.0,0.0,7732000.0,False,Completed,Walk-in,drone denied by airport authority,No issues
+BK-01558,XT-01509,Photoshoot,2023-08-29,2,Lagos,NGN,4060000.0,0.0,4060000.0,False,Completed,Referral,Not applicable,No issues
+BK-01559,XT-00372,Wedding Film,2023-08-29,5,Lagos,NGN,14345000.0,0.0,14345000.0,False,Completed,Unknown,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01560,XT-00616,Studio Rental,2023-08-29,1,Enugu,NGN,317000.0,0.0,317000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01561,XT-01789,Short Film,2023-08-29,1,Lagos,NGN,5013000.0,0.1,4511700.0,False,Postponed,Repeat Client,"See contract, clause 4b - travel, per diem",No issues
+BK-01562,XT-01400,Photoshoot,2023-08-30,3,Lagos,NGN,3972000.0,0.0,3972000.0,False,Completed,Instagram,client rescheduled once,location_city_taken_from_client
+BK-01563,XT-00864,Corporate Documentary,2023-08-31,3,Abuja,NGN,25675000.0,0.0,25675000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01564,XT-00581,Unknown,2023-08-31,2,Lagos,NGN,1625000.0,0.0,1625000.0,False,In Production,Agency Partner,Not applicable,service_type_missing
+BK-01565,XT-00123,Corporate Documentary,2023-08-31,1,Abuja,NGN,9009000.0,0.0,9009000.0,False,Completed,Unknown,"See contract, clause 4b - travel, per diem",No issues
+BK-01566,XT-00446,Corporate Documentary,2023-09-02,1,Lagos,NGN,5090000.0,0.0,5090000.0,False,Completed,Agency Partner,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01567,XT-01153,Wedding Film,2023-09-02,1,Abuja,NGN,4879000.0,0.0,4879000.0,False,Completed,Google,Not applicable,No issues
+BK-01568,XT-00550,Wedding Film,2023-09-02,2,Accra,NGN,9118000.0,0.0,9118000.0,False,Completed,Google,Not applicable,No issues
+BK-01569,XT-01590,Music Video,2023-09-02,1,Dubai,NGN,5466302.07,0.0,5466302.07,True,Completed,Referral,Not applicable,fx_rate_carried_from_earlier_day
+BK-01570,XT-00068,Music Video,2023-09-03,1,Port Harcourt,NGN,9491000.0,0.0,9491000.0,False,Completed,Google,Not applicable,No issues
+BK-01571,XT-01113,Commercial / TVC,2023-09-04,5,London,NGN,41602963.43,0.0,41602963.43,True,Invoiced,Google,Not applicable,No issues
+BK-01572,XT-01476,Photoshoot,2023-09-04,1,Lagos,NGN,2620000.0,0.0,2620000.0,False,Completed,TikTok,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01573,XT-01144,Event Coverage,2023-09-04,1,Port Harcourt,NGN,1418000.0,0.0,1418000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01574,XT-00596,Photoshoot,2023-09-05,1,Lagos,NGN,2156000.0,0.05,2048200.0,False,Completed,Repeat Client,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01575,XT-00203,Unknown,2023-09-08,1,Lagos,NGN,2836000.0,0.0,2836000.0,False,Postponed,Instagram,"half payment received, balance pending",service_type_missing
+BK-01576,XT-01736,Wedding Film,2023-09-08,1,Lagos,NGN,5569000.0,0.0,5569000.0,False,Completed,Agency Partner,"half payment received, balance pending",No issues
+BK-01577,XT-00617,Wedding Film,2023-09-08,1,Atlanta,NGN,2727599.42,0.0,2727599.42,True,In Production,Unknown,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01578,XT-01802,Music Video,2023-09-08,2,Johannesburg,NGN,10330000.0,0.0,10330000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01579,XT-00949,Studio Rental,2023-09-09,2,Abuja,NGN,1842000.0,0.1,1657800.0,False,In Production,Unknown,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01580,XT-00823,Event Coverage,2023-09-09,1,Lagos,NGN,4181000.0,0.0,4181000.0,False,Invoiced,Agency Partner,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01581,XT-01306,Music Video,2023-09-09,2,Lagos,NGN,24347000.0,0.0,24347000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01582,XT-00084,Photoshoot,2023-09-10,2,Lagos,NGN,822000.0,0.0,822000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01583,XT-00080,Photoshoot,2023-09-11,2,Lagos,NGN,2937000.0,0.0,2937000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01584,XT-00165,Music Video,2023-09-12,1,Lagos,NGN,12462000.0,0.0,12462000.0,False,Cancelled,TikTok,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01585,XT-01517,Wedding Film,2023-09-12,1,Lagos,NGN,3617000.0,0.0,3617000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01586,XT-00321,Wedding Film,2023-09-12,1,Enugu,NGN,3297000.0,0.0,3297000.0,False,Completed,Repeat Client,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01587,XT-01441,Event Coverage,2023-09-13,1,Lagos,NGN,4847000.0,0.0,4847000.0,False,Postponed,Instagram,drone denied by airport authority,No issues
+BK-01588,XT-00757,Music Video,2023-09-13,2,Port Harcourt,NGN,14281000.0,0.0,14281000.0,False,Completed,Walk-in,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01589,XT-01575,Photoshoot,2023-09-13,1,Port Harcourt,NGN,1566000.0,0.0,1566000.0,False,Completed,Unknown,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01590,XT-01290,Wedding Film,2023-09-13,1,Lagos,NGN,5305000.0,0.0,5305000.0,False,Completed,Referral,Not applicable,No issues
+BK-01591,XT-01353,Studio Rental,2023-09-14,1,Lagos,NGN,1252000.0,0.0,1252000.0,False,Completed,Instagram,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01592,XT-00367,Commercial / TVC,2023-09-14,1,Abuja,NGN,48119000.0,0.0,48119000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01593,XT-01480,Commercial / TVC,2023-09-15,3,Abuja,NGN,80524000.0,0.0,80524000.0,False,Completed,Referral,drone denied by airport authority,No issues
+BK-01594,XT-00216,Photoshoot,2023-09-15,1,Abuja,NGN,826000.0,0.0,826000.0,False,Completed,Walk-in,"half payment received, balance pending",No issues
+BK-01595,XT-01018,Commercial / TVC,2023-09-16,1,Nairobi,NGN,14945000.0,0.0,14945000.0,False,Completed,Referral,Not applicable,No issues
+BK-01596,XT-01146,Wedding Film,2023-09-16,1,Lagos,NGN,3475000.0,0.0,3475000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01597,XT-00636,Short Film,2023-09-16,2,London,NGN,9247524.0,0.0,9247524.0,True,Completed,TikTok,Not applicable,fx_rate_carried_from_earlier_day
+BK-01598,XT-00233,Music Video,2023-09-16,1,Abuja,NGN,14440000.0,0.0,14440000.0,False,Completed,Google,"See contract, clause 4b - travel, per diem",No issues
+BK-01599,XT-01809,Commercial / TVC,2023-09-17,2,Lagos,NGN,16326000.0,0.0,16326000.0,False,Postponed,Instagram,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01600,XT-00656,Wedding Film,2023-09-18,2,Abuja,NGN,4492000.0,0.0,4492000.0,False,Completed,Unknown,Not applicable,location_city_taken_from_client
+BK-01601,XT-00376,Music Video,2023-09-18,1,Nairobi,NGN,13425000.0,0.0,13425000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01602,XT-01602,Photoshoot,2023-09-19,1,Abuja,NGN,2649000.0,0.0,2649000.0,False,Cancelled,Agency Partner,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01603,XT-01497,Short Film,2023-09-19,1,Atlanta,NGN,14453614.1,0.0,14453614.1,True,Invoiced,Walk-in,"half payment received, balance pending",No issues
+BK-01604,XT-00142,Wedding Film,2023-09-19,1,Lagos,NGN,6740000.0,0.0,6740000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01605,XT-00612,Wedding Film,2023-09-20,1,Kano,NGN,5548000.0,0.0,5548000.0,False,Completed,Instagram,"half payment received, balance pending",No issues
+BK-01606,XT-00500,Wedding Film,2023-09-21,1,Johannesburg,NGN,3492000.0,0.0,3492000.0,False,Completed,Agency Partner,"See contract, clause 4b - travel, per diem",No issues
+BK-01607,XT-01845,Studio Rental,2023-09-22,1,Lagos,NGN,1180000.0,0.05,1121000.0,False,Completed,Agency Partner,"half payment received, balance pending",No issues
+BK-01608,XT-01031,Event Coverage,2023-09-22,2,Lagos,NGN,5961000.0,0.15,5066850.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01609,XT-00405,Wedding Film,2023-09-23,1,Atlanta,NGN,3762017.91,0.0,3762017.91,True,Completed,Walk-in,Not applicable,fx_rate_carried_from_earlier_day
+BK-01610,XT-00077,Photoshoot,2023-09-23,1,Lagos,NGN,2962000.0,0.05,2813900.0,False,Completed,Referral,Not applicable,No issues
+BK-01611,XT-01241,Corporate Documentary,2023-09-23,2,Lagos,NGN,4699000.0,0.0,4699000.0,False,Completed,Agency Partner,client rescheduled once,No issues
+BK-01612,XT-00430,Event Coverage,2023-09-25,1,Lagos,NGN,3699000.0,0.0,3699000.0,False,Unknown,Unknown,"half payment received, balance pending",status_missing
+BK-01613,XT-01294,Wedding Film,2023-09-25,1,Lagos,NGN,5824000.0,0.0,5824000.0,False,Completed,Agency Partner,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01614,XT-01417,Wedding Film,2023-09-26,1,Lagos,NGN,3492000.0,0.0,3492000.0,False,Completed,Repeat Client,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01615,XT-00848,Event Coverage,2023-09-27,1,Accra,NGN,3064000.0,0.0,3064000.0,False,Cancelled,Repeat Client,"See contract, clause 4b - travel, per diem",No issues
+BK-01616,XT-01681,Photoshoot,2023-09-27,3,Lagos,NGN,2971000.0,0.05,2822450.0,False,Completed,Referral,location permit paid by client,No issues
+BK-01617,XT-00924,Unknown,2023-09-28,1,Atlanta,NGN,784482.6,0.0,784482.6,True,Completed,TikTok,Not applicable,service_type_missing
+BK-01618,XT-01558,Wedding Film,2023-09-28,1,Port Harcourt,NGN,5953000.0,0.0,5953000.0,False,Completed,Unknown,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01619,XT-01085,Unknown,2023-09-29,2,Enugu,NGN,1656000.0,0.0,1656000.0,False,Cancelled,Google,"Overtime: crew stayed till 2am, billed separately",service_type_missing
+BK-01620,XT-01321,Wedding Film,2023-09-29,1,Johannesburg,NGN,4648000.0,0.15,3950800.0,False,Completed,Repeat Client,drone denied by airport authority,No issues
+BK-01621,XT-00472,Event Coverage,2023-09-29,3,Enugu,NGN,3414000.0,0.1,3072600.0,False,Postponed,Unknown,location permit paid by client,No issues
+BK-01622,XT-00514,Photoshoot,2023-10-01,1,Lagos,NGN,1261000.0,0.0,1261000.0,False,Completed,Instagram,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01623,XT-01312,Photoshoot,2023-10-01,2,Accra,NGN,2569000.0,0.0,2569000.0,False,Completed,Instagram,"See contract, clause 4b - travel, per diem",No issues
+BK-01624,XT-00133,Photoshoot,2023-10-01,1,Lagos,NGN,3141000.0,0.0,3141000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01625,XT-00836,Music Video,2023-10-02,1,Lagos,NGN,2975000.0,0.0,2975000.0,False,Completed,Instagram,"Overtime: crew stayed till 2am, billed separately",location_city_taken_from_client
+BK-01626,XT-01079,Event Coverage,2023-10-02,1,Port Harcourt,NGN,4976000.0,0.0,4976000.0,False,Invoiced,TikTok,"See contract, clause 4b - travel, per diem",No issues
+BK-01627,XT-01837,Studio Rental,2023-10-02,1,London,NGN,987610.03,0.0,987610.03,True,Completed,Agency Partner,Not applicable,"shoot_days_counted_from_timesheets,location_city_taken_from_client"
+BK-01628,XT-01388,Corporate Documentary,2023-10-02,1,Enugu,NGN,5127000.0,0.0,5127000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01629,XT-00930,Photoshoot,2023-10-03,1,Abuja,NGN,3114000.0,0.05,2958300.0,False,Completed,TikTok,client rescheduled once,shoot_days_counted_from_timesheets
+BK-01630,XT-01177,Short Film,2023-10-03,1,Nairobi,NGN,9462000.0,0.05,8988900.0,False,Completed,TikTok,client rescheduled once,No issues
+BK-01631,XT-01136,Photoshoot,2023-10-04,2,Lagos,NGN,1100000.0,0.0,1100000.0,False,Unknown,Instagram,Not applicable,status_missing
+BK-01632,XT-00097,Event Coverage,2023-10-04,3,Port Harcourt,NGN,6310000.0,0.0,6310000.0,False,Completed,Unknown,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01633,XT-00804,Short Film,2023-10-04,1,Lagos,NGN,16749000.0,0.0,16749000.0,False,Cancelled,Unknown,"See contract, clause 4b - travel, per diem",No issues
+BK-01634,XT-00459,Music Video,2023-10-05,3,Johannesburg,NGN,33365000.0,0.0,33365000.0,False,In Production,Walk-in,Not applicable,No issues
+BK-01635,XT-00543,Photoshoot,2023-10-05,1,Lagos,NGN,2681000.0,0.0,2681000.0,False,Completed,Walk-in,"See contract, clause 4b - travel, per diem",No issues
+BK-01636,XT-00385,Photoshoot,2023-10-05,2,Lagos,NGN,2790000.0,0.0,2790000.0,False,Invoiced,Referral,drone denied by airport authority,No issues
+BK-01637,XT-01407,Commercial / TVC,2023-10-06,1,Dubai,NGN,29396241.04,0.0,29396241.04,True,Completed,Unknown,client rescheduled once,No issues
+BK-01638,XT-00061,Wedding Film,2023-10-07,2,Lagos,NGN,3388000.0,0.0,3388000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01639,XT-01590,Photoshoot,2023-10-07,1,Dubai,NGN,1683171.87,0.0,1683171.87,True,Invoiced,Unknown,"half payment received, balance pending",fx_rate_carried_from_earlier_day
+BK-01640,XT-01628,Photoshoot,2023-10-07,2,Enugu,NGN,4190000.0,0.0,4190000.0,False,Postponed,TikTok,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01641,XT-00397,Wedding Film,2023-10-08,1,Enugu,NGN,3312000.0,0.0,3312000.0,False,Completed,Walk-in,client rescheduled once,No issues
+BK-01642,XT-00683,Photoshoot,2023-10-08,1,Enugu,NGN,1923000.0,0.0,1923000.0,False,Completed,Referral,Not applicable,No issues
+BK-01643,XT-01462,Photoshoot,2023-10-08,2,Port Harcourt,NGN,1689000.0,0.0,1689000.0,False,Unknown,TikTok,"See contract, clause 4b - travel, per diem",status_missing
+BK-01644,XT-00020,Corporate Documentary,2023-10-08,2,Abuja,NGN,15351000.0,0.05,14583450.0,False,Completed,Google,Not applicable,No issues
+BK-01645,XT-01817,Wedding Film,2023-10-08,1,Lagos,NGN,2348000.0,0.0,2348000.0,False,Invoiced,Walk-in,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01646,XT-00370,Corporate Documentary,2023-10-08,2,Port Harcourt,NGN,16645000.0,0.0,16645000.0,False,In Production,Instagram,location permit paid by client,No issues
+BK-01647,XT-01275,Photoshoot,2023-10-08,1,Lagos,NGN,1707000.0,0.0,1707000.0,False,Completed,Referral,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01648,XT-00931,Wedding Film,2023-10-08,1,Accra,NGN,4321000.0,0.0,4321000.0,False,In Production,Repeat Client,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01649,XT-00966,Commercial / TVC,2023-10-08,1,Dubai,NGN,13572054.84,0.0,13572054.84,True,Postponed,Agency Partner,drone denied by airport authority,fx_rate_carried_from_earlier_day
+BK-01650,XT-01643,Wedding Film,2023-10-09,1,Lagos,NGN,6746000.0,0.0,6746000.0,False,Completed,Google,drone denied by airport authority,location_city_taken_from_client
+BK-01651,XT-00885,Corporate Documentary,2023-10-09,2,Abuja,NGN,9054000.0,0.0,9054000.0,False,Invoiced,Instagram,Not applicable,No issues
+BK-01652,XT-01411,Photoshoot,2023-10-09,1,Dubai,NGN,1573479.91,0.0,1573479.91,True,Completed,TikTok,location permit paid by client,No issues
+BK-01653,XT-01403,Music Video,2023-10-10,1,London,NGN,9270757.96,0.0,9270757.96,True,Invoiced,Walk-in,client rescheduled once,No issues
+BK-01654,XT-00326,Music Video,2023-10-10,1,Atlanta,NGN,6579040.69,0.0,6579040.69,True,Completed,Referral,Not applicable,location_city_taken_from_client
+BK-01655,XT-00188,Wedding Film,2023-10-10,1,Enugu,NGN,3375000.0,0.0,3375000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01656,XT-00781,Wedding Film,2023-10-10,1,Abuja,NGN,6857000.0,0.0,6857000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01657,XT-00727,Corporate Documentary,2023-10-10,1,Lagos,NGN,10746000.0,0.0,10746000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01658,XT-01235,Wedding Film,2023-10-10,1,London,NGN,3605294.76,0.0,3605294.76,True,Invoiced,Referral,"See contract, clause 4b - travel, per diem",No issues
+BK-01659,XT-00692,Wedding Film,2023-10-11,1,Lagos,NGN,3090000.0,0.0,3090000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01660,XT-00456,Wedding Film,2023-10-12,5,Nairobi,NGN,12815000.0,0.0,12815000.0,False,Completed,Unknown,"half payment received, balance pending",No issues
+BK-01661,XT-01038,Wedding Film,2023-10-12,1,Lagos,NGN,6304000.0,0.0,6304000.0,False,Completed,Instagram,Not applicable,location_city_taken_from_client
+BK-01662,XT-00526,Event Coverage,2023-10-12,1,Lagos,NGN,1684000.0,0.0,1684000.0,False,Completed,Instagram,"See contract, clause 4b - travel, per diem",currency_inferred_from_client_other_bookings
+BK-01663,XT-00432,Commercial / TVC,2023-10-13,3,Lagos,NGN,64297000.0,0.0,64297000.0,False,Completed,TikTok,"half payment received, balance pending",No issues
+BK-01664,XT-01676,Studio Rental,2023-10-14,2,London,NGN,1236708.0,0.0,1236708.0,True,In Production,Google,Not applicable,"shoot_days_counted_from_timesheets,fx_rate_carried_from_earlier_day"
+BK-01665,XT-01697,Event Coverage,2023-10-14,1,Accra,NGN,4526000.0,0.1,4073400.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01666,XT-01106,Wedding Film,2023-10-14,2,Johannesburg,NGN,9522000.0,0.0,9522000.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01667,XT-00615,Photoshoot,2023-10-14,1,Lagos,NGN,970000.0,0.0,970000.0,False,Cancelled,Walk-in,"See contract, clause 4b - travel, per diem",No issues
+BK-01668,XT-01817,Music Video,2023-10-15,3,Lagos,NGN,21510000.0,0.0,21510000.0,False,Invoiced,Instagram,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01669,XT-00592,Studio Rental,2023-10-15,1,Lagos,NGN,1555000.0,0.0,1555000.0,False,Invoiced,Instagram,drone denied by airport authority,shoot_days_counted_from_timesheets
+BK-01670,XT-01794,Event Coverage,2023-10-15,1,Lagos,NGN,4714000.0,0.0,4714000.0,False,In Production,Instagram,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01671,XT-01551,Event Coverage,2023-10-16,1,Abuja,NGN,1324000.0,0.0,1324000.0,False,Completed,Google,Not applicable,No issues
+BK-01672,XT-01217,Event Coverage,2023-10-16,1,London,NGN,1848853.51,0.0,1848853.51,True,Completed,Walk-in,Not applicable,No issues
+BK-01673,XT-00955,Corporate Documentary,2023-10-16,2,Accra,NGN,13340000.0,0.0,13340000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01674,XT-00790,Wedding Film,2023-10-17,1,Lagos,NGN,5300000.0,0.0,5300000.0,False,Postponed,TikTok,Not applicable,No issues
+BK-01675,XT-00914,Studio Rental,2023-10-17,3,Enugu,NGN,1764000.0,0.0,1764000.0,False,Completed,Referral,Not applicable,shoot_days_counted_from_timesheets
+BK-01676,XT-00542,Studio Rental,2023-10-17,1,Johannesburg,NGN,1557000.0,0.0,1557000.0,False,Completed,Walk-in,"half payment received, balance pending",No issues
+BK-01677,XT-00449,Commercial / TVC,2023-10-17,1,Port Harcourt,NGN,13381000.0,0.0,13381000.0,False,Postponed,Walk-in,Not applicable,No issues
+BK-01678,XT-00006,Unknown,2023-10-18,1,Abuja,NGN,12508000.0,0.0,12508000.0,False,Cancelled,Unknown,Not applicable,service_type_missing
+BK-01679,XT-00394,Wedding Film,2023-10-18,2,Abuja,NGN,4219000.0,0.05,4008050.0,False,Completed,Repeat Client,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01680,XT-00570,Event Coverage,2023-10-19,1,Atlanta,NGN,2524426.8,0.05,2398205.46,True,Postponed,Referral,"See contract, clause 4b - travel, per diem",No issues
+BK-01681,XT-01551,Music Video,2023-10-19,2,Abuja,NGN,20211000.0,0.0,20211000.0,False,Cancelled,Agency Partner,"See contract, clause 4b - travel, per diem",No issues
+BK-01682,XT-01196,Wedding Film,2023-10-20,1,Port Harcourt,NGN,6063000.0,0.0,6063000.0,False,Cancelled,TikTok,client rescheduled once,location_city_taken_from_client
+BK-01683,XT-00568,Photoshoot,2023-10-20,1,Accra,NGN,3111000.0,0.0,3111000.0,False,Completed,Repeat Client,client rescheduled once,No issues
+BK-01684,XT-01314,Unknown,2023-10-21,1,Lagos,NGN,12431000.0,0.0,12431000.0,False,Completed,Instagram,Not applicable,"location_city_taken_from_client,service_type_missing"
+BK-01685,XT-00983,Corporate Documentary,2023-10-21,1,London,NGN,11152672.7,0.0,11152672.7,True,Completed,Unknown,"See contract, clause 4b - travel, per diem","location_city_taken_from_client,fx_rate_carried_from_earlier_day"
+BK-01686,XT-01115,Corporate Documentary,2023-10-21,2,Lagos,NGN,17026000.0,0.05,16174700.0,False,Unknown,Google,Not applicable,status_missing
+BK-01687,XT-01110,Unknown,2023-10-22,1,Atlanta,NGN,3284940.0,0.0,3284940.0,True,Cancelled,Google,Not applicable,"service_type_missing,fx_rate_carried_from_earlier_day"
+BK-01688,XT-00810,Studio Rental,2023-10-22,1,Lagos,NGN,605000.0,0.0,605000.0,False,In Production,Instagram,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01689,XT-00839,Studio Rental,2023-10-22,2,Lagos,NGN,559000.0,0.0,559000.0,False,Postponed,Walk-in,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01690,XT-00917,Music Video,2023-10-23,1,Lagos,NGN,5979000.0,0.1,5381100.0,False,Completed,Repeat Client,drone denied by airport authority,No issues
+BK-01691,XT-00064,Event Coverage,2023-10-24,1,Port Harcourt,NGN,1406000.0,0.0,1406000.0,False,Completed,Unknown,client rescheduled once,No issues
+BK-01692,XT-01201,Event Coverage,2023-10-24,1,Lagos,NGN,4506000.0,0.0,4506000.0,False,Completed,Instagram,Not applicable,location_city_taken_from_client
+BK-01693,XT-01059,Corporate Documentary,2023-10-25,1,Lagos,NGN,14725000.0,0.0,14725000.0,False,Unknown,Instagram,Not applicable,status_missing
+BK-01694,XT-01749,Wedding Film,2023-10-25,1,Port Harcourt,NGN,3345000.0,0.1,3010500.0,False,Postponed,Referral,"See contract, clause 4b - travel, per diem",No issues
+BK-01695,XT-01437,Studio Rental,2023-10-25,1,Lagos,NGN,596000.0,0.05,566200.0,False,Completed,TikTok,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01696,XT-00733,Music Video,2023-10-26,1,Lagos,NGN,9148000.0,0.0,9148000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01697,XT-00548,Photoshoot,2023-10-26,1,Lagos,NGN,2358000.0,0.0,2358000.0,False,Completed,Instagram,client rescheduled once,No issues
+BK-01698,XT-01162,Event Coverage,2023-10-26,2,Abuja,NGN,1737000.0,0.0,1737000.0,False,Completed,Agency Partner,"half payment received, balance pending",No issues
+BK-01699,XT-00705,Photoshoot,2023-10-26,1,London,NGN,1609153.9,0.0,1609153.9,True,Completed,Instagram,client rescheduled once,shoot_days_counted_from_timesheets
+BK-01700,XT-00887,Commercial / TVC,2023-10-27,1,Lagos,NGN,31385000.0,0.0,31385000.0,False,Completed,Unknown,"See contract, clause 4b - travel, per diem",No issues
+BK-01701,XT-01411,Music Video,2023-10-27,1,Dubai,NGN,13188887.71,0.0,13188887.71,True,Postponed,Agency Partner,Not applicable,No issues
+BK-01702,XT-00331,Studio Rental,2023-10-27,2,Lagos,NGN,886000.0,0.0,886000.0,False,Completed,Unknown,location permit paid by client,No issues
+BK-01703,XT-01206,Event Coverage,2023-10-27,4,Kano,NGN,7698000.0,0.0,7698000.0,False,Invoiced,Referral,Not applicable,No issues
+BK-01704,XT-01600,Photoshoot,2023-10-28,3,Accra,NGN,4947000.0,0.0,4947000.0,False,In Production,Unknown,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01705,XT-00762,Corporate Documentary,2023-10-28,1,Lagos,NGN,5255000.0,0.0,5255000.0,False,Cancelled,Instagram,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01706,XT-00135,Music Video,2023-10-28,1,Lagos,NGN,7462000.0,0.0,7462000.0,False,Invoiced,Instagram,Not applicable,No issues
+BK-01707,XT-00205,Photoshoot,2023-10-29,2,Lagos,NGN,1921000.0,0.0,1921000.0,False,Completed,Instagram,"See contract, clause 4b - travel, per diem",No issues
+BK-01708,XT-01368,Short Film,2023-10-29,1,Lagos,NGN,12897000.0,0.0,12897000.0,False,Completed,Repeat Client,client rescheduled once,No issues
+BK-01709,XT-00301,Corporate Documentary,2023-10-29,1,Dubai,NGN,8517823.31,0.0,8517823.31,True,Completed,Referral,RAW files delivered on 2 x 1TB SSD,fx_rate_carried_from_earlier_day
+BK-01710,XT-00624,Studio Rental,2023-10-29,1,Lagos,NGN,614000.0,0.05,583300.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01711,XT-01341,Unknown,2023-10-30,1,Accra,NGN,1835000.0,0.0,1835000.0,False,Completed,TikTok,drone denied by airport authority,service_type_missing
+BK-01712,XT-00438,Studio Rental,2023-10-30,1,Johannesburg,NGN,750000.0,0.0,750000.0,False,Completed,TikTok,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01713,XT-00900,Studio Rental,2023-10-30,1,Abuja,NGN,447000.0,0.0,447000.0,False,Cancelled,Referral,Not applicable,No issues
+BK-01714,XT-01801,Short Film,2023-10-31,2,Ibadan,NGN,23635000.0,0.0,23635000.0,False,Invoiced,Unknown,"half payment received, balance pending",No issues
+BK-01715,XT-00905,Event Coverage,2023-10-31,1,Ibadan,NGN,1638000.0,0.0,1638000.0,False,Completed,Google,client rescheduled once,shoot_days_counted_from_timesheets
+BK-01716,XT-01567,Short Film,2023-10-31,1,Lagos,NGN,10913000.0,0.0,10913000.0,False,In Production,Referral,Not applicable,No issues
+BK-01717,XT-01449,Wedding Film,2023-11-01,1,Lagos,NGN,6534000.0,0.0,6534000.0,False,In Production,Walk-in,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01718,XT-00952,Commercial / TVC,2023-11-01,2,Dubai,NGN,20051472.74,0.0,20051472.74,True,Completed,Agency Partner,Not applicable,No issues
+BK-01719,XT-00390,Photoshoot,2023-11-02,1,Port Harcourt,NGN,1227000.0,0.0,1227000.0,False,Completed,Agency Partner,"See contract, clause 4b - travel, per diem",No issues
+BK-01720,XT-00776,Commercial / TVC,2023-11-02,2,Ibadan,NGN,21650000.0,0.0,21650000.0,False,Completed,Referral,"half payment received, balance pending",No issues
+BK-01721,XT-01321,Wedding Film,2023-11-02,1,Johannesburg,NGN,6617000.0,0.0,6617000.0,False,Completed,Repeat Client,client rescheduled once,No issues
+BK-01722,XT-00647,Music Video,2023-11-02,1,Ibadan,NGN,13802000.0,0.0,13802000.0,False,Completed,TikTok,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01723,XT-00949,Photoshoot,2023-11-03,2,Abuja,NGN,1042000.0,0.0,1042000.0,False,Postponed,Referral,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01724,XT-01456,Wedding Film,2023-11-03,1,Nairobi,NGN,2387000.0,0.0,2387000.0,False,Completed,Agency Partner,drone denied by airport authority,No issues
+BK-01725,XT-01842,Event Coverage,2023-11-03,1,Lagos,NGN,4950000.0,0.0,4950000.0,False,Completed,Google,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01726,XT-01341,Photoshoot,2023-11-04,2,Accra,NGN,4367000.0,0.0,4367000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01727,XT-01096,Event Coverage,2023-11-04,5,Lagos,NGN,7461000.0,0.1,6714900.0,False,Completed,TikTok,Not applicable,No issues
+BK-01728,XT-00893,Photoshoot,2023-11-04,1,Enugu,NGN,793000.0,0.0,793000.0,False,Completed,TikTok,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01729,XT-00191,Commercial / TVC,2023-11-04,1,Ibadan,NGN,14839000.0,0.0,14839000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01730,XT-01573,Short Film,2023-11-04,1,Port Harcourt,NGN,23415000.0,0.0,23415000.0,False,Completed,Google,RAW files delivered on 2 x 1TB SSD,location_city_taken_from_client
+BK-01731,XT-01863,Commercial / TVC,2023-11-04,1,Port Harcourt,NGN,31021000.0,0.0,31021000.0,False,Completed,Unknown,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01732,XT-01389,Commercial / TVC,2023-11-05,1,Ibadan,NGN,24355000.0,0.0,24355000.0,False,Completed,Instagram,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01733,XT-00803,Wedding Film,2023-11-05,1,London,NGN,5461110.6,0.0,5461110.6,True,Completed,Repeat Client,RAW files delivered on 2 x 1TB SSD,fx_rate_carried_from_earlier_day
+BK-01734,XT-01535,Unknown,2023-11-05,1,Kano,NGN,936000.0,0.0,936000.0,False,Completed,Walk-in,Not applicable,service_type_missing
+BK-01735,XT-01670,Wedding Film,2023-11-05,1,Port Harcourt,NGN,5301000.0,0.1,4770900.0,False,Invoiced,Repeat Client,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01736,XT-00499,Music Video,2023-11-05,1,Lagos,NGN,18288000.0,0.0,18288000.0,False,Completed,Instagram,drone denied by airport authority,No issues
+BK-01737,XT-00800,Photoshoot,2023-11-05,2,Lagos,NGN,4509000.0,0.0,4509000.0,False,Completed,Referral,RAW files delivered on 2 x 1TB SSD,location_city_taken_from_client
+BK-01738,XT-00695,Corporate Documentary,2023-11-05,1,Abuja,NGN,12510000.0,0.0,12510000.0,False,Completed,TikTok,drone denied by airport authority,No issues
+BK-01739,XT-01742,Wedding Film,2023-11-05,1,Lagos,NGN,7143000.0,0.0,7143000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01740,XT-00398,Unknown,2023-11-06,1,Lagos,NGN,17375000.0,0.0,17375000.0,False,Completed,Unknown,Not applicable,"location_city_taken_from_client,service_type_missing"
+BK-01741,XT-01810,Corporate Documentary,2023-11-06,1,Johannesburg,NGN,7843000.0,0.0,7843000.0,False,Completed,Unknown,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01742,XT-01568,Commercial / TVC,2023-11-06,2,Lagos,NGN,60910000.0,0.0,60910000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01743,XT-01270,Music Video,2023-11-06,1,Abuja,NGN,10002000.0,0.0,10002000.0,False,Invoiced,Instagram,Not applicable,No issues
+BK-01744,XT-00048,Photoshoot,2023-11-07,1,Lagos,NGN,1075000.0,0.1,967500.0,False,Completed,Google,Not applicable,No issues
+BK-01745,XT-01211,Corporate Documentary,2023-11-07,1,Ibadan,NGN,14805000.0,0.0,14805000.0,False,Completed,Unknown,location permit paid by client,No issues
+BK-01746,XT-00799,Photoshoot,2023-11-07,1,Lagos,NGN,3604000.0,0.0,3604000.0,False,Completed,Google,"half payment received, balance pending",No issues
+BK-01747,XT-00731,Photoshoot,2023-11-07,1,Abuja,NGN,629000.0,0.0,629000.0,False,Cancelled,Walk-in,Not applicable,No issues
+BK-01748,XT-00993,Music Video,2023-11-08,1,Johannesburg,NGN,8239000.0,0.1,7415100.0,False,Postponed,TikTok,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01749,XT-00723,Music Video,2023-11-09,1,Atlanta,NGN,10527419.41,0.0,10527419.41,True,Invoiced,Instagram,client rescheduled once,No issues
+BK-01750,XT-01476,Photoshoot,2023-11-09,1,Lagos,NGN,2995000.0,0.0,2995000.0,False,Completed,Repeat Client,"See contract, clause 4b - travel, per diem",No issues
+BK-01751,XT-00478,Wedding Film,2023-11-09,1,Lagos,NGN,4860000.0,0.0,4860000.0,False,Completed,Instagram,Not applicable,shoot_days_counted_from_timesheets
+BK-01752,XT-00742,Short Film,2023-11-09,1,Lagos,NGN,14705000.0,0.15,12499250.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01753,XT-01232,Photoshoot,2023-11-09,1,Lagos,NGN,915000.0,0.0,915000.0,False,Completed,Referral,"See contract, clause 4b - travel, per diem",No issues
+BK-01754,XT-00893,Studio Rental,2023-11-10,1,Enugu,NGN,884000.0,0.0,884000.0,False,Completed,Google,"See contract, clause 4b - travel, per diem",location_city_taken_from_client
+BK-01755,XT-00661,Commercial / TVC,2023-11-10,2,Ibadan,NGN,29815000.0,0.0,29815000.0,False,Completed,Unknown,location permit paid by client,No issues
+BK-01756,XT-00523,Music Video,2023-11-11,1,Kano,NGN,14540000.0,0.1,13086000.0,False,Completed,TikTok,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01757,XT-00450,Corporate Documentary,2023-11-11,1,Port Harcourt,NGN,15592000.0,0.0,15592000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01758,XT-01707,Music Video,2023-11-11,1,Port Harcourt,NGN,10811000.0,0.0,10811000.0,False,In Production,Instagram,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01759,XT-01504,Music Video,2023-11-11,1,Nairobi,NGN,17012000.0,0.0,17012000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01760,XT-01342,Music Video,2023-11-11,1,Lagos,NGN,4302000.0,0.0,4302000.0,False,Postponed,Referral,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01761,XT-01228,Photoshoot,2023-11-11,2,Atlanta,NGN,3142110.37,0.0,3142110.37,True,Cancelled,Repeat Client,drone denied by airport authority,fx_rate_carried_from_earlier_day
+BK-01762,XT-00110,Photoshoot,2023-11-12,1,Kano,NGN,1625000.0,0.0,1625000.0,False,In Production,TikTok,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01763,XT-00878,Music Video,2023-11-12,1,Abuja,NGN,12777000.0,0.0,12777000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01764,XT-00079,Corporate Documentary,2023-11-12,2,Abuja,NGN,15487000.0,0.0,15487000.0,False,Completed,Referral,Not applicable,No issues
+BK-01765,XT-01761,Music Video,2023-11-12,1,Nairobi,NGN,3087000.0,0.0,3087000.0,False,Cancelled,Referral,"See contract, clause 4b - travel, per diem",No issues
+BK-01766,XT-00678,Event Coverage,2023-11-12,1,Dubai,NGN,1977902.14,0.0,1977902.14,True,Completed,Google,Not applicable,fx_rate_carried_from_earlier_day
+BK-01767,XT-00702,Music Video,2023-11-12,1,Lagos,NGN,13406000.0,0.0,13406000.0,False,Completed,Referral,Not applicable,No issues
+BK-01768,XT-00494,Wedding Film,2023-11-12,1,Abuja,NGN,2390000.0,0.0,2390000.0,False,Completed,Unknown,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01769,XT-01610,Studio Rental,2023-11-12,1,Ibadan,NGN,792000.0,0.0,792000.0,False,Completed,Instagram,drone denied by airport authority,No issues
+BK-01770,XT-00431,Photoshoot,2023-11-12,2,Nairobi,NGN,4253000.0,0.0,4253000.0,False,Invoiced,Agency Partner,Not applicable,No issues
+BK-01771,XT-01743,Photoshoot,2023-11-13,1,Lagos,NGN,696000.0,0.0,696000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01772,XT-00129,Corporate Documentary,2023-11-13,1,Nairobi,NGN,15611000.0,0.0,15611000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01773,XT-00918,Studio Rental,2023-11-13,2,Abuja,NGN,1210000.0,0.0,1210000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01774,XT-00517,Studio Rental,2023-11-13,1,Abuja,NGN,930000.0,0.0,930000.0,False,Completed,Repeat Client,location permit paid by client,No issues
+BK-01775,XT-00147,Wedding Film,2023-11-14,3,Kano,NGN,8256000.0,0.0,8256000.0,False,Postponed,TikTok,drone denied by airport authority,No issues
+BK-01776,XT-01301,Event Coverage,2023-11-14,5,Johannesburg,NGN,12174000.0,0.0,12174000.0,False,Completed,TikTok,Not applicable,No issues
+BK-01777,XT-01457,Event Coverage,2023-11-14,1,Lagos,NGN,1741000.0,0.0,1741000.0,False,Postponed,Referral,"half payment received, balance pending",No issues
+BK-01778,XT-00700,Photoshoot,2023-11-14,5,Accra,NGN,2678000.0,0.15,2276300.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01779,XT-01608,Music Video,2023-11-14,1,Lagos,NGN,20299000.0,0.05,19284050.0,False,Cancelled,Agency Partner,drone denied by airport authority,No issues
+BK-01780,XT-01094,Corporate Documentary,2023-11-15,1,Lagos,NGN,15794000.0,0.0,15794000.0,False,Completed,Google,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01781,XT-01754,Event Coverage,2023-11-15,1,Ibadan,NGN,2123000.0,0.0,2123000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01782,XT-01858,Music Video,2023-11-16,1,Lagos,NGN,3132000.0,0.0,3132000.0,False,Invoiced,Unknown,location permit paid by client,No issues
+BK-01783,XT-01646,Event Coverage,2023-11-16,2,Ibadan,NGN,3714000.0,0.0,3714000.0,False,Cancelled,Unknown,Not applicable,No issues
+BK-01784,XT-01180,Photoshoot,2023-11-16,1,Kano,NGN,1321000.0,0.05,1254950.0,False,Completed,Unknown,client rescheduled once,No issues
+BK-01785,XT-01242,Wedding Film,2023-11-16,1,Abuja,NGN,3542000.0,0.0,3542000.0,False,Cancelled,Repeat Client,Not applicable,No issues
+BK-01786,XT-01120,Photoshoot,2023-11-17,1,Lagos,NGN,1785000.0,0.0,1785000.0,False,In Production,Walk-in,Not applicable,No issues
+BK-01787,XT-00433,Commercial / TVC,2023-11-17,1,Enugu,NGN,14719000.0,0.0,14719000.0,False,Completed,Instagram,"half payment received, balance pending",No issues
+BK-01788,XT-01592,Photoshoot,2023-11-17,1,Lagos,NGN,3104000.0,0.0,3104000.0,False,In Production,Instagram,"See contract, clause 4b - travel, per diem",No issues
+BK-01789,XT-00947,Photoshoot,2023-11-18,1,Lagos,NGN,1123000.0,0.0,1123000.0,False,Completed,Unknown,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01790,XT-01347,Wedding Film,2023-11-18,1,Abuja,NGN,3541000.0,0.0,3541000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01791,XT-01358,Studio Rental,2023-11-18,1,Abuja,NGN,773000.0,0.0,773000.0,False,Cancelled,TikTok,"See contract, clause 4b - travel, per diem",No issues
+BK-01792,XT-00697,Studio Rental,2023-11-18,1,Lagos,NGN,510000.0,0.0,510000.0,False,Completed,TikTok,"half payment received, balance pending",No issues
+BK-01793,XT-00274,Photoshoot,2023-11-19,1,Lagos,NGN,883000.0,0.05,838850.0,False,Completed,Agency Partner,location permit paid by client,No issues
+BK-01794,XT-01637,Corporate Documentary,2023-11-19,3,Lagos,NGN,21493000.0,0.0,21493000.0,False,Completed,Instagram,"See contract, clause 4b - travel, per diem",No issues
+BK-01795,XT-00548,Event Coverage,2023-11-19,1,Lagos,NGN,2887000.0,0.1,2598300.0,False,Invoiced,TikTok,Not applicable,location_city_taken_from_client
+BK-01796,XT-01513,Corporate Documentary,2023-11-20,1,London,NGN,10537518.97,0.0,10537518.97,True,Completed,Repeat Client,"Client said ""make it cinematic, like Nolan""",location_city_taken_from_client
+BK-01797,XT-00631,Unknown,2023-11-20,1,London,NGN,178854.64,0.0,178854.64,True,Postponed,Instagram,Not applicable,service_type_missing
+BK-01798,XT-00039,Wedding Film,2023-11-20,4,Enugu,NGN,14065000.0,0.0,14065000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01799,XT-01723,Photoshoot,2023-11-21,1,Lagos,NGN,3550000.0,0.0,3550000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01800,XT-01603,Music Video,2023-11-21,1,Lagos,NGN,18969000.0,0.0,18969000.0,False,Invoiced,Google,Not applicable,No issues
+BK-01801,XT-01002,Event Coverage,2023-11-21,1,Abuja,NGN,4589000.0,0.0,4589000.0,False,Completed,TikTok,drone denied by airport authority,location_city_taken_from_client
+BK-01802,XT-01616,Music Video,2023-11-21,1,London,NGN,3936235.6,0.0,3936235.6,True,Cancelled,Repeat Client,drone denied by airport authority,No issues
+BK-01803,XT-00487,Commercial / TVC,2023-11-21,1,London,NGN,34750049.4,0.05,33012546.93,True,Completed,Google,Not applicable,No issues
+BK-01804,XT-01209,Event Coverage,2023-11-22,1,Lagos,NGN,1574000.0,0.0,1574000.0,False,In Production,Referral,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01805,XT-00087,Commercial / TVC,2023-11-22,2,Lagos,NGN,18349000.0,0.0,18349000.0,False,Completed,Agency Partner,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01806,XT-00381,Music Video,2023-11-22,2,Lagos,NGN,23578000.0,0.0,23578000.0,False,Completed,Unknown,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01807,XT-00295,Wedding Film,2023-11-22,2,Abuja,NGN,3133000.0,0.1,2819700.0,False,Completed,Google,location permit paid by client,shoot_days_counted_from_timesheets
+BK-01808,XT-01096,Photoshoot,2023-11-22,1,Lagos,NGN,3591000.0,0.0,3591000.0,False,Completed,Unknown,client rescheduled once,No issues
+BK-01809,XT-00834,Wedding Film,2023-11-23,1,Lagos,NGN,6537000.0,0.0,6537000.0,False,Postponed,Unknown,location permit paid by client,No issues
+BK-01810,XT-00438,Wedding Film,2023-11-23,1,Johannesburg,NGN,4874000.0,0.0,4874000.0,False,Completed,Referral,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01811,XT-01555,Music Video,2023-11-23,1,Dubai,NGN,14517557.1,0.0,14517557.1,True,Completed,Agency Partner,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01812,XT-01297,Corporate Documentary,2023-11-24,2,Abuja,NGN,17588000.0,0.0,17588000.0,False,Completed,Unknown,"half payment received, balance pending",No issues
+BK-01813,XT-00145,Wedding Film,2023-11-24,1,Dubai,NGN,4943731.5,0.0,4943731.5,True,Completed,Google,"half payment received, balance pending",No issues
+BK-01814,XT-01031,Wedding Film,2023-11-25,2,Lagos,NGN,4220000.0,0.0,4220000.0,False,Completed,Google,Not applicable,No issues
+BK-01815,XT-00371,Wedding Film,2023-11-25,2,Abuja,NGN,7665000.0,0.0,7665000.0,False,Completed,Unknown,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01816,XT-00715,Commercial / TVC,2023-11-25,1,Lagos,NGN,16848000.0,0.0,16848000.0,False,Completed,Referral,Not applicable,No issues
+BK-01817,XT-01229,Event Coverage,2023-11-25,2,Abuja,NGN,4908000.0,0.1,4417200.0,False,In Production,Agency Partner,"See contract, clause 4b - travel, per diem",No issues
+BK-01818,XT-01155,Short Film,2023-11-25,1,Nairobi,NGN,11030000.0,0.0,11030000.0,False,Completed,Google,Not applicable,No issues
+BK-01819,XT-01742,Music Video,2023-11-25,1,Lagos,NGN,14004000.0,0.0,14004000.0,False,Completed,Agency Partner,location permit paid by client,No issues
+BK-01820,XT-01476,Unknown,2023-11-26,1,Lagos,NGN,3779000.0,0.0,3779000.0,False,Completed,Repeat Client,Not applicable,service_type_missing
+BK-01821,XT-01316,Photoshoot,2023-11-26,1,Lagos,NGN,629000.0,0.0,629000.0,False,In Production,Repeat Client,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01822,XT-00180,Unknown,2023-11-26,1,Abuja,NGN,3039000.0,0.0,3039000.0,False,Completed,Walk-in,drone denied by airport authority,service_type_missing
+BK-01823,XT-00676,Wedding Film,2023-11-26,3,Enugu,NGN,11087000.0,0.05,10532650.0,False,Completed,Referral,drone denied by airport authority,No issues
+BK-01824,XT-00933,Photoshoot,2023-11-27,1,Nairobi,NGN,3360000.0,0.0,3360000.0,False,Invoiced,TikTok,"See contract, clause 4b - travel, per diem",No issues
+BK-01825,XT-00173,Wedding Film,2023-11-27,1,Abuja,NGN,7157000.0,0.0,7157000.0,False,Unknown,Google,"Client said ""make it cinematic, like Nolan""",status_missing
+BK-01826,XT-01259,Event Coverage,2023-11-27,1,Abuja,NGN,2983000.0,0.0,2983000.0,False,Invoiced,Repeat Client,client rescheduled once,No issues
+BK-01827,XT-00858,Event Coverage,2023-11-27,1,Lagos,NGN,4563000.0,0.0,4563000.0,False,Invoiced,Referral,Not applicable,No issues
+BK-01828,XT-00517,Photoshoot,2023-11-27,1,Abuja,NGN,1012000.0,0.0,1012000.0,False,Completed,TikTok,RAW files delivered on 2 x 1TB SSD,shoot_days_counted_from_timesheets
+BK-01829,XT-01645,Photoshoot,2023-11-28,1,Abuja,NGN,2860000.0,0.0,2860000.0,False,Completed,Repeat Client,drone denied by airport authority,location_city_taken_from_client
+BK-01830,XT-00125,Commercial / TVC,2023-11-28,1,Lagos,NGN,9390000.0,0.0,9390000.0,False,Completed,Referral,"See contract, clause 4b - travel, per diem",No issues
+BK-01831,XT-01367,Event Coverage,2023-11-28,1,Lagos,NGN,1551000.0,0.0,1551000.0,False,Cancelled,Unknown,client rescheduled once,No issues
+BK-01832,XT-01449,Wedding Film,2023-11-29,1,Lagos,NGN,3129000.0,0.0,3129000.0,False,Completed,Unknown,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01833,XT-00128,Commercial / TVC,2023-11-29,1,Enugu,NGN,27889000.0,0.0,27889000.0,False,Cancelled,TikTok,RAW files delivered on 2 x 1TB SSD,location_city_taken_from_client
+BK-01834,XT-00665,Event Coverage,2023-11-29,1,Lagos,NGN,1172000.0,0.0,1172000.0,False,Cancelled,Unknown,Not applicable,No issues
+BK-01835,XT-00580,Photoshoot,2023-11-29,2,Lagos,NGN,4207000.0,0.0,4207000.0,False,Completed,Walk-in,drone denied by airport authority,location_city_taken_from_client
+BK-01836,XT-01520,Wedding Film,2023-11-29,1,Accra,NGN,4010000.0,0.0,4010000.0,False,Completed,Agency Partner,"half payment received, balance pending",shoot_days_counted_from_timesheets
+BK-01837,XT-01200,Wedding Film,2023-11-30,5,Johannesburg,NGN,6345000.0,0.0,6345000.0,False,Completed,TikTok,drone denied by airport authority,No issues
+BK-01838,XT-01625,Event Coverage,2023-11-30,1,Abuja,NGN,3544000.0,0.0,3544000.0,False,Completed,Unknown,"half payment received, balance pending",No issues
+BK-01839,XT-00948,Corporate Documentary,2023-12-01,3,Lagos,NGN,11506000.0,0.0,11506000.0,False,Invoiced,Unknown,Not applicable,No issues
+BK-01840,XT-01385,Music Video,2023-12-01,1,Atlanta,NGN,4651228.66,0.0,4651228.66,True,Completed,Referral,"See contract, clause 4b - travel, per diem",No issues
+BK-01841,XT-01128,Wedding Film,2023-12-02,3,Ibadan,NGN,10117000.0,0.0,10117000.0,False,Completed,Referral,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01842,XT-00135,Wedding Film,2023-12-02,1,Lagos,NGN,6531000.0,0.0,6531000.0,False,Completed,Walk-in,drone denied by airport authority,No issues
+BK-01843,XT-01063,Wedding Film,2023-12-02,5,Atlanta,NGN,13388706.22,0.0,13388706.22,True,Completed,Unknown,client rescheduled once,fx_rate_carried_from_earlier_day
+BK-01844,XT-01138,Music Video,2023-12-03,1,Abuja,NGN,10910000.0,0.0,10910000.0,False,Completed,Walk-in,"half payment received, balance pending",No issues
+BK-01845,XT-00812,Event Coverage,2023-12-03,1,Atlanta,NGN,2036554.92,0.0,2036554.92,True,Completed,Google,"half payment received, balance pending",fx_rate_carried_from_earlier_day
+BK-01846,XT-00933,Photoshoot,2023-12-03,1,Nairobi,NGN,784000.0,0.0,784000.0,False,Completed,Referral,client rescheduled once,No issues
+BK-01847,XT-00584,Short Film,2023-12-03,1,Enugu,NGN,22187000.0,0.0,22187000.0,False,Invoiced,Instagram,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01848,XT-01781,Wedding Film,2023-12-04,1,Lagos,NGN,3165000.0,0.0,3165000.0,False,Postponed,Instagram,client rescheduled once,location_city_taken_from_client
+BK-01849,XT-00986,Photoshoot,2023-12-04,1,London,NGN,2603371.06,0.0,2603371.06,True,Completed,Google,Not applicable,No issues
+BK-01850,XT-00135,Corporate Documentary,2023-12-04,1,Lagos,NGN,5422000.0,0.1,4879800.0,False,Completed,Referral,"See contract, clause 4b - travel, per diem",No issues
+BK-01851,XT-01423,Studio Rental,2023-12-04,1,Ibadan,NGN,300000.0,0.0,300000.0,False,In Production,Unknown,Not applicable,No issues
+BK-01852,XT-00007,Wedding Film,2023-12-04,1,Port Harcourt,NGN,3143000.0,0.0,3143000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01853,XT-00042,Event Coverage,2023-12-04,2,Abuja,NGN,2171000.0,0.05,2062450.0,False,In Production,Google,drone denied by airport authority,No issues
+BK-01854,XT-00038,Event Coverage,2023-12-05,1,Lagos,NGN,3799000.0,0.0,3799000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01855,XT-01224,Wedding Film,2023-12-05,1,Ibadan,NGN,6050000.0,0.0,6050000.0,False,Postponed,Instagram,"See contract, clause 4b - travel, per diem",No issues
+BK-01856,XT-00568,Photoshoot,2023-12-05,3,Accra,NGN,6124000.0,0.0,6124000.0,False,Completed,Walk-in,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01857,XT-00818,Wedding Film,2023-12-05,1,London,NGN,4775891.93,0.0,4775891.93,True,Postponed,Referral,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01858,XT-01591,Event Coverage,2023-12-05,5,Atlanta,NGN,8383305.6,0.0,8383305.6,True,Completed,Unknown,drone denied by airport authority,No issues
+BK-01859,XT-00586,Photoshoot,2023-12-05,1,Ibadan,NGN,2808000.0,0.0,2808000.0,False,Cancelled,Walk-in,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01860,XT-00405,Studio Rental,2023-12-06,1,Atlanta,NGN,286360.8,0.0,286360.8,True,Completed,Repeat Client,Not applicable,No issues
+BK-01861,XT-00704,Photoshoot,2023-12-06,2,Port Harcourt,NGN,1189000.0,0.0,1189000.0,False,In Production,Agency Partner,"Overtime: crew stayed till 2am, billed separately",shoot_days_counted_from_timesheets
+BK-01862,XT-00917,Corporate Documentary,2023-12-06,1,Lagos,NGN,7841000.0,0.0,7841000.0,False,Postponed,TikTok,"Overtime: crew stayed till 2am, billed separately",shoot_days_counted_from_timesheets
+BK-01863,XT-01338,Studio Rental,2023-12-07,1,Lagos,NGN,662000.0,0.0,662000.0,False,Postponed,Agency Partner,"Client said ""make it cinematic, like Nolan""",location_city_taken_from_client
+BK-01864,XT-00348,Studio Rental,2023-12-07,1,Atlanta,NGN,679281.2,0.0,679281.2,True,Completed,Referral,"half payment received, balance pending",No issues
+BK-01865,XT-00547,Unknown,2023-12-07,1,Lagos,NGN,3170000.0,0.0,3170000.0,False,In Production,Agency Partner,RAW files delivered on 2 x 1TB SSD,service_type_missing
+BK-01866,XT-01686,Music Video,2023-12-07,1,Port Harcourt,NGN,7954000.0,0.0,7954000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01867,XT-00433,Studio Rental,2023-12-08,1,Enugu,NGN,1241000.0,0.0,1241000.0,False,Completed,Walk-in,Not applicable,location_city_taken_from_client
+BK-01868,XT-00568,Wedding Film,2023-12-08,1,Accra,NGN,2080000.0,0.0,2080000.0,False,Completed,Repeat Client,"half payment received, balance pending",No issues
+BK-01869,XT-00426,Event Coverage,2023-12-08,2,Port Harcourt,NGN,4434000.0,0.0,4434000.0,False,Completed,Unknown,Not applicable,No issues
+BK-01870,XT-00532,Studio Rental,2023-12-08,3,Kano,NGN,1641000.0,0.0,1641000.0,False,Completed,Google,Not applicable,location_city_taken_from_client
+BK-01871,XT-00834,Event Coverage,2023-12-10,1,Lagos,NGN,1408000.0,0.0,1408000.0,False,Completed,Walk-in,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01872,XT-01448,Music Video,2023-12-10,1,Kano,NGN,3537000.0,0.05,3360150.0,False,Completed,Referral,"See contract, clause 4b - travel, per diem",No issues
+BK-01873,XT-01200,Commercial / TVC,2023-12-10,1,Johannesburg,NGN,33201000.0,0.0,33201000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01874,XT-00902,Wedding Film,2023-12-10,4,Port Harcourt,NGN,12490000.0,0.1,11241000.0,False,In Production,Referral,Not applicable,No issues
+BK-01875,XT-01461,Photoshoot,2023-12-11,1,London,NGN,699304.07,0.0,699304.07,True,Completed,Walk-in,"half payment received, balance pending",shoot_days_counted_from_timesheets
+BK-01876,XT-00239,Studio Rental,2023-12-11,2,Atlanta,NGN,523800.0,0.0,523800.0,True,Completed,Unknown,Not applicable,No issues
+BK-01877,XT-00017,Commercial / TVC,2023-12-12,2,Abuja,NGN,55989000.0,0.05,53189550.0,False,Completed,TikTok,Not applicable,No issues
+BK-01878,XT-00302,Studio Rental,2023-12-12,1,Dubai,NGN,667845.0,0.0,667845.0,True,Completed,Unknown,"Client said ""make it cinematic, like Nolan""","location_city_taken_from_client,fx_rate_carried_from_earlier_day"
+BK-01879,XT-01885,Event Coverage,2023-12-12,4,Abuja,NGN,6856000.0,0.0,6856000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01880,XT-00737,Wedding Film,2023-12-12,2,Lagos,NGN,3442000.0,0.0,3442000.0,False,Cancelled,Google,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01881,XT-01309,Event Coverage,2023-12-13,1,Abuja,NGN,3112000.0,0.0,3112000.0,False,In Production,Instagram,client rescheduled once,No issues
+BK-01882,XT-00969,Music Video,2023-12-13,1,Johannesburg,NGN,19346000.0,0.0,19346000.0,False,Postponed,Agency Partner,client rescheduled once,No issues
+BK-01883,XT-00977,Studio Rental,2023-12-13,1,Lagos,NGN,1397000.0,0.0,1397000.0,False,Completed,Agency Partner,location permit paid by client,No issues
+BK-01884,XT-01723,Event Coverage,2023-12-13,1,Lagos,NGN,3047000.0,0.0,3047000.0,False,Postponed,Agency Partner,client rescheduled once,No issues
+BK-01885,XT-00977,Photoshoot,2023-12-14,1,Lagos,NGN,2560000.0,0.0,2560000.0,False,In Production,Unknown,"half payment received, balance pending",No issues
+BK-01886,XT-00250,Corporate Documentary,2023-12-14,1,Accra,NGN,12586000.0,0.0,12586000.0,False,Completed,TikTok,drone denied by airport authority,No issues
+BK-01887,XT-01665,Photoshoot,2023-12-14,2,Lagos,NGN,3312000.0,0.0,3312000.0,False,Completed,Google,Not applicable,No issues
+BK-01888,XT-01768,Event Coverage,2023-12-14,2,London,NGN,4085912.93,0.0,4085912.93,True,Completed,Unknown,Not applicable,location_city_taken_from_client
+BK-01889,XT-00378,Photoshoot,2023-12-14,1,Abuja,NGN,2445000.0,0.0,2445000.0,False,Invoiced,Repeat Client,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01890,XT-01731,Corporate Documentary,2023-12-15,5,Lagos,NGN,29038000.0,0.0,29038000.0,False,Completed,Unknown,location permit paid by client,No issues
+BK-01891,XT-00805,Short Film,2023-12-15,2,Lagos,NGN,21168000.0,0.0,21168000.0,False,Completed,Instagram,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01892,XT-01134,Wedding Film,2023-12-16,1,Abuja,NGN,4160000.0,0.0,4160000.0,False,Completed,Agency Partner,"half payment received, balance pending",No issues
+BK-01893,XT-01480,Unknown,2023-12-16,3,Abuja,NGN,1399000.0,0.0,1399000.0,False,In Production,Walk-in,Not applicable,service_type_missing
+BK-01894,XT-00533,Studio Rental,2023-12-16,2,Lagos,NGN,789000.0,0.0,789000.0,False,Unknown,Unknown,Not applicable,"location_city_taken_from_client,status_missing"
+BK-01895,XT-01404,Wedding Film,2023-12-16,1,Lagos,NGN,6560000.0,0.0,6560000.0,False,Completed,Instagram,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01896,XT-01115,Event Coverage,2023-12-16,1,Lagos,NGN,1781000.0,0.0,1781000.0,False,Completed,Unknown,location permit paid by client,No issues
+BK-01897,XT-01704,Short Film,2023-12-16,1,Lagos,NGN,4727000.0,0.0,4727000.0,False,Completed,TikTok,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01898,XT-01348,Photoshoot,2023-12-17,2,Abuja,NGN,2222000.0,0.0,2222000.0,False,Completed,Repeat Client,"half payment received, balance pending",No issues
+BK-01899,XT-01244,Event Coverage,2023-12-17,1,Atlanta,NGN,4352097.6,0.0,4352097.6,True,In Production,Referral,"half payment received, balance pending",fx_rate_carried_from_earlier_day
+BK-01900,XT-00303,Event Coverage,2023-12-17,1,Port Harcourt,NGN,4417000.0,0.0,4417000.0,False,Cancelled,Instagram,location permit paid by client,No issues
+BK-01901,XT-00110,Event Coverage,2023-12-17,2,Kano,NGN,2579000.0,0.05,2450050.0,False,Completed,Repeat Client,location permit paid by client,No issues
+BK-01902,XT-00602,Wedding Film,2023-12-18,2,Atlanta,NGN,7574376.8,0.0,7574376.8,True,Completed,Google,client rescheduled once,No issues
+BK-01903,XT-00878,Wedding Film,2023-12-18,1,Abuja,NGN,3189000.0,0.0,3189000.0,False,Completed,Agency Partner,Not applicable,No issues
+BK-01904,XT-00642,Photoshoot,2023-12-19,1,London,NGN,2741771.21,0.0,2741771.21,True,In Production,Repeat Client,"See contract, clause 4b - travel, per diem",No issues
+BK-01905,XT-01440,Music Video,2023-12-19,1,Lagos,NGN,11480000.0,0.0,11480000.0,False,Completed,Unknown,client rescheduled once,No issues
+BK-01906,XT-00367,Commercial / TVC,2023-12-20,1,Abuja,NGN,25376000.0,0.0,25376000.0,False,Invoiced,Unknown,Not applicable,No issues
+BK-01907,XT-01728,Photoshoot,2023-12-20,1,Dubai,NGN,1750820.63,0.0,1750820.63,True,In Production,Walk-in,"See contract, clause 4b - travel, per diem",shoot_days_counted_from_timesheets
+BK-01908,XT-00372,Photoshoot,2023-12-21,1,Lagos,NGN,2905000.0,0.0,2905000.0,False,Invoiced,Unknown,Not applicable,No issues
+BK-01909,XT-00510,Short Film,2023-12-21,1,Ibadan,NGN,17298000.0,0.0,17298000.0,False,Completed,Instagram,"Overtime: crew stayed till 2am, billed separately",location_city_taken_from_client
+BK-01910,XT-00115,Short Film,2023-12-21,2,Abuja,NGN,18292000.0,0.0,18292000.0,False,Completed,Referral,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01911,XT-01588,Event Coverage,2023-12-22,3,Abuja,NGN,5359000.0,0.0,5359000.0,False,Postponed,Referral,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01912,XT-01271,Corporate Documentary,2023-12-22,1,Johannesburg,NGN,5436000.0,0.15,4620600.0,False,Cancelled,Walk-in,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01913,XT-00012,Wedding Film,2023-12-23,1,Accra,NGN,5827000.0,0.0,5827000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01914,XT-00993,Wedding Film,2023-12-23,2,Johannesburg,NGN,6986000.0,0.0,6986000.0,False,In Production,Referral,Not applicable,No issues
+BK-01915,XT-00938,Photoshoot,2023-12-23,1,Dubai,NGN,1652388.1,0.0,1652388.1,True,Unknown,Google,Not applicable,"fx_rate_carried_from_earlier_day,status_missing"
+BK-01916,XT-01558,Studio Rental,2023-12-23,2,Port Harcourt,NGN,1397000.0,0.1,1257300.0,False,Postponed,Walk-in,location permit paid by client,location_city_taken_from_client
+BK-01917,XT-00755,Event Coverage,2023-12-23,1,Abuja,NGN,2196000.0,0.0,2196000.0,False,Invoiced,Walk-in,"See contract, clause 4b - travel, per diem",No issues
+BK-01918,XT-01289,Wedding Film,2023-12-23,2,Lagos,NGN,9829000.0,0.0,9829000.0,False,Unknown,Repeat Client,Not applicable,status_missing
+BK-01919,XT-01741,Unknown,2023-12-23,1,Lagos,NGN,3176000.0,0.0,3176000.0,False,In Production,TikTok,"Client said ""make it cinematic, like Nolan""",service_type_missing
+BK-01920,XT-00385,Unknown,2023-12-23,1,Lagos,NGN,14930000.0,0.0,14930000.0,False,Completed,Unknown,Not applicable,service_type_missing
+BK-01921,XT-01734,Music Video,2023-12-23,2,Lagos,NGN,14524000.0,0.0,14524000.0,False,Completed,Google,Not applicable,No issues
+BK-01922,XT-01076,Music Video,2023-12-24,2,Abuja,NGN,9961000.0,0.0,9961000.0,False,Completed,TikTok,drone denied by airport authority,No issues
+BK-01923,XT-00811,Studio Rental,2023-12-24,1,London,NGN,655969.47,0.0,655969.47,True,Cancelled,Unknown,"Overtime: crew stayed till 2am, billed separately",fx_rate_carried_from_earlier_day
+BK-01924,XT-01677,Event Coverage,2023-12-24,1,Lagos,NGN,2242000.0,0.15,1905700.0,False,Invoiced,Walk-in,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01925,XT-01731,Unknown,2023-12-24,1,Lagos,NGN,1450000.0,0.0,1450000.0,False,Completed,Referral,RAW files delivered on 2 x 1TB SSD,service_type_missing
+BK-01926,XT-00322,Studio Rental,2023-12-24,2,Lagos,NGN,268000.0,0.0,268000.0,False,In Production,TikTok,Not applicable,No issues
+BK-01927,XT-00330,Photoshoot,2023-12-24,1,Lagos,NGN,1660000.0,0.0,1660000.0,False,Completed,Google,Not applicable,No issues
+BK-01928,XT-01698,Event Coverage,2023-12-25,1,Enugu,NGN,2674000.0,0.0,2674000.0,False,In Production,Google,"Overtime: crew stayed till 2am, billed separately",currency_inferred_from_client_other_bookings
+BK-01929,XT-00832,Event Coverage,2023-12-25,1,Abuja,NGN,1127000.0,0.0,1127000.0,False,Completed,Referral,client rescheduled once,No issues
+BK-01930,XT-00044,Event Coverage,2023-12-25,2,Johannesburg,NGN,3829000.0,0.0,3829000.0,False,Completed,Instagram,Not applicable,No issues
+BK-01931,XT-00275,Photoshoot,2023-12-25,1,Lagos,NGN,1949000.0,0.0,1949000.0,False,Completed,Unknown,client rescheduled once,No issues
+BK-01932,XT-00212,Photoshoot,2023-12-25,Unknown,Accra,NGN,597000.0,0.0,597000.0,False,Cancelled,Walk-in,"Client said ""make it cinematic, like Nolan""",shoot_days_missing
+BK-01933,XT-00591,Music Video,2023-12-26,3,London,NGN,21987189.7,0.0,21987189.7,True,Completed,Google,Not applicable,No issues
+BK-01934,XT-00424,Music Video,2023-12-26,1,Nairobi,NGN,14599000.0,0.0,14599000.0,False,Cancelled,Instagram,"Client said ""make it cinematic, like Nolan""",No issues
+BK-01935,XT-00900,Studio Rental,2023-12-26,4,Abuja,NGN,1240000.0,0.0,1240000.0,False,Completed,Walk-in,Not applicable,No issues
+BK-01936,XT-00348,Studio Rental,2023-12-26,2,Atlanta,NGN,1834236.38,0.0,1834236.38,True,Invoiced,Unknown,Not applicable,No issues
+BK-01937,XT-00916,Wedding Film,2023-12-26,1,Abuja,NGN,6548000.0,0.1,5893200.0,False,Completed,Referral,"See contract, clause 4b - travel, per diem",No issues
+BK-01938,XT-01037,Wedding Film,2023-12-27,1,Port Harcourt,NGN,7316000.0,0.0,7316000.0,False,Cancelled,TikTok,location permit paid by client,No issues
+BK-01939,XT-01870,Photoshoot,2023-12-27,1,Lagos,NGN,971000.0,0.05,922450.0,False,Completed,Unknown,Not applicable,No issues
+BK-01940,XT-00596,Photoshoot,2023-12-27,2,Lagos,NGN,3707000.0,0.0,3707000.0,False,In Production,TikTok,Not applicable,location_city_taken_from_client
+BK-01941,XT-01014,Music Video,2023-12-27,3,Accra,NGN,7449000.0,0.0,7449000.0,False,Completed,TikTok,"Overtime: crew stayed till 2am, billed separately",No issues
+BK-01942,XT-01707,Music Video,2023-12-28,1,Port Harcourt,NGN,12052000.0,0.0,12052000.0,False,Completed,Google,drone denied by airport authority,shoot_days_counted_from_timesheets
+BK-01943,XT-00693,Wedding Film,2023-12-29,1,Ibadan,NGN,5535000.0,0.0,5535000.0,False,Unknown,Referral,"Client said ""make it cinematic, like Nolan""",status_missing
+BK-01944,XT-00061,Wedding Film,2023-12-29,1,Lagos,NGN,2087000.0,0.0,2087000.0,False,Invoiced,Repeat Client,Not applicable,shoot_days_counted_from_timesheets
+BK-01945,XT-00082,Wedding Film,2023-12-29,1,Atlanta,NGN,4994880.8,0.0,4994880.8,True,Completed,Walk-in,Not applicable,No issues
+BK-01946,XT-01629,Music Video,2023-12-29,1,London,NGN,7239946.56,0.0,7239946.56,True,Completed,Agency Partner,"half payment received, balance pending",No issues
+BK-01947,XT-01496,Music Video,2023-12-29,1,Abuja,NGN,13834000.0,0.0,13834000.0,False,Completed,Google,"See contract, clause 4b - travel, per diem",shoot_days_counted_from_timesheets
+BK-01948,XT-00671,Photoshoot,2023-12-29,1,Dubai,NGN,1042887.2,0.1,938598.48,True,Completed,Walk-in,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01949,XT-00184,Unknown,2023-12-30,2,Lagos,NGN,61914000.0,0.0,61914000.0,False,Completed,Instagram,drone denied by airport authority,"shoot_days_counted_from_timesheets,service_type_missing"
+BK-01950,XT-01209,Event Coverage,2023-12-30,1,Lagos,NGN,3470000.0,0.0,3470000.0,False,Completed,Repeat Client,Not applicable,No issues
+BK-01951,XT-01833,Corporate Documentary,2023-12-30,1,London,NGN,6991364.7,0.0,6991364.7,True,Completed,Walk-in,"Client said ""make it cinematic, like Nolan""",fx_rate_carried_from_earlier_day
+BK-01952,XT-01323,Music Video,2023-12-30,Unknown,Abuja,NGN,5148000.0,0.0,5148000.0,False,Cancelled,Repeat Client,Not applicable,shoot_days_missing
+BK-01953,XT-01130,Music Video,2023-12-31,1,Abuja,NGN,18724000.0,0.0,18724000.0,False,Completed,Referral,location permit paid by client,No issues
+BK-01954,XT-00665,Corporate Documentary,2023-12-31,2,Lagos,NGN,14869000.0,0.0,14869000.0,False,Completed,Referral,Not applicable,No issues
+BK-01955,XT-01409,Photoshoot,2023-12-31,2,Enugu,NGN,3646000.0,0.0,3646000.0,False,Completed,Referral,Not applicable,No issues
+BK-01956,XT-01829,Photoshoot,2023-12-31,2,Lagos,NGN,1588000.0,0.0,1588000.0,False,Completed,Unknown,drone denied by airport authority,No issues
+BK-01957,XT-01583,Studio Rental,2023-12-31,1,Nairobi,NGN,1392000.0,0.0,1392000.0,False,Completed,Referral,RAW files delivered on 2 x 1TB SSD,No issues
+BK-01958,XT-00207,Wedding Film,2023-12-31,1,Lagos,NGN,7373000.0,0.0,7373000.0,False,Completed,TikTok,drone denied by airport authority,No issues

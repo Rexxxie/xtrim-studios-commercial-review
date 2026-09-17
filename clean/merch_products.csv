@@ -1,0 +1,138 @@
+sku,product_name,category,collection,colour,size_run,unit_cost_ngn,list_price_ngn,valid_from,valid_to,is_current,active,dq_flags
+XT-CAP-007,Lagos Nights Cap,Cap,Lagos Nights,Black,S-XXL,5200.0,13100.0,2022-12-20,2023-09-08,False,False,open_window_closed_by_next_version
+XT-CAP-007,Lagos Nights Cap,Cap,Lagos Nights,Black,One Size,5200.0,17000.0,2023-09-09,9999-12-31,True,True,stated_valid_to_2024-10-30_extended
+XT-CAP-016,35mm Club Cap,Cap,35mm Club,Bone,S-XXL,7100.0,14800.0,2022-11-27,2023-09-05,False,False,unit_cost_ngn_filled_from_same_sku
+XT-CAP-016,35mm Club Cap,Cap,35mm Club,Bone,One Size,7100.0,15800.0,2023-09-06,2024-07-29,False,False,No issues
+XT-CAP-016,35mm Club Cap,Cap,35mm Club,Bone,Unknown,7100.0,19800.0,2024-07-30,2025-05-23,False,False,open_window_closed_by_next_version
+XT-CAP-016,35mm Club Cap,Cap,35mm Club,Bone,S-XXL,7100.0,21600.0,2025-05-24,9999-12-31,True,True,stated_valid_to_2025-12-09_extended
+XT-CAP-031,Studio Basics Cap,Cap,Studio Basics,Off-White,One Size,5600.0,13800.0,2022-11-10,2023-07-08,False,False,open_window_closed_by_next_version
+XT-CAP-031,Studio Basics Cap,Cap,Studio Basics,Off-White,Unknown,5600.0,16700.0,2023-07-09,2024-07-16,False,False,open_window_closed_by_next_version
+XT-CAP-031,Studio Basics Cap,Cap,Studio Basics,Off-White,S-XXL,5600.0,21300.0,2024-07-17,9999-12-31,True,True,stated_valid_to_2025-01-03_extended
+XT-CAP-043,Behind The Lens Cap,Cap,Behind The Lens,Bone,One Size,5800.0,13500.0,2022-10-25,2023-06-09,False,False,"collection_filled_from_same_sku,open_window_closed_by_next_version"
+XT-CAP-043,Behind The Lens Cap,Cap,Behind The Lens,Bone,One Size,5800.0,16400.0,2023-06-10,2023-11-26,False,False,gap_to_next_version_bridged
+XT-CAP-043,Behind The Lens Cap,Cap,Behind The Lens,Bone,One Size,5800.0,18300.0,2023-11-27,2024-06-18,False,False,No issues
+XT-CAP-043,Behind The Lens Cap,Cap,Behind The Lens,Bone,S-XXL,5800.0,22700.0,2024-06-19,9999-12-31,True,True,No issues
+XT-HOO-005,Harmattan Drop Hoodie,Hoodie,Harmattan Drop,Black,S-XXL,25100.0,49000.0,2022-11-06,2023-10-16,False,False,No issues
+XT-HOO-005,Harmattan Drop Hoodie,Hoodie,Harmattan Drop,Black,Unknown,25100.0,61600.0,2023-10-17,2024-05-14,False,False,unit_cost_ngn_filled_from_same_sku
+XT-HOO-005,Harmattan Drop Hoodie,Hoodie,Harmattan Drop,Black,S-XXL,25100.0,68500.0,2024-05-15,9999-12-31,True,True,stated_valid_to_2025-04-05_extended
+XT-HOO-009,Lagos Nights Hoodie,Hoodie,Lagos Nights,Forest,S-XXL,23200.0,44600.0,2022-10-24,2023-05-28,False,False,unit_cost_ngn_filled_from_same_sku
+XT-HOO-009,Lagos Nights Hoodie,Hoodie,Lagos Nights,Forest,S-XXL,23200.0,55000.0,2023-05-29,2024-05-07,False,False,No issues
+XT-HOO-009,Lagos Nights Hoodie,Hoodie,Lagos Nights,Forest,S-XXL,23200.0,64700.0,2024-05-08,2025-01-28,False,False,"collection_filled_from_same_sku,overlap_trimmed"
+XT-HOO-009,Lagos Nights Hoodie,Hoodie,Lagos Nights,Forest,Unknown,23200.0,78200.0,2025-01-29,9999-12-31,True,True,"collection_filled_from_same_sku,stated_valid_to_2026-01-17_extended"
+XT-HOO-014,35mm Club Hoodie,Hoodie,35mm Club,Black,One Size,16500.0,51200.0,2022-09-19,2023-02-03,False,False,overlap_trimmed
+XT-HOO-014,35mm Club Hoodie,Hoodie,35mm Club,Black,S-XXL,16500.0,55300.0,2023-02-04,2024-03-14,False,False,colour_filled_from_same_sku
+XT-HOO-014,35mm Club Hoodie,Hoodie,35mm Club,Black,One Size,16500.0,72700.0,2024-03-15,2024-07-22,False,False,"unit_cost_ngn_filled_from_same_sku,overlap_trimmed"
+XT-HOO-014,35mm Club Hoodie,Hoodie,35mm Club,Black,S-XXL,16500.0,77900.0,2024-07-23,9999-12-31,True,True,"unit_cost_ngn_filled_from_same_sku,stated_valid_to_2025-02-05_extended"
+XT-HOO-025,Golden Hour Hoodie,Hoodie,Golden Hour,Bone,Unknown,17000.0,43000.0,2022-11-15,2023-09-09,False,False,No issues
+XT-HOO-025,Golden Hour Hoodie,Hoodie,Golden Hour,Bone,One Size,17000.0,57000.0,2023-09-10,2024-04-14,False,False,unit_cost_ngn_filled_from_same_sku
+XT-HOO-025,Golden Hour Hoodie,Hoodie,Golden Hour,Bone,S-XXL,17000.0,64900.0,2024-04-15,2024-10-08,False,False,No issues
+XT-HOO-025,Golden Hour Hoodie,Hoodie,Golden Hour,Bone,S-XXL,17000.0,69900.0,2024-10-09,9999-12-31,True,True,stated_valid_to_2025-10-09_extended
+XT-HOO-029,Studio Basics Hoodie,Hoodie,Studio Basics,Black,Unknown,21500.0,46800.0,2022-09-10,2023-04-16,False,False,overlap_trimmed
+XT-HOO-029,Studio Basics Hoodie,Hoodie,Studio Basics,Black,S-XXL,21500.0,49600.0,2023-04-17,2023-10-16,False,False,collection_filled_from_same_sku
+XT-HOO-029,Studio Basics Hoodie,Hoodie,Studio Basics,Black,Unknown,21500.0,59200.0,2023-10-17,2024-09-30,False,False,No issues
+XT-HOO-029,Studio Basics Hoodie,Hoodie,Studio Basics,Black,One Size,21500.0,71000.0,2024-10-01,9999-12-31,True,True,"unit_cost_ngn_filled_from_same_sku,stated_valid_to_2025-02-19_extended"
+XT-HOO-037,Anniversary ’05 Hoodie,Hoodie,Anniversary ’05,Sand,S-XXL,12400.0,34200.0,2022-09-14,2023-01-06,False,False,overlap_trimmed
+XT-HOO-037,Anniversary ’05 Hoodie,Hoodie,Anniversary ’05,Sand,One Size,12400.0,38500.0,2023-01-07,2023-06-24,False,False,colour_filled_from_same_sku
+XT-HOO-037,Anniversary ’05 Hoodie,Hoodie,Anniversary ’05,Sand,S-XXL,12400.0,51300.0,2023-06-25,9999-12-31,True,True,stated_valid_to_2024-05-01_extended
+XT-LEN-001,Harmattan Drop Lens Cloth,Lens Cloth,Harmattan Drop,Black,S-XXL,2400.0,4600.0,2022-11-10,2023-11-18,False,False,No issues
+XT-LEN-001,Harmattan Drop Lens Cloth,Lens Cloth,Harmattan Drop,Black,S-XXL,2400.0,6200.0,2023-11-19,2024-04-17,False,False,No issues
+XT-LEN-001,Harmattan Drop Lens Cloth,Lens Cloth,Harmattan Drop,Black,One Size,2400.0,6600.0,2024-04-18,2024-10-08,False,False,No issues
+XT-LEN-001,Harmattan Drop Lens Cloth,Lens Cloth,Harmattan Drop,Black,S-XXL,2400.0,7000.0,2024-10-09,9999-12-31,True,True,"unit_cost_ngn_filled_from_same_sku,stated_valid_to_2025-10-16_extended"
+XT-LEN-019,35mm Club Lens Cloth,Lens Cloth,35mm Club,Rust,One Size,1800.0,4200.0,2022-12-13,2023-09-05,False,False,No issues
+XT-LEN-019,35mm Club Lens Cloth,Lens Cloth,35mm Club,Rust,One Size,1800.0,4600.0,2023-09-06,2024-03-11,False,False,colour_filled_from_same_sku
+XT-LEN-019,35mm Club Lens Cloth,Lens Cloth,35mm Club,Rust,S-XXL,1800.0,6000.0,2024-03-12,2024-07-22,False,False,No issues
+XT-LEN-019,35mm Club Lens Cloth,Lens Cloth,35mm Club,Rust,Unknown,1800.0,7700.0,2024-07-23,9999-12-31,True,True,"colour_filled_from_same_sku,stated_valid_to_2025-06-22_extended"
+XT-LEN-024,Golden Hour Lens Cloth,Lens Cloth,Golden Hour,Forest,S-XXL,1700.0,3800.0,2022-12-20,2023-10-27,False,False,No issues
+XT-LEN-024,Golden Hour Lens Cloth,Lens Cloth,Golden Hour,Forest,S-XXL,1700.0,4200.0,2023-10-28,2024-09-09,False,False,open_window_closed_by_next_version
+XT-LEN-024,Golden Hour Lens Cloth,Lens Cloth,Golden Hour,Forest,One Size,1700.0,4600.0,2024-09-10,2025-03-13,False,False,window_inverted_swapped
+XT-LEN-024,Golden Hour Lens Cloth,Lens Cloth,Golden Hour,Forest,S-XXL,1700.0,5000.0,2025-03-14,9999-12-31,True,True,stated_valid_to_2025-12-28_extended
+XT-LEN-028,Studio Basics Lens Cloth,Lens Cloth,Studio Basics,Bone,Unknown,2200.0,4800.0,2022-09-04,2023-06-22,False,False,"collection_filled_from_same_sku,colour_filled_from_same_sku"
+XT-LEN-028,Studio Basics Lens Cloth,Lens Cloth,Studio Basics,Bone,S-XXL,2200.0,5600.0,2023-06-23,2024-02-25,False,False,open_window_closed_by_next_version
+XT-LEN-028,Studio Basics Lens Cloth,Lens Cloth,Studio Basics,Bone,One Size,2200.0,6300.0,2024-02-26,2024-10-08,False,False,No issues
+XT-LEN-028,Studio Basics Lens Cloth,Lens Cloth,Studio Basics,Bone,Unknown,2200.0,7400.0,2024-10-09,9999-12-31,True,True,stated_valid_to_2025-02-18_extended
+XT-LEN-034,Anniversary ’05 Lens Cloth,Lens Cloth,Anniversary ’05,Forest,S-XXL,1300.0,3800.0,2022-10-03,2023-07-15,False,False,collection_filled_from_same_sku
+XT-LEN-034,Anniversary ’05 Lens Cloth,Lens Cloth,Anniversary ’05,Forest,S-XXL,1300.0,4700.0,2023-07-16,2024-08-23,False,False,No issues
+XT-LEN-034,Anniversary ’05 Lens Cloth,Lens Cloth,Anniversary ’05,Forest,S-XXL,1300.0,5300.0,2024-08-24,2025-03-24,False,False,No issues
+XT-LEN-034,Anniversary ’05 Lens Cloth,Lens Cloth,Anniversary ’05,Forest,S-XXL,1300.0,5800.0,2025-03-25,9999-12-31,True,True,"collection_filled_from_same_sku,stated_valid_to_2025-11-21_extended"
+XT-LEN-039,Behind The Lens Lens Cloth,Lens Cloth,Behind The Lens,Navy,S-XXL,1900.0,5200.0,2022-11-30,2023-10-05,False,False,No issues
+XT-LEN-039,Behind The Lens Lens Cloth,Lens Cloth,Behind The Lens,Navy,One Size,1900.0,5500.0,2023-10-06,9999-12-31,True,True,stated_valid_to_2024-06-04_extended
+XT-LIM-002,Harmattan Drop Limited Print,Limited Print,Harmattan Drop,Sand,Unknown,50600.0,113400.0,2022-09-21,2023-10-19,False,False,unit_cost_ngn_filled_from_same_sku
+XT-LIM-002,Harmattan Drop Limited Print,Limited Print,Harmattan Drop,Sand,S-XXL,50600.0,140700.0,2023-10-20,9999-12-31,True,True,stated_valid_to_2024-08-10_extended
+XT-LIM-011,Lagos Nights Limited Print,Limited Print,Lagos Nights,Rust,Unknown,21800.0,57600.0,2022-09-13,2023-06-18,False,False,No issues
+XT-LIM-011,Lagos Nights Limited Print,Limited Print,Lagos Nights,Rust,S-XXL,21800.0,62300.0,2023-06-19,2024-08-12,False,False,gap_to_next_version_bridged
+XT-LIM-011,Lagos Nights Limited Print,Limited Print,Lagos Nights,Rust,S-XXL,21800.0,75700.0,2024-08-13,2025-07-25,False,False,No issues
+XT-LIM-011,Lagos Nights Limited Print,Limited Print,Lagos Nights,Rust,One Size,21800.0,79700.0,2025-07-26,9999-12-31,True,True,"unit_cost_ngn_filled_from_same_sku,stated_valid_to_2025-11-28_extended"
+XT-LIM-021,Golden Hour Limited Print,Limited Print,Golden Hour,Bone,S-XXL,46300.0,97300.0,2022-10-25,2023-10-15,False,False,No issues
+XT-LIM-021,Golden Hour Limited Print,Limited Print,Golden Hour,Bone,S-XXL,46300.0,122800.0,2023-10-16,2024-04-09,False,False,No issues
+XT-LIM-021,Golden Hour Limited Print,Limited Print,Golden Hour,Bone,One Size,46300.0,143500.0,2024-04-10,9999-12-31,True,True,"category_filled_from_same_sku,stated_valid_to_2024-08-25_extended"
+XT-LIM-036,Anniversary ’05 Limited Print,Limited Print,Anniversary ’05,Off-White,S-XXL,18300.0,54600.0,2022-09-09,2023-03-13,False,False,No issues
+XT-LIM-036,Anniversary ’05 Limited Print,Limited Print,Anniversary ’05,Off-White,S-XXL,18300.0,64600.0,2023-03-14,9999-12-31,True,True,"unit_cost_ngn_filled_from_same_sku,stated_valid_to_2023-08-10_extended"
+XT-LIM-045,Behind The Lens Limited Print,Limited Print,Behind The Lens,Navy,S-XXL,27200.0,71300.0,2022-11-14,2023-10-26,False,False,No issues
+XT-LIM-045,Behind The Lens Limited Print,Limited Print,Behind The Lens,Navy,S-XXL,27200.0,85200.0,2023-10-27,2024-06-07,False,False,gap_to_next_version_bridged
+XT-LIM-045,Behind The Lens Limited Print,Limited Print,Behind The Lens,Navy,One Size,27200.0,115000.0,2024-06-08,9999-12-31,True,True,"colour_filled_from_same_sku,stated_valid_to_2025-06-24_extended"
+XT-MUG-003,Harmattan Drop Mug,Mug,Harmattan Drop,Black,Unknown,4800.0,9000.0,2022-12-07,2024-02-01,False,False,gap_to_next_version_bridged
+XT-MUG-003,Harmattan Drop Mug,Mug,Harmattan Drop,Black,S-XXL,4800.0,11000.0,2024-02-02,2024-02-25,False,False,open_window_closed_by_next_version
+XT-MUG-003,Harmattan Drop Mug,Mug,Harmattan Drop,Black,One Size,4800.0,14500.0,2024-02-26,9999-12-31,True,True,stated_valid_to_2024-08-02_extended
+XT-MUG-018,35mm Club Mug,Mug,35mm Club,Navy,S-XXL,2900.0,6600.0,2022-12-18,2023-07-10,False,False,No issues
+XT-MUG-018,35mm Club Mug,Mug,35mm Club,Navy,S-XXL,2900.0,7000.0,2023-07-11,9999-12-31,True,True,"colour_filled_from_same_sku,stated_valid_to_2023-12-05_extended"
+XT-MUG-035,Anniversary ’05 Mug,Mug,Anniversary ’05,Off-White,One Size,3200.0,7400.0,2022-10-12,2023-07-09,False,False,"collection_filled_from_same_sku,colour_filled_from_same_sku"
+XT-MUG-035,Anniversary ’05 Mug,Mug,Anniversary ’05,Off-White,One Size,3200.0,9700.0,2023-07-10,2024-02-16,False,False,overlap_trimmed
+XT-MUG-035,Anniversary ’05 Mug,Mug,Anniversary ’05,Off-White,S-XXL,3200.0,10900.0,2024-02-17,9999-12-31,True,True,stated_valid_to_2024-11-26_extended
+XT-MUG-041,Behind The Lens Mug,Mug,Behind The Lens,Rust,One Size,2800.0,7300.0,2022-10-15,2023-09-23,False,False,No issues
+XT-MUG-041,Behind The Lens Mug,Mug,Behind The Lens,Rust,One Size,2800.0,8700.0,2023-09-24,9999-12-31,True,True,"colour_filled_from_same_sku,stated_valid_to_2024-07-23_extended"
+XT-OVE-012,35mm Club Oversized Tee,Oversized Tee,35mm Club,Forest,S-XXL,9900.0,27300.0,2022-11-21,2023-05-26,False,False,No issues
+XT-OVE-012,35mm Club Oversized Tee,Oversized Tee,35mm Club,Forest,S-XXL,9900.0,35300.0,2023-05-27,2024-06-20,False,False,unit_cost_ngn_filled_from_same_sku
+XT-OVE-012,35mm Club Oversized Tee,Oversized Tee,35mm Club,Forest,S-XXL,9900.0,44900.0,2024-06-21,9999-12-31,True,True,"unit_cost_ngn_filled_from_same_sku,window_inverted_swapped,stated_valid_to_2025-07-01_extended"
+XT-OVE-042,Behind The Lens Oversized Tee,Oversized Tee,Behind The Lens,Black,One Size,6500.0,20200.0,2022-09-10,2023-08-07,False,False,No issues
+XT-OVE-042,Behind The Lens Oversized Tee,Oversized Tee,Behind The Lens,Black,One Size,6500.0,24800.0,2023-08-08,2025-01-01,False,False,"colour_filled_from_same_sku,window_inverted_swapped,gap_to_next_version_bridged"
+XT-OVE-042,Behind The Lens Oversized Tee,Oversized Tee,Behind The Lens,Black,S-XXL,6500.0,28000.0,2025-01-02,9999-12-31,True,True,No issues
+XT-POS-006,Harmattan Drop Poster A2,Poster A2,Harmattan Drop,Forest,S-XXL,5500.0,12000.0,2022-11-19,2023-06-02,False,False,overlap_trimmed
+XT-POS-006,Harmattan Drop Poster A2,Poster A2,Harmattan Drop,Forest,S-XXL,5500.0,14700.0,2023-06-03,9999-12-31,True,True,stated_valid_to_2024-01-06_extended
+XT-POS-015,35mm Club Poster A2,Poster A2,35mm Club,Forest,S-XXL,5300.0,11300.0,2022-11-24,2023-08-30,False,False,colour_filled_from_same_sku
+XT-POS-015,35mm Club Poster A2,Poster A2,35mm Club,Forest,One Size,5300.0,14000.0,2023-08-31,9999-12-31,True,True,stated_valid_to_2024-08-09_extended
+XT-POS-020,Golden Hour Poster A2,Poster A2,Golden Hour,Off-White,S-XXL,7600.0,14300.0,2022-10-15,2023-10-10,False,False,No issues
+XT-POS-020,Golden Hour Poster A2,Poster A2,Golden Hour,Off-White,S-XXL,7600.0,16100.0,2023-10-11,2024-07-08,False,False,"unit_cost_ngn_filled_from_same_sku,gap_to_next_version_bridged"
+XT-POS-020,Golden Hour Poster A2,Poster A2,Golden Hour,Off-White,S-XXL,7600.0,20200.0,2024-07-09,9999-12-31,True,True,"colour_filled_from_same_sku,stated_valid_to_2025-08-23_extended"
+XT-POS-027,Studio Basics Poster A2,Poster A2,Studio Basics,Rust,S-XXL,5500.0,10400.0,2022-12-28,2023-04-21,False,False,overlap_trimmed
+XT-POS-027,Studio Basics Poster A2,Poster A2,Studio Basics,Rust,Unknown,5500.0,13100.0,2023-04-22,2023-10-02,False,False,No issues
+XT-POS-027,Studio Basics Poster A2,Poster A2,Studio Basics,Rust,Unknown,5500.0,13900.0,2023-10-03,9999-12-31,True,True,stated_valid_to_2024-03-02_extended
+XT-STI-010,Lagos Nights Sticker Pack,Sticker Pack,Lagos Nights,Black,S-XXL,1700.0,3700.0,2022-12-27,2023-08-12,False,False,No issues
+XT-STI-010,Lagos Nights Sticker Pack,Sticker Pack,Lagos Nights,Black,S-XXL,1700.0,4700.0,2023-08-13,9999-12-31,True,True,stated_valid_to_2024-06-04_extended
+XT-STI-013,35mm Club Sticker Pack,Sticker Pack,35mm Club,Bone,One Size,800.0,2200.0,2022-11-16,2023-07-10,False,False,"window_inverted_swapped,overlap_trimmed"
+XT-STI-013,35mm Club Sticker Pack,Sticker Pack,35mm Club,Bone,One Size,800.0,2500.0,2023-07-11,9999-12-31,True,True,No issues
+XT-STI-026,Golden Hour Sticker Pack,Sticker Pack,Golden Hour,Forest,One Size,1700.0,4300.0,2022-11-20,2023-08-24,False,False,overlap_trimmed
+XT-STI-026,Golden Hour Sticker Pack,Sticker Pack,Golden Hour,Forest,S-XXL,1700.0,5100.0,2023-08-25,2024-06-15,False,False,No issues
+XT-STI-026,Golden Hour Sticker Pack,Sticker Pack,Golden Hour,Forest,One Size,1700.0,5700.0,2024-06-16,2025-10-02,False,False,gap_to_next_version_bridged
+XT-STI-026,Golden Hour Sticker Pack,Sticker Pack,Golden Hour,Forest,Unknown,1700.0,7200.0,2025-10-03,9999-12-31,True,True,No issues
+XT-STI-032,Studio Basics Sticker Pack,Sticker Pack,Studio Basics,Forest,S-XXL,700.0,2000.0,2022-11-16,2023-12-12,False,False,No issues
+XT-STI-032,Studio Basics Sticker Pack,Sticker Pack,Studio Basics,Forest,One Size,700.0,2300.0,2023-12-13,9999-12-31,True,True,"collection_filled_from_same_sku,stated_valid_to_2024-06-20_extended"
+XT-STI-033,Anniversary ’05 Sticker Pack,Sticker Pack,Anniversary ’05,Navy,S-XXL,1700.0,4100.0,2022-11-07,2023-09-16,False,False,No issues
+XT-STI-033,Anniversary ’05 Sticker Pack,Sticker Pack,Anniversary ’05,Navy,S-XXL,1700.0,5000.0,2023-09-17,2024-09-16,False,False,"category_filled_from_same_sku,collection_filled_from_same_sku"
+XT-STI-033,Anniversary ’05 Sticker Pack,Sticker Pack,Anniversary ’05,Navy,Unknown,1700.0,5400.0,2024-09-17,2025-03-14,False,False,window_inverted_swapped
+XT-STI-033,Anniversary ’05 Sticker Pack,Sticker Pack,Anniversary ’05,Navy,One Size,1700.0,7100.0,2025-03-15,9999-12-31,True,True,No issues
+XT-STI-044,Behind The Lens Sticker Pack,Sticker Pack,Behind The Lens,Black,S-XXL,1400.0,3300.0,2022-09-03,2023-01-05,False,False,No issues
+XT-STI-044,Behind The Lens Sticker Pack,Sticker Pack,Behind The Lens,Black,S-XXL,1400.0,4000.0,2023-01-06,9999-12-31,True,True,"category_filled_from_same_sku,unit_cost_ngn_filled_from_same_sku,stated_valid_to_2024-01-21_extended"
+XT-TEE-017,35mm Club Tee,Tee,35mm Club,Navy,One Size,8700.0,20000.0,2022-10-04,2023-03-29,False,False,No issues
+XT-TEE-017,35mm Club Tee,Tee,35mm Club,Navy,One Size,8700.0,21900.0,2023-03-30,2023-12-03,False,False,No issues
+XT-TEE-017,35mm Club Tee,Tee,35mm Club,Navy,S-XXL,8700.0,25500.0,2023-12-04,9999-12-31,True,True,"category_filled_from_same_sku,collection_filled_from_same_sku,stated_valid_to_2024-06-11_extended"
+XT-TEE-022,Golden Hour Tee,Tee,Golden Hour,Rust,One Size,9100.0,19000.0,2022-09-08,2023-05-05,False,False,open_window_closed_by_next_version
+XT-TEE-022,Golden Hour Tee,Tee,Golden Hour,Rust,One Size,9100.0,25300.0,2023-05-06,2024-01-07,False,False,gap_to_next_version_bridged
+XT-TEE-022,Golden Hour Tee,Tee,Golden Hour,Rust,S-XXL,9100.0,33000.0,2024-01-08,9999-12-31,True,True,"collection_filled_from_same_sku,stated_valid_to_2024-12-22_extended"
+XT-TEE-030,Studio Basics Tee,Tee,Studio Basics,Sand,S-XXL,7000.0,16600.0,2022-11-04,2023-08-01,False,False,collection_taken_from_product_name
+XT-TEE-030,Studio Basics Tee,Tee,Studio Basics,Sand,S-XXL,7000.0,22300.0,2023-08-02,9999-12-31,True,True,"collection_taken_from_product_name,stated_valid_to_2024-03-27_extended"
+XT-TEE-038,Anniversary ’05 Tee,Tee,Anniversary ’05,Rust,Unknown,6900.0,17600.0,2022-09-08,2022-12-12,False,False,open_window_closed_by_next_version
+XT-TEE-038,Anniversary ’05 Tee,Tee,Anniversary ’05,Rust,S-XXL,6900.0,23600.0,2022-12-13,2023-12-02,False,False,"collection_filled_from_same_sku,unit_cost_ngn_filled_from_same_sku"
+XT-TEE-038,Anniversary ’05 Tee,Tee,Anniversary ’05,Rust,Unknown,6900.0,30400.0,2023-12-03,2024-07-30,False,False,collection_filled_from_same_sku
+XT-TEE-038,Anniversary ’05 Tee,Tee,Anniversary ’05,Rust,S-XXL,6900.0,39500.0,2024-07-31,9999-12-31,True,True,No issues
+XT-TEE-040,Behind The Lens Tee,Tee,Behind The Lens,Rust,S-XXL,9600.0,20700.0,2022-11-08,2023-08-09,False,False,collection_filled_from_same_sku
+XT-TEE-040,Behind The Lens Tee,Tee,Behind The Lens,Rust,Unknown,9600.0,21900.0,2023-08-10,2024-08-13,False,False,No issues
+XT-TEE-040,Behind The Lens Tee,Tee,Behind The Lens,Rust,S-XXL,9600.0,29300.0,2024-08-14,2025-09-20,False,False,open_window_closed_by_next_version
+XT-TEE-040,Behind The Lens Tee,Tee,Behind The Lens,Rust,S-XXL,9600.0,31800.0,2025-09-21,9999-12-31,True,True,"window_inverted_swapped,stated_valid_to_2026-05-14_extended"
+XT-TOT-004,Harmattan Drop Tote Bag,Tote Bag,Harmattan Drop,Forest,One Size,3600.0,10500.0,2022-11-06,2023-09-24,False,False,No issues
+XT-TOT-004,Harmattan Drop Tote Bag,Tote Bag,Harmattan Drop,Forest,S-XXL,3600.0,11100.0,2023-09-25,2024-08-12,False,False,unit_cost_ngn_filled_from_same_sku
+XT-TOT-004,Harmattan Drop Tote Bag,Tote Bag,Harmattan Drop,Forest,Unknown,3600.0,14100.0,2024-08-13,9999-12-31,True,True,stated_valid_to_2025-08-14_extended
+XT-TOT-008,Lagos Nights Tote Bag,Tote Bag,Lagos Nights,Sand,S-XXL,2600.0,7700.0,2022-09-05,2023-06-24,False,False,window_inverted_swapped
+XT-TOT-008,Lagos Nights Tote Bag,Tote Bag,Lagos Nights,Sand,One Size,2600.0,8100.0,2023-06-25,9999-12-31,True,True,"colour_filled_from_same_sku,stated_valid_to_2024-02-08_extended"
+XT-TOT-023,Golden Hour Tote Bag,Tote Bag,Golden Hour,Rust,S-XXL,3700.0,11500.0,2022-10-05,2023-06-16,False,False,No issues
+XT-TOT-023,Golden Hour Tote Bag,Tote Bag,Golden Hour,Rust,One Size,3700.0,15300.0,2023-06-17,2024-06-03,False,False,No issues
+XT-TOT-023,Golden Hour Tote Bag,Tote Bag,Golden Hour,Rust,Unknown,3700.0,19000.0,2024-06-04,9999-12-31,True,True,stated_valid_to_2024-10-13_extended

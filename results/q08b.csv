@@ -1,0 +1,8 @@
+reason,refunds,refund_amount_ngn,share_of_refunds_pct,on_returned_orders,on_cancelled_orders
+Changed mind,1793,60728250.0,20.8,883,910
+Damaged,1657,57047750.0,19.2,822,835
+Wrong size,1646,52522000.0,19.1,830,816
+Late delivery,927,32640300.0,10.7,477,450
+Not as pictured,894,29985450.0,10.4,415,479
+Unknown,870,32929700.0,10.1,429,441
+Duplicate order,844,30119550.0,9.8,420,424

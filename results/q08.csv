@@ -1,0 +1,46 @@
+sku,product_name,gross_ngn,refunded_ngn,refund_rate_pct,store_avg_refund_rate_pct,x_store_avg,above_2x_store_avg,dominant_reason,dominant_reason_share_pct
+XT-OVE-042,Behind The Lens Oversized Tee,30121100.0,3743151.0,12.43,9.49,1.31,False,Changed mind,23.4
+XT-STI-013,35mm Club Sticker Pack,3337500.0,366515.0,10.98,9.49,1.16,False,Changed mind,21.9
+XT-STI-033,Anniversary ’05 Sticker Pack,6040200.0,646556.0,10.7,9.49,1.13,False,Wrong size,22.2
+XT-MUG-041,Behind The Lens Mug,11126600.0,1188230.0,10.68,9.49,1.13,False,Wrong size,20.7
+XT-LIM-002,Harmattan Drop Limited Print,183177600.0,19406864.0,10.59,9.49,1.12,False,Wrong size,21.0
+XT-TEE-022,Golden Hour Tee,28114300.0,2962711.0,10.54,9.49,1.11,False,Wrong size,30.7
+XT-MUG-018,35mm Club Mug,9824700.0,1025964.0,10.44,9.49,1.1,False,Damaged,24.5
+XT-LIM-011,Lagos Nights Limited Print,91160800.0,9392691.0,10.3,9.49,1.09,False,Damaged,25.3
+XT-LIM-036,Anniversary ’05 Limited Print,80617500.0,8199199.0,10.17,9.49,1.07,False,Wrong size,23.5
+XT-CAP-031,Studio Basics Cap,20366700.0,2072076.0,10.17,9.49,1.07,False,Damaged,20.3
+XT-POS-027,Studio Basics Poster A2,15159400.0,1541146.0,10.17,9.49,1.07,False,Changed mind,23.8
+XT-TOT-008,Lagos Nights Tote Bag,12608200.0,1266253.0,10.04,9.49,1.06,False,Wrong size,22.3
+XT-HOO-009,Lagos Nights Hoodie,62681500.0,6276695.0,10.01,9.49,1.05,False,Damaged,25.5
+XT-STI-010,Lagos Nights Sticker Pack,4965200.0,492807.0,9.93,9.49,1.05,False,Wrong size,24.6
+XT-LEN-039,Behind The Lens Lens Cloth,7877200.0,780892.0,9.91,9.49,1.04,False,Damaged,27.0
+XT-LIM-045,Behind The Lens Limited Print,112110800.0,11023318.0,9.83,9.49,1.04,False,Changed mind,30.1
+XT-LEN-028,Studio Basics Lens Cloth,7565900.0,740050.0,9.78,9.49,1.03,False,Damaged,26.1
+XT-POS-020,Golden Hour Poster A2,21922300.0,2129870.0,9.72,9.49,1.02,False,Changed mind,20.5
+XT-TOT-023,Golden Hour Tote Bag,16177000.0,1565418.0,9.68,9.49,1.02,False,Wrong size,25.6
+XT-TEE-017,35mm Club Tee,28743000.0,2774261.0,9.65,9.49,1.02,False,Damaged,22.7
+XT-CAP-043,Behind The Lens Cap,21941400.0,2104949.0,9.59,9.49,1.01,False,Changed mind,27.3
+XT-MUG-035,Anniversary ’05 Mug,11929400.0,1140115.0,9.56,9.49,1.01,False,Changed mind,27.3
+XT-TEE-038,Anniversary ’05 Tee,28133900.0,2658399.0,9.45,9.49,1.0,False,Changed mind,27.8
+XT-LEN-019,35mm Club Lens Cloth,6156800.0,578778.0,9.4,9.49,0.99,False,Changed mind,26.0
+XT-CAP-007,Lagos Nights Cap,19209000.0,1803354.0,9.39,9.49,0.99,False,Changed mind,24.8
+XT-LIM-021,Golden Hour Limited Print,141490600.0,13178221.0,9.31,9.49,0.98,False,Damaged,23.0
+XT-HOO-037,Anniversary ’05 Hoodie,47242300.0,4371909.0,9.25,9.49,0.97,False,Damaged,27.2
+XT-TEE-030,Studio Basics Tee,25338100.0,2312235.0,9.13,9.49,0.96,False,Changed mind,28.3
+XT-LEN-001,Harmattan Drop Lens Cloth,7010300.0,637159.0,9.09,9.49,0.96,False,Damaged,24.4
+XT-HOO-025,Golden Hour Hoodie,63959600.0,5783042.0,9.04,9.49,0.95,False,Changed mind,19.5
+XT-LEN-034,Anniversary ’05 Lens Cloth,5748600.0,515017.0,8.96,9.49,0.94,False,Not as pictured,20.9
+XT-POS-015,35mm Club Poster A2,17722100.0,1573495.0,8.88,9.49,0.94,False,Damaged,25.9
+XT-OVE-012,35mm Club Oversized Tee,40958100.0,3622891.0,8.85,9.49,0.93,False,Changed mind,25.6
+XT-POS-006,Harmattan Drop Poster A2,17289500.0,1522878.0,8.81,9.49,0.93,False,Changed mind,25.5
+XT-STI-032,Studio Basics Sticker Pack,3092900.0,268405.0,8.68,9.49,0.91,False,Wrong size,25.3
+XT-STI-026,Golden Hour Sticker Pack,5598500.0,485256.0,8.67,9.49,0.91,False,Changed mind,23.0
+XT-HOO-029,Studio Basics Hoodie,63299500.0,5354790.0,8.46,9.49,0.89,False,Changed mind,35.7
+XT-STI-044,Behind The Lens Sticker Pack,5294500.0,444560.0,8.4,9.49,0.88,False,Damaged,30.7
+XT-LEN-024,Golden Hour Lens Cloth,5268100.0,440699.0,8.37,9.49,0.88,False,Changed mind,19.6
+XT-HOO-014,35mm Club Hoodie,70071700.0,5759769.0,8.22,9.49,0.87,False,Changed mind,29.3
+XT-CAP-016,35mm Club Cap,21473500.0,1737960.0,8.09,9.49,0.85,False,Wrong size,27.3
+XT-TOT-004,Harmattan Drop Tote Bag,15704400.0,1244806.0,7.93,9.49,0.84,False,Damaged,22.6
+XT-MUG-003,Harmattan Drop Mug,15271900.0,1192171.0,7.81,9.49,0.82,False,Damaged,23.5
+XT-TEE-040,Behind The Lens Tee,32178300.0,2481747.0,7.71,9.49,0.81,False,Changed mind,22.7
+XT-HOO-005,Harmattan Drop Hoodie,78637000.0,5820027.0,7.4,9.49,0.78,False,Damaged,23.6

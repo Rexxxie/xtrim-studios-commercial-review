@@ -1,0 +1,3 @@
+scope,converted_sessions,with_transaction_id,joined_to_real_order,pct_joined,session_revenue_ngn,unattributed_revenue_ngn,unattributed_share_of_session_revenue_pct,unattributed_as_pct_of_merch_net_revenue
+all converted sessions,3851,2666,2625,68.2,361170500.0,112293000.0,31.1,8.1
+human converted sessions,3851,2666,2625,68.2,361170500.0,112293000.0,31.1,8.1

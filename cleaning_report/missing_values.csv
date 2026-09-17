@@ -1,0 +1,66 @@
+file,column,blank_rows,rows,pct_blank,kind,placeholder_written,blank_means
+bookings_2023.csv,dq_flags,730,958,76.2,expected,No issues,no data-quality issue was found on this row
+bookings_2023.csv,notes,369,958,38.52,expected,Not applicable,no note was written
+bookings_2023.csv,lead_source,155,958,16.18,unrecorded,Unknown,not recorded
+bookings_2023.csv,service_type,54,958,5.64,unrecorded,Unknown,"not recorded, and nothing else in the data identifies the service"
+bookings_2023.csv,status,25,958,2.61,unrecorded,Unknown,"not recorded; the booking has crew days, so it was not cancelled, but which of the four live statuses applied is unknown"
+bookings_2023.csv,shoot_days,7,958,0.73,unrecorded,Unknown,"not recorded, and the booking has no timesheets to count days from"
+bookings_2023.csv,location_city,1,958,0.1,unrecorded,Unknown,"not recorded, and the client has no city either"
+bookings_2024.csv,dq_flags,700,937,74.71,expected,No issues,no data-quality issue was found on this row
+bookings_2024.csv,notes,352,937,37.57,expected,Not applicable,no note was written
+bookings_2024.csv,lead_source,157,937,16.76,unrecorded,Unknown,not recorded
+bookings_2024.csv,service_type,51,937,5.44,unrecorded,Unknown,"not recorded, and nothing else in the data identifies the service"
+bookings_2024.csv,status,20,937,2.13,unrecorded,Unknown,"not recorded; the booking has crew days, so it was not cancelled, but which of the four live statuses applied is unknown"
+bookings_2024.csv,vat_applied,7,937,0.75,expected,Unknown,duplicate copies of this booking disagreed on the VAT flag
+bookings_2024.csv,shoot_days,2,937,0.21,unrecorded,Unknown,"not recorded, and the booking has no timesheets to count days from"
+bookings_2025_H1.xlsx,dq_flags,314,366,85.79,expected,No issues,no data-quality issue was found on this row
+bookings_2025_H1.xlsx,notes,192,366,52.46,expected,Not applicable,no note was written
+bookings_2025_H1.xlsx,lead_source,79,366,21.58,unrecorded,Unknown,not recorded
+bookings_2025_H1.xlsx,service_type,10,366,2.73,unrecorded,Unknown,"not recorded, and nothing else in the data identifies the service"
+bookings_2025_H1.xlsx,location_city,1,366,0.27,unrecorded,Unknown,"not recorded, and the client has no city either"
+clients_export.csv,merged_from,1776,1900,93.47,expected,Not applicable,this client absorbed no duplicate record
+clients_export.csv,match_confidence,1776,1900,93.47,expected,Not applicable,only set where a duplicate client was merged in
+clients_export.csv,dq_flags,1114,1900,58.63,expected,No issues,no data-quality issue was found on this row
+clients_export.csv,phone,810,1900,42.63,unrecorded,Unknown,"no number on file, or the recorded number was not a valid Nigerian mobile (see dq_flags)"
+clients_export.csv,notes,665,1900,35.0,expected,Not applicable,no note was written
+clients_export.csv,acquisition_channel,265,1900,13.95,unrecorded,Unknown,not recorded
+clients_export.csv,email,146,1900,7.68,unrecorded,Unknown,no address on file
+clients_export.csv,signup_date,68,1900,3.58,unrecorded,Unknown,not recorded
+clients_export.csv,city,34,1900,1.79,unrecorded,Unknown,not recorded
+crew.csv,dq_flags,120,140,85.71,expected,No issues,no data-quality issue was found on this row
+crew.csv,email,30,140,21.43,unrecorded,Unknown,no address on file
+crew.csv,employment_type,13,140,9.29,unrecorded,Unknown,not recorded
+crew_timesheets.csv,dq_flags,10628,14614,72.72,expected,No issues,no data-quality issue was found on this row
+crew_timesheets.csv,approved_by,2606,14614,17.83,unrecorded,Unknown,no approver recorded
+crew_timesheets.csv,hours_worked,1030,14614,7.05,unrecorded,Unknown,"not recorded, or recorded as an impossible 26h and blanked (see dq_flags)"
+crew_timesheets.csv,day_rate_charged_ngn,1020,14614,6.98,unrecorded,Unknown,not recorded; it cannot be taken from the roster rate because charged rates include half-days and 1.5x overtime
+marketing_spend.csv,dq_flags,3931,3931,100.0,expected,No issues,no data-quality issue was found on this row
+merch_orders.csv,client_id_orig,42806,43206,99.07,expected,Not applicable,the client id on this row was not changed
+merch_orders.csv,dq_flags,40056,43206,92.71,expected,No issues,no data-quality issue was found on this row
+merch_orders.csv,client_id,19524,43206,45.19,expected,Guest,guest checkout: the buyer had no customer account
+merch_orders.csv,discount_code,16397,43206,37.95,expected,Not applicable,no discount code was used on this line
+merch_orders.csv,size,6465,43206,14.96,unrecorded,Unknown,not recorded (size is unreliable in this data anyway)
+merch_orders.csv,customer_email,3402,43206,7.87,unrecorded,Unknown,no address recorded on the order line
+merch_orders.csv,shipping_country,3044,43206,7.05,unrecorded,Unknown,"not recorded; it cannot be taken from the client's country, which matches the shipping country only 23% of the time"
+merch_orders.csv,payment_method,2143,43206,4.96,unrecorded,Unknown,not recorded
+merch_orders.csv,sales_channel,1705,43206,3.95,unrecorded,Unknown,not recorded
+merch_products.csv,dq_flags,46,137,33.58,expected,No issues,no data-quality issue was found on this row
+merch_products.csv,size_run,22,137,16.06,unrecorded,Unknown,not recorded for this price version
+merch_refunds.csv,refund_date_if_day_first,8574,8631,99.34,expected,Not applicable,the refund date had only one possible reading
+merch_refunds.csv,refund_date_if_month_first,8574,8631,99.34,expected,Not applicable,the refund date had only one possible reading
+merch_refunds.csv,dq_flags,3340,8631,38.7,expected,No issues,no data-quality issue was found on this row
+merch_refunds.csv,processed_by,1684,8631,19.51,unrecorded,Unknown,no handler recorded
+merch_refunds.csv,reason,870,8631,10.08,unrecorded,Unknown,no refund reason recorded
+merch_refunds.csv,refund_date,57,8631,0.66,unrecorded,Unknown,the date could be read two ways and both fit the refund window; both readings are in refund_date_if_day_first / refund_date_if_month_first
+web_sessions_2023.csv,gclid,62868,62868,100.0,expected,Not applicable,not a Google Ads click (the 2023 export has no gclid column at all)
+web_sessions_2023.csv,transaction_id,61993,62868,98.61,expected,Not applicable,the session did not convert
+web_sessions_2023.csv,campaign,8871,62868,14.11,expected,Not applicable,"traffic with no campaign attached (direct, organic or referral)"
+web_sessions_2023.csv,country,644,62868,1.02,unrecorded,Unknown,"not recorded, and the client has no city to derive it from"
+web_sessions_2024.csv,transaction_id,87296,88414,98.74,expected,Not applicable,the session did not convert
+web_sessions_2024.csv,gclid,62698,88414,70.91,expected,Not applicable,not a Google Ads click (the 2023 export has no gclid column at all)
+web_sessions_2024.csv,campaign,17113,88414,19.36,expected,Not applicable,"traffic with no campaign attached (direct, organic or referral)"
+web_sessions_2024.csv,country,6026,88414,6.82,unrecorded,Unknown,"not recorded, and the client has no city to derive it from"
+web_sessions_2025_H1.tsv,transaction_id,51091,51764,98.7,expected,Not applicable,the session did not convert
+web_sessions_2025_H1.tsv,gclid,35871,51764,69.3,expected,Not applicable,not a Google Ads click (the 2023 export has no gclid column at all)
+web_sessions_2025_H1.tsv,campaign,7447,51764,14.39,expected,Not applicable,"traffic with no campaign attached (direct, organic or referral)"
+web_sessions_2025_H1.tsv,country,504,51764,0.97,unrecorded,Unknown,"not recorded, and the client has no city to derive it from"

@@ -1,0 +1,161 @@
+file,column,rows,nulls,null_rate_pct,null_spellings,distinct_non_null,inferred_type,parses_as_type_pct,value_shapes,examples
+clients_export.csv,client_id,2082,0,0.0,,2061,text,100.0,3,XT-01787 | XT-00025 | 1749 | XT01076
+clients_export.csv,client_name,2082,0,0.0,,1346,text,100.0,39,Novo NGO |   Novo Media | delta rise foods | Delta Rise Telecom
+clients_export.csv,type,2082,143,6.87,'-' x16; 'NULL' x14; '--' x13; 'unknown' x10; 'N/A' x10; '' x10; 'UNKNOWN' x9; 'tbd' x9; 'NA' x9; ' ' x9; 'null' x9; 'None' x9; 'n/a' x8; '#N/A' x8,9,text,100.0,2,Corporate | CORP | corporate | B2B
+clients_export.csv,email,2082,182,8.74,'None' x18; '' x17; 'N/A' x16; 'NULL' x16; '-' x15; 'null' x14; 'n/a' x14; 'UNKNOWN' x12; 'unknown' x12; '#N/A' x12; 'tbd' x10; 'NA' x9; '--' x9; ' ' x8,1575,text,100.0,6,novo.ngo@company.ng | novo.media@outlook.com | delta.rise.foods@gmail.com | delta.rise.telecom@outlook.com
+clients_export.csv,phone,2082,262,12.58,'-' x23; 'NULL' x23; 'UNKNOWN' x23; 'unknown' x21; 'N/A' x21; 'tbd' x21; 'NA' x19; ' ' x18; '#N/A' x17; 'null' x17; '--' x17; '' x16; 'n/a' x15; 'None' x11,1820,text,100.0,6,+234 806909416 | 08092129171 | 08077298936 | +234 803361175
+clients_export.csv,city,2082,126,6.05,'n/a' x12; 'NULL' x10; 'NA' x10; 'unknown' x10; 'tbd' x9; 'None' x9; 'UNKNOWN' x9; '' x9; '-' x9; 'N/A' x9; '--' x9; '#N/A' x8; ' ' x7; 'null' x6,296,text,100.0,6,Lag | lag | PORTHARCOURT | Abuja
+clients_export.csv,country,2082,108,5.19,'--' x14; 'tbd' x11; 'None' x9; 'unknown' x9; '#N/A' x9; '-' x8; '' x8; 'N/A' x7; ' ' x7; 'n/a' x6; 'UNKNOWN' x6; 'NULL' x5; 'NA' x5; 'null' x4,10,text,100.0,2,Nigeria | NG | United Kingdom | UAE
+clients_export.csv,billing_currency,2082,225,10.81,'-' x20; 'unknown' x19; 'null' x19; '' x19; '--' x18; ' ' x17; 'N/A' x17; '#N/A' x16; 'tbd' x16; 'NULL' x15; 'None' x14; 'n/a' x13; 'NA' x11; 'UNKNOWN' x11,3,text,100.0,1,NGN | USD | GBP
+clients_export.csv,signup_date,2082,90,4.32,'' x10; 'n/a' x9; 'UNKNOWN' x9; 'None' x9; '-' x8; 'null' x8; 'NA' x7; '#N/A' x6; 'tbd' x5; 'N/A' x5; 'unknown' x5; ' ' x4; '--' x3; 'NULL' x2,1453,date,93.0,4,27-Dec-2023 | 2022-10-01 | 20/12/2021 | 26/07/2021
+clients_export.csv,acquisition_channel,2082,310,14.89,'None' x31; 'null' x26; '' x25; 'tbd' x25; '--' x25; 'unknown' x24; 'N/A' x24; ' ' x22; 'NA' x21; 'n/a' x21; 'NULL' x20; '-' x18; '#N/A' x15; 'UNKNOWN' x13,139,text,100.0,4,Agency Partner | Email | TikTok |    Google   
+clients_export.csv,notes,2082,776,37.27,'' x776,7,text,100.0,6,"invoice to accounts dept | VIP - handle w/ care | Discount agreed, see email | prefers whatsapp"
+bookings_2023.csv,booking_id,977,0,0.0,,958,text,100.0,3,BK-01030 | BK-01264 | BK01708 | BK-01297
+bookings_2023.csv,client_id,977,0,0.0,,853,text,100.0,3,xt250 | xt-01810 | XT-01368 | 1734
+bookings_2023.csv,service_type,977,55,5.63,'N/A' x8; 'None' x7; 'null' x6; 'UNKNOWN' x6; 'tbd' x5; '' x4; 'NA' x4; '#N/A' x3; '--' x3; '-' x3; 'n/a' x2; ' ' x2; 'NULL' x1; 'unknown' x1,201,text,100.0,12, Commercial  | Short Film | Short-Film | Corporate Documentary
+bookings_2023.csv,shoot_date,977,0,0.0,,379,date,100.0,2,04/02/2023 | 24-May-2023 | 29/10/2023 | 09/06/2023
+bookings_2023.csv,shoot_days,977,47,4.81,' ' x6; 'null' x5; '#N/A' x5; 'UNKNOWN' x5; '-' x4; '--' x4; 'unknown' x4; '' x3; 'N/A' x3; 'tbd' x2; 'NULL' x2; 'None' x2; 'NA' x1; 'n/a' x1,10,decimal,100.0,2,1 | 3 | 1.0 | 2.0
+bookings_2023.csv,location_city,977,80,8.19,'None' x10; 'unknown' x9; '#N/A' x9; 'NA' x8; 'UNKNOWN' x7; 'NULL' x6; 'n/a' x6; '-' x5; 'null' x5; ' ' x4; 'tbd' x4; 'N/A' x3; '' x3; '--' x1,182,text,100.0,6,"Accra   | Johannesburg | Lag | Ikeja, Lagos"
+bookings_2023.csv,gross_amount,977,0,0.0,,950,money,100.0,28,"6.83M | 8,878,000.00 | 12,897,000 | 9,323,000"
+bookings_2023.csv,discount_pct,977,257,26.31,'' x257,12,text,100.0,3,0 | 0.00 | 0% | 10
+bookings_2023.csv,currency,977,103,10.54,'unknown' x14; '#N/A' x11; 'tbd' x10; 'NA' x9; 'None' x9; 'n/a' x8; 'NULL' x8; 'null' x7; '--' x7; ' ' x6; '' x5; 'N/A' x4; '-' x3; 'UNKNOWN' x2,3,text,100.0,1,NGN | GBP | USD
+bookings_2023.csv,status,977,28,2.87,'#N/A' x3; 'n/a' x3; ' ' x3; 'tbd' x3; 'N/A' x2; 'unknown' x2; 'null' x2; '-' x2; 'UNKNOWN' x2; 'NA' x2; 'NULL' x1; 'None' x1; '' x1; '--' x1,27,text,100.0,3,Complete | delivered | COMPLETE | Done
+bookings_2023.csv,lead_source,977,155,15.86,'tbd' x15; 'None' x14; 'unknown' x14; 'null' x14; ' ' x13; '#N/A' x13; 'n/a' x12; 'N/A' x11; '' x11; 'NA' x10; 'UNKNOWN' x9; 'NULL' x9; '-' x6; '--' x4,105,text,100.0,4,Repeat Client | Agency Partner | tiktok | WALK-IN
+bookings_2023.csv,notes,977,373,38.18,'' x373,8,text,100.0,7,drone denied by airport authority | client rescheduled once | location permit paid by client | RAW files delivered on 2 x 1TB SSD
+bookings_2024.csv,booking_ref,955,0,0.0,,937,text,100.0,3,2112 | BK-02483 | BK-02401 | BK-02040
+bookings_2024.csv,customer_id,955,0,0.0,,852,text,100.0,3,XT-00434 |  XT-00894  | XT00112 | XT-00010
+bookings_2024.csv,service_type,955,52,5.45,'-' x6; 'NA' x6; 'null' x5; '#N/A' x5; 'n/a' x4; 'NULL' x4; '' x4; 'UNKNOWN' x4; ' ' x3; 'N/A' x3; 'tbd' x3; 'unknown' x3; 'None' x2,203,text,100.0,11,photo-shoot | Commercial / TVC | CORPORATE DOCUMENTARY |   commercial - tvc 
+bookings_2024.csv,date_of_shoot,955,0,0.0,,394,date,100.0,2,04/11/2024 | 09/03/2024 | 08/04/2024 | 03/09/2024
+bookings_2024.csv,shoot_days,955,39,4.08,' ' x6; 'N/A' x5; '-' x5; 'NA' x4; 'null' x4; '#N/A' x3; 'tbd' x3; 'n/a' x2; 'NULL' x2; '' x2; 'UNKNOWN' x2; '--' x1,10,decimal,100.0,2,1 | 1.0 | 2 | 4
+bookings_2024.csv,location_city,955,70,7.33,'tbd' x8; 'NULL' x7; '' x6; 'None' x6; 'n/a' x5; '#N/A' x5; 'null' x5; '--' x5; 'unknown' x5; 'UNKNOWN' x5; 'NA' x5; ' ' x4; 'N/A' x4,168,text,100.0,6,Lag | Lagos | london | Enugu
+bookings_2024.csv,amount_gross,955,0,0.0,,928,money,100.0,27,"2.11M | ₦43,292,000.00 | 8,100 | 40930000.00"
+bookings_2024.csv,discount_pct,955,224,23.46,'' x224,12,text,100.0,3,0.00 | 0 | 0.15 | 0%
+bookings_2024.csv,currency,955,119,12.46,'UNKNOWN' x11; 'null' x11; ' ' x11; 'NA' x10; 'N/A' x10; '--' x9; '#N/A' x9; '-' x8; 'NULL' x8; 'None' x8; '' x8; 'unknown' x7; 'n/a' x5; 'tbd' x4,3,text,100.0,1,NGN | GBP | USD
+bookings_2024.csv,status,955,22,2.3,'None' x4; 'UNKNOWN' x3; 'unknown' x2; 'null' x2; '--' x2; 'tbd' x2; '#N/A' x2; '' x1; 'N/A' x1; 'NA' x1; 'NULL' x1; '-' x1,27,text,100.0,3,Invoiced | delivered | CANCELLED | INVOICED
+bookings_2024.csv,lead_source,955,158,16.54,'NULL' x16; 'n/a' x15; ' ' x14; '#N/A' x13; 'tbd' x13; 'None' x13; '--' x11; 'UNKNOWN' x11; 'NA' x10; 'N/A' x10; 'null' x10; '-' x8; '' x8; 'unknown' x6,107,text,100.0,4, Instagram | Walk-in | Referral | GOOGLE
+bookings_2024.csv,vat_applied,955,0,0.0,,14,boolean,100.0,2,N | t | no | Y
+bookings_2024.csv,notes,955,359,37.59,'' x359,8,text,100.0,7,"drone denied by airport authority | client rescheduled once | Overtime: crew stayed till 2am,
+billed s | half payment received, balance pending"
+bookings_2025_H1.xlsx,Booking Ref,387,20,5.17,'' x20,367,text,100.0,4,BK-02896 | bk2897 | BK-02898 | bk2899
+bookings_2025_H1.xlsx,Client ID,387,21,5.43,'' x21,353,text,100.0,3,XT-00442 |  XT-00349  | XT-01652 | XT-01872
+bookings_2025_H1.xlsx,Client Name,387,21,5.43,'' x21,303,text,100.0,19,Damilola Mohammed |  Blue Ivy Agency  | Aisha Chen |  Musa Achebe 
+bookings_2025_H1.xlsx,Service,387,31,8.01,'' x27; '-' x2; ' ' x1; 'UNKNOWN' x1,49,text,100.0,9,SHORT FILM | PHOTOSHOOT | Short Film | music_video
+bookings_2025_H1.xlsx,Shoot Date,387,21,5.43,'' x21,240,integer,64.2,4,02-Jan-25 | 03/01/2025 | 04-Jan-25 | 45661
+bookings_2025_H1.xlsx,Days,387,21,5.43,'' x21,5,integer,100.0,1,1 | 2 | 3 | 4
+bookings_2025_H1.xlsx,City,387,37,9.56,'' x24; '--' x3; 'tbd' x3; 'UNKNOWN' x2; ' ' x2; '-' x2; 'unknown' x1,41,text,100.0,4,"Ikeja, Lagos | Ibadan | london | Abuja, FCT"
+bookings_2025_H1.xlsx,Gross Amount,387,14,3.62,'' x14,372,money,99.7,22,"20824000 | 2625000.00 | 17,100.00 | 16306000"
+bookings_2025_H1.xlsx,Disc %,387,119,30.75,'' x119,5,text,100.0,2,0% | 5% | 0 | 15%
+bookings_2025_H1.xlsx,Ccy,387,67,17.31,'' x45; 'tbd' x5; '--' x5; 'unknown' x4; ' ' x3; 'UNKNOWN' x3; '-' x2,3,text,100.0,1,NGN | GBP | USD
+bookings_2025_H1.xlsx,Status,387,21,5.43,'' x21,27,text,100.0,3,postponed | Complete | Done | COMPLETE
+bookings_2025_H1.xlsx,Lead Source,387,100,25.84,'' x74; '--' x7; 'unknown' x5; '-' x5; ' ' x4; 'UNKNOWN' x3; 'tbd' x2,7,text,100.0,3,Walk-in | Instagram | Repeat Client | Google
+bookings_2025_H1.xlsx,Notes,387,213,55.04,'' x213,4,text,100.0,4,"client provided own
+location | URGENT - chase invoice | reshoot requested | paid via transfer"
+crew.csv,crew_id,140,0,0.0,,140,text,100.0,3,CR-00001 | CR-00002 | CR-00003 | CR-00004
+crew.csv,full_name,140,0,0.0,,133,text,100.0,17,Renée Chen | Kelechi Mohammed | NÃºria Okafor | Grace Adeyemi
+crew.csv,role,140,7,5.0,'n/a' x3; 'N/A' x2; 'unknown' x1; 'tbd' x1,47,text,100.0,5,art director | Grip | Art Director | Editor 
+crew.csv,day_rate_ngn,140,13,9.29,'N/A' x4; 'tbd' x2; 'null' x2; 'unknown' x1; '#N/A' x1; 'None' x1; '--' x1; 'UNKNOWN' x1,123,money,100.0,9,"₦ 156 000.00 | 76.0K | NGN 49,000.00 | 158,000"
+crew.csv,employment_type,140,13,9.29,'NULL' x4; 'NA' x4; 'null' x2; ' ' x1; 'n/a' x1; 'unknown' x1,2,text,100.0,1,Freelance | Staff
+crew.csv,is_active,140,0,0.0,,14,boolean,100.0,2,no | t | TRUE | Y
+crew.csv,email,140,30,21.43,'tbd' x6; 'null' x4; 'NULL' x4; 'n/a' x3; '-' x3; 'unknown' x2; ' ' x2; '' x2; 'UNKNOWN' x1; '#N/A' x1; 'N/A' x1; 'NA' x1,36,text,100.0,5,kelechi@xtrimstudios.com | núria@xtrimstudios.com | zainab@xtrimstudios.com | tunde@xtrimstudios.com
+crew_timesheets.csv,timesheet_id,15156,0,0.0,,14933,integer,100.0,1,7071 | 11091 | 5339 | 10644
+crew_timesheets.csv,booking_id,15156,0,0.0,,6319,text,100.0,3,BK-02063 | BK-02644 | BK-01803 | BK-02575
+crew_timesheets.csv,crew_id,15156,0,0.0,,838,text,100.0,3,CR00088 | CR-00137 | cr-00137 | cr83
+crew_timesheets.csv,work_date,15156,0,0.0,,2164,date,100.0,3,2024-03-22 | 2024-10-29 | 21/11/2023 | 2024-10-07
+crew_timesheets.csv,hours_worked,15156,927,6.12,'NULL' x86; 'unknown' x81; ' ' x80; 'null' x72; 'n/a' x70; 'tbd' x68; '-' x64; 'UNKNOWN' x64; '' x60; 'None' x59; '--' x56; '#N/A' x56; 'NA' x56; 'N/A' x55,28,text,100.0,4,9.0 | 6 hrs | 12 | 10.0
+crew_timesheets.csv,role_on_job,15156,1361,8.98,'n/a' x115; 'NULL' x104; 'NA' x103; ' ' x103; '#N/A' x100; 'None' x99; 'null' x98; '' x98; '-' x97; 'N/A' x95; 'unknown' x92; '--' x89; 'UNKNOWN' x88; 'tbd' x80,428,text,100.0,5,Director of Photography | Drone Operator | Gaffer       | Colorist
+crew_timesheets.csv,day_rate_charged,15156,1058,6.98,'#N/A' x89; 'N/A' x87; 'n/a' x85; 'None' x85; '--' x82; 'NA' x79; '' x75; 'unknown' x72; 'UNKNOWN' x72; '-' x72; ' ' x69; 'tbd' x67; 'null' x66; 'NULL' x58,2240,money,100.0,9,"₦368,000.00 | ₦235,000.00 | 235,000 | ₦120,000.00"
+crew_timesheets.csv,overtime,15156,0,0.0,,14,boolean,100.0,2,f | No | FALSE | True
+crew_timesheets.csv,approved_by,15156,2692,17.76,'NA' x215; 'n/a' x210; '-' x208; ' ' x206; 'NULL' x205; '--' x203; '' x197; 'null' x195; 'None' x190; 'UNKNOWN' x176; 'unknown' x175; '#N/A' x172; 'tbd' x170; 'N/A' x170,7,text,100.0,3,Tunde Adeyemi | n.okafor | t. adeyemi | N. Okafor
+merch_products.csv,sku,137,0,0.0,,57,text,100.0,1,XT-MUG-003 | XT-LIM-045 | XT-HOO-037 | XT-LEN-034
+merch_products.csv,product_name,137,0,0.0,,82,text,100.0,15,Harmattan Drop Mug | Behind The Lens Limited Print | Anniversary â€™05 Hoodie | Anniversary â€™05 Lens Cloth
+merch_products.csv,category,137,4,2.92,'n/a' x1; 'tbd' x1; 'NULL' x1; '#N/A' x1,45,text,100.0,4,Mug | Limited Print | Hoodie | Lens Cloth
+merch_products.csv,collection,137,17,12.41,'' x5; 'NA' x2; 'null' x2; 'None' x1; 'unknown' x1; 'UNKNOWN' x1; 'tbd' x1; 'N/A' x1; ' ' x1; '#N/A' x1; 'NULL' x1,36,text,100.0,8,   Harmattan Drop   | Behind The Lens |    Anniversary â€™05   |   Behind The Lens
+merch_products.csv,colour,137,13,9.49,'UNKNOWN' x2; 'None' x2; 'n/a' x2; '#N/A' x2; 'null' x1; 'NULL' x1; 'tbd' x1; '-' x1; '' x1,7,text,100.0,2,Black | Navy | Sand | Forest
+merch_products.csv,size_run,137,22,16.06,'' x22,5,text,100.0,4,"S-XXL | S,M,L,XL,XXL | OS | s-xxl"
+merch_products.csv,unit_cost_ngn,137,17,12.41,'unknown' x3; '#N/A' x3; 'NULL' x2; '--' x2; 'UNKNOWN' x2; 'N/A' x2; 'None' x1; '' x1; ' ' x1,96,money,100.0,10,"4,800.00 | 27200.00 | ₦12,400.00 | ₦1,300.00"
+merch_products.csv,list_price_ngn,137,0,0.0,,133,money,100.0,9,"11,000.00 NGN | ₦ 71 300.00 | 51300.00 | NGN 5,800.00"
+merch_products.csv,valid_from,137,0,0.0,,127,date,100.0,2,2024-02-02 | 2022-11-14 | 2023-06-25 | 2025-03-25
+merch_products.csv,valid_to,137,17,12.41,'' x17,117,date,100.0,2,26/10/2023 | 2024-05-01 | 2025-11-21 | 2024-01-21
+merch_products.csv,active,137,0,0.0,,14,boolean,100.0,2,N | Yes | False | FALSE
+merch_orders.csv,order_id,44495,0,0.0,,33389,text,100.0,2,ORD512816 | ord-505759 | ORD520224 | ORD524354
+merch_orders.csv,line_no,44495,0,0.0,,6,integer,100.0,1,1 | 2 | 5 | 3
+merch_orders.csv,order_ts,44495,0,0.0,,30200,timestamp,100.0,4,2024-03-23T23:54:20Z | 2023-08-27 19:16:10 | 2024-11-18T11:21:13Z | 2025-02-26T08:46:21+01:00
+merch_orders.csv,client_id,44495,19973,44.89,'' x19973,8013,text,100.0,3,XT-00483 | xt114 | XT-00816 | XT-01341
+merch_orders.csv,customer_email,44495,3498,7.86,'n/a' x281; 'None' x265; '#N/A' x264; 'UNKNOWN' x262; 'unknown' x260; 'NA' x254; 'N/A' x251; ' ' x246; 'NULL' x246; 'null' x245; '--' x240; 'tbd' x234; '-' x226; '' x224,19512,text,100.0,5,guest18591@mail.com | sarah.achebe@yahoo.com | emeka.adeyemi@gmail.com | UCHE.DLAMINI@GMAIL.COM
+merch_orders.csv,sku,44495,0,0.0,,180,text,100.0,2,XT-LEN-019 | XT-STI-013 | XT-LIM-002 | XT-TEE-038
+merch_orders.csv,product_name,44495,0,0.0,,1722,text,100.0,25,35mm Club Lens Cloth | 35mm Club Sticker Pack | Harmattan Drop Limited Print | Anniversary ’05 Tee
+merch_orders.csv,size,44495,6657,14.96,'NULL' x510; 'UNKNOWN' x501; 'NA' x498; 'unknown' x483; 'N/A' x480; 'None' x477; '#N/A' x475; '--' x473; 'tbd' x470; ' ' x460; '' x458; '-' x458; 'null' x457; 'n/a' x457,10,text,100.0,2,m | L | XXL | S
+merch_orders.csv,quantity,44495,0,0.0,,14,decimal,100.0,4,2.0 | 1 | 2 | 3
+merch_orders.csv,unit_price,44495,0,0.0,,4816,money,100.0,15,"5,000 | ₦2,400.00 | 148200.00 | ₦23,700.00"
+merch_orders.csv,discount_code,44495,16898,37.98,'' x16898,12,text,100.0,2,BLACKFRI | blackfri | FREESHIP | lagos10
+merch_orders.csv,shipping_country,44495,3128,7.03,'unknown' x253; '--' x247; '' x238; 'NULL' x237; 'NA' x233; 'None' x227; 'null' x225; ' ' x224; '#N/A' x222; 'tbd' x215; '-' x209; 'UNKNOWN' x209; 'N/A' x202; 'n/a' x187,11,text,100.0,2,Nigeria | nigeria | Ghana | NG
+merch_orders.csv,payment_method,44495,2206,4.96,' ' x182; 'UNKNOWN' x170; 'n/a' x169; '' x167; '--' x166; 'tbd' x161; 'NULL' x161; '#N/A' x156; 'N/A' x154; 'None' x152; 'null' x151; 'NA' x146; '-' x143; 'unknown' x128,10,text,100.0,2,flutterwave | bank transfer | paystack | Bank Transfer
+merch_orders.csv,sales_channel,44495,1767,3.97,'#N/A' x146; 'tbd' x132; 'N/A' x132; ' ' x130; 'NULL' x129; 'NA' x127; 'unknown' x126; 'null' x126; '-' x126; 'UNKNOWN' x124; '--' x121; 'n/a' x121; '' x116; 'None' x111,10,text,100.0,4,Wholesale | instagram | website | Pop Up Shop
+merch_orders.csv,order_status,44495,0,0.0,,12,text,100.0,1,Fulfilled | DELIVERED | shipped | delivered
+merch_refunds.csv,refund_id,8888,0,0.0,,8447,text,100.0,1,RF-47555 | RF-66009 | RF-34467 | RF-35668
+merch_refunds.csv,order_id,8888,0,0.0,,7395,text,100.0,2,ORD501244 | 528881 | 519012 | ORD525016
+merch_refunds.csv,refund_date,8888,0,0.0,,2251,date,100.0,2,2023-04-07 | 2025-07-27 | 30/11/2024 | 03/26/2025
+merch_refunds.csv,refund_amount,8888,0,0.0,,6300,money,100.0,33,"₦44,100.00 | 19,300.00 NGN | NGN 26,100.00 | (63,600.00)"
+merch_refunds.csv,reason,8888,1051,11.82,'' x877; 'Unknown' x174,9,text,100.0,3,Duplicate order | changed mind | wrong size | Changed mind
+merch_refunds.csv,processed_by,8888,1873,21.07,'' x1873,4,text,100.0,2,auto | ops | SUPPORT | support@xtrimstudios.com
+web_sessions_2023.csv,session_id,62868,0,0.0,,62868,text,100.0,1,S000000001 | S000000002 | S000000003 | S000000004
+web_sessions_2023.csv,ts_epoch_ms,62868,0,0.0,,62781,integer,100.0,1,1672616049000 | 1672597616000 | 1672597375000 | 1672605400000
+web_sessions_2023.csv,user_pseudo_id,62868,0,0.0,,45156,text,100.0,1,u052233 | u021137 | u040199 | u085834
+web_sessions_2023.csv,utm_source,62868,2114,3.36,'' x2114,29,text,100.0,4,meta | ig | (direct) | google.com
+web_sessions_2023.csv,utm_medium,62868,9575,15.23,'none' x4799; '' x4776,11,text,100.0,3,organic | cpc | ppc | referral
+web_sessions_2023.csv,utm_campaign,62868,8871,14.11,'' x8871,12,text,100.0,8,wedding season 24 | Retarget-Q4 | brand_always_on | harmattan_drop
+web_sessions_2023.csv,device_category,62868,0,0.0,,8,text,100.0,1,Desktop | smartphone | Mobile | desktop
+web_sessions_2023.csv,country,62868,644,1.02,'' x644,8,text,100.0,2,Canada | Nigeria | United Kingdom | Kenya
+web_sessions_2023.csv,landing_page,62868,0,0.0,,14,text,100.0,7,/rates | /shop/harmattan-drop | /portfolio/ | /shop?utm_source=ig
+web_sessions_2023.csv,pageviews,62868,0,0.0,,9,integer,100.0,1,2 | 4 | 3 | 1
+web_sessions_2023.csv,session_duration_sec,62868,0,0.0,,1251,integer,100.0,1,34 | 81 | 242 | 186
+web_sessions_2023.csv,user_agent,62868,0,0.0,,12,text,100.0,11,Mozilla/5.0 (Macintosh; Intel Mac OS X 1 | Mozilla/5.0 (Linux; Android 13; SM-A536E | Mozilla/5.0 (iPhone; CPU iPhone OS 16_6  | Mozilla/5.0 (Windows NT 10.0; Win64; x64
+web_sessions_2023.csv,is_new_user,62868,0,0.0,,14,boolean,100.0,2,no | 1 | Yes | f
+web_sessions_2023.csv,converted,62868,0,0.0,,14,boolean,100.0,2,False | f | no | 0
+web_sessions_2023.csv,transaction_id,62868,61993,98.61,'' x61993,860,text,100.0,1,ORD527190 | ORD510611 | ORD505862 | ORD525317
+web_sessions_2023.csv,revenue,62868,30877,49.11,'' x15505; 'NA' x15372,889,decimal,100.0,2,0 | 0.00 | 158000.0 | 68000.0
+web_sessions_2024.csv,session_id,88414,0,0.0,,88414,text,100.0,1,S000062869 | S000062870 | S000062871 | S000062872
+web_sessions_2024.csv,session_start,88414,0,0.0,,87626,timestamp,100.0,1,2024-01-01 07:44:13 | 2024-01-01 08:42:37 | 2024-01-01 20:24:23 | 2024-01-01 17:49:23
+web_sessions_2024.csv,visitor_id,88414,0,0.0,,54252,text,100.0,1,u009623 | u004510 | u058439 | u013794
+web_sessions_2024.csv,source,88414,2757,3.12,'' x2757,32,text,100.0,6,twitter | tiktok | linkedin | Google
+web_sessions_2024.csv,medium,88414,12893,14.58,'' x6525; 'none' x6368,11,text,100.0,3,(none) | email | cpc | organic_social
+web_sessions_2024.csv,campaign,88414,17113,19.36,'' x17113,12,text,100.0,8,brand_always_on | harmattan_drop | lagos_nights_launch | Retarget-Q4
+web_sessions_2024.csv,gclid,88414,62698,70.91,'' x62698,25716,text,100.0,1,Cj0KCQ7789193336 | Cj0KCQ8394644625 | Cj0KCQ2634327247 | Cj0KCQ9884147501
+web_sessions_2024.csv,device,88414,0,0.0,,8,text,100.0,1,MOBILE | Tablet | smartphone | mobile
+web_sessions_2024.csv,country,88414,6026,6.82,'' x6026,8,text,100.0,2,Kenya | NG | Nigeria | Ghana
+web_sessions_2024.csv,landing_page,88414,0,0.0,,14,text,100.0,7,/booking | /blog/5-tips-for-your-wedding-film | /commercial | /
+web_sessions_2024.csv,page_views,88414,0,0.0,,9,integer,100.0,1,4 | 2 | 1 | 6
+web_sessions_2024.csv,duration_seconds,88414,0,0.0,,1333,integer,100.0,1,102 | 106 | 70 | 108
+web_sessions_2024.csv,user_agent,88414,0,0.0,,12,text,100.0,11,Mozilla/5.0 (Macintosh; Intel Mac OS X 1 | Mozilla/5.0 (iPhone; CPU iPhone OS 16_6  | Mozilla/5.0 (Windows NT 10.0; Win64; x64 | Mozilla/5.0 (Linux; Android 13; SM-A536E
+web_sessions_2024.csv,new_visitor,88414,0,0.0,,14,boolean,100.0,2,TRUE | Yes | FALSE | True
+web_sessions_2024.csv,converted,88414,0,0.0,,14,boolean,100.0,2,0 | False | FALSE | no
+web_sessions_2024.csv,transaction_id,88414,87296,98.74,'' x87296,1096,text,100.0,1,ORD516458 | ORD509736 | ORD504417 | ORD514084
+web_sessions_2024.csv,revenue_ngn,88414,43502,49.2,'' x21912; 'NA' x21590,1050,decimal,100.0,2,0.00 | 0 | 38800.0 | 129100.0
+web_sessions_2025_H1.tsv,session_id,51764,0,0.0,,51764,text,100.0,1,S000146083 | S000146084 | S000146085 | S000146086
+web_sessions_2025_H1.tsv,session_start_iso,51764,0,0.0,,51649,timestamp,100.0,1,2025-01-01T05:10:02+01:00 | 2025-01-01T09:07:45+01:00 | 2025-01-01T18:21:23+01:00 | 2025-01-01T18:20:27+01:00
+web_sessions_2025_H1.tsv,visitor_id,51764,0,0.0,,39293,text,100.0,1,u042637 | u008053 | u067710 | u049852
+web_sessions_2025_H1.tsv,source,51764,1758,3.4,'' x1758,29,text,100.0,4,direct | twitter | behance | GOOGLE
+web_sessions_2025_H1.tsv,medium,51764,7923,15.31,'' x3988; 'none' x3935,11,text,100.0,3,ppc | (none) | paid | Social
+web_sessions_2025_H1.tsv,campaign,51764,7447,14.39,'' x7447,12,text,100.0,8,harmattan_drop | black_friday | Retarget-Q4 | brand_always_on
+web_sessions_2025_H1.tsv,gclid,51764,35871,69.3,'' x35871,15893,text,100.0,1,Cj0KCQ1602541579 | Cj0KCQ3873541618 | Cj0KCQ1863070723 | Cj0KCQ5401010118
+web_sessions_2025_H1.tsv,device,51764,0,0.0,,8,text,100.0,1,smartphone | MOBILE | Desktop | desktop
+web_sessions_2025_H1.tsv,country,51764,504,0.97,'' x504,8,text,100.0,2,United States | NG | Nigeria | United Kingdom
+web_sessions_2025_H1.tsv,landing_page,51764,0,0.0,,14,text,100.0,7,/ | /rates | /portfolio/ | /shop
+web_sessions_2025_H1.tsv,page_views,51764,0,0.0,,9,integer,100.0,1,9 | 1 | 4 | 2
+web_sessions_2025_H1.tsv,duration_seconds,51764,0,0.0,,1245,integer,100.0,1,238 | 0 | 307 | 19
+web_sessions_2025_H1.tsv,user_agent,51764,0,0.0,,12,text,100.0,11,Mozilla/5.0 (Linux; Android 13; SM-A536E | Mozilla/5.0 (iPhone; CPU iPhone OS 16_6  | Mozilla/5.0 (Macintosh; Intel Mac OS X 1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64
+web_sessions_2025_H1.tsv,new_visitor,51764,0,0.0,,14,boolean,100.0,2,1 | 0 | t | N
+web_sessions_2025_H1.tsv,converted,51764,0,0.0,,14,boolean,100.0,2,FALSE | False | No | 0
+web_sessions_2025_H1.tsv,transaction_id,51764,51091,98.7,'' x51091,664,text,100.0,1,ORD504288 | ORD510703 | ORD510187 | ORD502166
+web_sessions_2025_H1.tsv,revenue_ngn,51764,25536,49.33,'' x12835; 'NA' x12701,741,decimal,100.0,2,0.00 | 0 | 167500.0 | 71000.0
+marketing_spend.csv,date,4048,0,0.0,,1467,date,100.0,2,03/06/2024 | 19/04/2023 | 06/06/2024 | 29/03/2025
+marketing_spend.csv,channel,4048,0,0.0,,6,text,100.0,4,Email / CRM | Google Ads | TikTok Ads | YouTube Pre-roll
+marketing_spend.csv,campaign_name,4048,0,0.0,,13,text,100.0,8,HARMATTAN_DROP | showreel_push | wedding_season_23 | lagos_nights_launch
+marketing_spend.csv,impressions,4048,0,0.0,,3877,integer,69.0,2,49 235 | 15991 | 18915 | 83245
+marketing_spend.csv,clicks,4048,0,0.0,,1842,integer,100.0,1,1615 | 390 | 173 | 797
+marketing_spend.csv,spend,4048,0,0.0,,3931,decimal,100.0,2,"541994.30 | 157502.52 | 13039,20 | 92534,78"
+marketing_spend.csv,currency,4048,130,3.21,'' x130,3,text,100.0,1,ngn | NGN | N
+fx_rates.csv,rate_date,1860,0,0.0,,620,date,100.0,1,2023-01-02 | 2023-01-03 | 2023-01-04 | 2023-01-05
+fx_rates.csv,from_currency,1860,0,0.0,,3,text,100.0,1,USD | GBP | EUR
+fx_rates.csv,rate,1860,0,0.0,,1857,money,100.0,2,464.6037 | 568.0400 | 508.9167 | 464.0890
+fx_rates.csv,to_currency,1860,0,0.0,,1,text,100.0,1,NGN

@@ -1,0 +1,9 @@
+check_name,result
+raw: overlapping window pairs,29
+raw: SKUs with at least one overlap,19
+raw: windows with valid_to < valid_from,7
+raw: SKU spellings -> SKUs,57 -> 45
+core: overlapping window pairs,0
+core: gaps between consecutive versions,0
+core: SKUs without exactly one current version,0
+core: EXCLUDE constraint present,1

@@ -1,0 +1,28 @@
+service_name,year,jobs,revenue_ngn,share_of_year_pct,yoy_growth_pct,h1_vs_h1_growth_pct
+Commercial / TVC,2023,69,1906133554.0,28.7,,
+Music Video,2023,114,1393363921.0,21.0,,
+Wedding Film,2023,177,957864340.0,14.4,,
+Corporate Documentary,2023,66,770461287.0,11.6,,
+Short Film,2023,31,455918775.0,6.9,,
+Event Coverage,2023,126,409190643.0,6.2,,
+Photoshoot,2023,156,344217505.0,5.2,,
+Unknown,2023,50,329374218.0,5.0,,
+Studio Rental,2023,81,81345860.0,1.2,,
+Commercial / TVC,2024,72,2670369947.0,30.9,40.1,
+Music Video,2024,103,1768248872.0,20.4,26.9,
+Wedding Film,2024,169,1111191213.0,12.8,16.0,
+Corporate Documentary,2024,65,985853363.0,11.4,28.0,
+Short Film,2024,32,657778837.0,7.6,44.3,
+Photoshoot,2024,160,475743568.0,5.5,38.2,
+Event Coverage,2024,124,474730455.0,5.5,16.0,
+Unknown,2024,48,415636146.0,4.8,26.2,
+Studio Rental,2024,81,92015973.0,1.1,13.1,
+Commercial / TVC,2025,31,1485637826.0,34.2,,85.1
+Music Video,2025,44,856961702.0,19.7,,55.0
+Wedding Film,2025,77,556276745.0,12.8,,86.3
+Short Film,2025,21,504576949.0,11.6,,50.6
+Corporate Documentary,2025,24,382034999.0,8.8,,20.1
+Photoshoot,2025,64,206045131.0,4.7,,34.8
+Event Coverage,2025,40,173274442.0,4.0,,12.3
+Unknown,2025,9,138019899.0,3.2,,-45.1
+Studio Rental,2025,24,36342796.0,0.8,,9.4
