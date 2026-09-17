@@ -1,87 +1,194 @@
-# Xtrim Studios — commercial performance review (finished project)
+# Xtrim Studios — Commercial Performance Review
 
-Everything the brief asked for, rebuilt from the raw files with one command. All money is Nigerian naira (₦).
+**An end-to-end analytics project: 14 messy source files → cleaning pipeline → PostgreSQL star schema → SQL answers → dashboard, memo and board deck.**
 
-## Start here
+`Python (pandas)` · `PostgreSQL 17` · `SQL` · `Streamlit` · `pytest` · `python-docx / python-pptx`
+
+---
+
+## The brief
+
+Xtrim Studios is a cinematography house — weddings, music videos, TVCs, corporate work — that also runs a merch line and spends real money on paid ads. Nobody had ever looked at the three sides of the business together. The Studio Director's question:
+
+> *"We're busier than ever and there's less money in the bank. Where is it going? And is the ad spend actually doing anything?"*
+
+What I was handed: a dump of every system the studio uses — an ERP migrated mid-2025, merch CSV exports, web analytics from three different tools depending on the year, and FX rates in a spreadsheet. ~282,000 rows across 14 files, no data engineer, and a data dictionary that turned out to be wrong in 11 specific places.
+
+**Scope:** 2023 → H1 2025. All money is reported in Nigerian naira (₦).
+
+---
+
+## The answer
+
+**1. The growth is an illusion created by the exchange rate.**
+Revenue grew **31% in naira** (₦7.07B → ₦9.24B) and fell **56% in dollars** ($8.04M → $3.58M) over the same period. The naira lost **90%** against the dollar (₦464.6 → ₦4,730.61 per USD). Job volume was flat: 870 jobs in 2023, 854 in 2024.
+
+**2. ₦5.96B of revenue — 30% of the production book — is in jobs that never completed.**
+That includes **₦1.60B across 175 jobs from 2023–2024 still sitting at "Invoiced"**. Postponed work rose from 5.9% of revenue in 2023 to 11.6% in 2024 to 13.8% in H1 2025. This is the cash gap, and it is a collections problem, not a demand problem.
+
+**3. Studio Rental loses money before overheads.**
+It runs a **−5.3% margin on crew cost alone**. Across all service lines, **182 jobs cost ₦140M more in crew than they billed** — 147 of them genuine, 35 caused by broken timesheet data (which is itself a finding).
+
+**4. The ad spend cannot be shown to work.**
+₦860M of ads returned **₦0.35 of tracked web-shop revenue per ₦1 spent**. They only break even if **6.7%** of the ₦6.56B of bookings credited to Google/Instagram/TikTok were actually driven by paid ads — and nothing in any system records that. 11.4% of all web sessions were bots; 31% of tracked session revenue can't be attributed to any channel at all.
+
+**5. Merch is healthy but too small to matter yet.**
+₦1.38B net at **61% contribution margin**, no collection and no SKU losing money. It is 6.6% of total revenue.
+
+**6. The costs that explain the squeeze aren't in these systems.**
+Everything recorded — crew, ads, merch stock — is only **17% of 2024 revenue**. The rest of the cost base is invisible to the data, so the honest answer to "where is it going" is: into unbilled/uncollected invoices, and into costs nobody is capturing.
+
+Charts behind each of these: [`charts/`](charts/). Full reasoning: the memo and technical appendix below.
+
+---
+
+## Deliverables
 
 | If you want… | Open |
 |---|---|
-| The presentation | `presentation/Xtrim_Studios_Commercial_Review.pptx` (PDF copy beside it) |
-| The 2-page memo to the Director | `memo/Xtrim_Studios_Director_Memo.docx` (PDF copy beside it) |
-| The technical appendix | `memo/Xtrim_Studios_Technical_Appendix.docx` (PDF copy beside it) |
-| The dashboard | `streamlit run dashboard/app.py` (Production · Merch · Acquisition tabs, filters, data-quality tile) |
-| The SQL answers | `sql/02_questions_answered.sql`, results in `results/q01.csv` … `q14.csv` |
-| The data quality report (Phase 1) | `data_quality_report/DATA_QUALITY_REPORT.md` (+ `column_profile.xlsx`) |
-| The cleaned datasets | `clean/` (same 14 filenames, every money column in NGN) |
-| What was thrown away and why | `cleaning_report/quarantine_rejected_rows.csv`, `cleaning_report/CLEANING_DECISIONS.md` |
+| **The board deck** | [`presentation/Xtrim_Studios_Commercial_Review.pdf`](presentation/Xtrim_Studios_Commercial_Review.pdf) (PPTX beside it) |
+| **The 2-page memo to the Director** | [`memo/Xtrim_Studios_Director_Memo.pdf`](memo/Xtrim_Studios_Director_Memo.pdf) (DOCX beside it) |
+| **The technical appendix** — every assumption and sensitivity | [`memo/Xtrim_Studios_Technical_Appendix.pdf`](memo/Xtrim_Studios_Technical_Appendix.pdf) |
+| **The dashboard** | `streamlit run dashboard/app.py` — Production · Merch · Acquisition, with filters and a live data-quality tile |
+| **The SQL** | [`sql/02_questions_answered.sql`](sql/02_questions_answered.sql) — 14 questions, answered against the star schema |
+| **The query results** | [`results/`](results/) — `q01.csv` … `q14.csv` |
+| **The data quality report** | [`data_quality_report/DATA_QUALITY_REPORT.md`](data_quality_report/DATA_QUALITY_REPORT.md) |
+| **Every cleaning decision + its evidence** | [`cleaning_report/CLEANING_DECISIONS.md`](cleaning_report/CLEANING_DECISIONS.md) |
+| **Every modelling decision** | [`warehouse/WAREHOUSE_DECISIONS.md`](warehouse/WAREHOUSE_DECISIONS.md) |
+| **What was rejected and why** | [`cleaning_report/quarantine_rejected_rows.csv`](cleaning_report/quarantine_rejected_rows.csv) — 2,445 rows, none deleted |
 
-## The answer in brief
+---
 
-- Revenue grew 31% in naira (₦7.07B in 2023 → ₦9.24B in 2024) but fell 56% in dollars ($8.0M → $3.6M); the naira lost 90% against the dollar.
-- ₦5.96B (30%) of production revenue is in jobs not yet completed, including ₦1.60B on 175 jobs from 2023–2024 still marked Invoiced. Postponed work rose from 5.9% to 13.8% of revenue.
-- Studio Rental loses money on crew cost alone (−5.3% margin); 182 jobs cost ₦140M more in crew than they earned (147 genuine, 35 caused by bad timesheet data).
-- ₦860M of ads returned ₦0.35 of tracked web-shop revenue per ₦1. They break even only if 6.7% of the ₦6.56B of bookings credited to Google/Instagram/TikTok came from paid ads — nothing records that.
-- Merch is healthy but small (₦1.38B net, 61% contribution, no drop lost money).
-- Recorded costs (crew, ads, merch stock) are only 17% of 2024 revenue: the cash squeeze is in costs these systems don't capture and in unpaid invoices.
-
-## Folder map
+## How it works
 
 ```
-done/
-  run_pipeline.py          one command: rebuilds everything below from the raw files
-  pipeline/                cleaning code (run_pipeline.py, validate.py, maps, parsers)
-  clean/                   cleaned datasets, all NGN
-  cleaning_report/         decisions log, quarantine, currency conversion audit, missing values
-  data_quality_report/     Phase 1 per-file, per-column profile + defects + false dictionary claims
-  sql/01_schema.sql        PostgreSQL star schema (stg / core / quarantine)
-  sql/02_questions_answered.sql   the 14 SQL questions, answered against core.*
-  warehouse/               loader, query runner, extract exporter, decisions log, xtrim_warehouse.dump
-  results/                 output of every SQL question
-  analysis/                analysis.py → findings.json + tables/, charts.py, narrative.py
-  charts/                  13 charts used in the memo and deck
-  dashboard/               Streamlit app + metrics + data extracts (runs without a database)
-  memo/                    Director memo + technical appendix (Word + PDF) and their builder
-  presentation/            PowerPoint deck (+ PDF) and its builder
-  tests/                   tie-out tests: dashboard numbers == SQL answers
+raw files (not in repo)
+      │
+      ▼
+profile_raw.py ──────────────► data_quality_report/   per-column profile, defects, false dictionary claims
+      │
+      ▼
+pipeline/run_pipeline.py ────► clean/                 14 cleaned datasets, every money column in NGN
+      │                        cleaning_report/        decisions log, quarantine, FX audit
+      ▼
+pipeline/validate.py                                   93 hard checks against the brief's validation key
+      │
+      ▼
+warehouse/build_warehouse.py ► PostgreSQL              star schema: stg / core / quarantine
+      │                                                PKs, FKs, CHECKs, EXCLUDE on price windows
+      ▼
+warehouse/run_queries.py ────► results/                the 14 SQL answers
+      │
+      ▼
+analysis/analysis.py ────────► findings.json, tables/  every number the narrative uses
+analysis/charts.py ──────────► charts/                 13 charts
+      │
+      ├──► dashboard/  (Parquet extracts — runs with no database)
+      ├──► memo/       (Word + PDF, numbers injected from findings.json)
+      └──► presentation/ (PowerPoint + PDF)
+      │
+      ▼
+tests/  tie-out: dashboard numbers == SQL answers == findings.json
 ```
+
+One command rebuilds all of it: `python run_pipeline.py`.
+
+---
+
+## The hard parts
+
+The interesting work was in the cleaning, and every rule below is logged with the evidence that justified it in [`cleaning_report/CLEANING_DECISIONS.md`](cleaning_report/CLEANING_DECISIONS.md).
+
+**Duplicate clients hidden behind re-keyed IDs.** The CRM export claimed to be unique on `client_id`; it wasn't. 58 rows were straight re-exports. Another **124 were the same client re-keyed at `id + 2000`** with slightly misspelled names (*"Grrace Farouk"* / *"Grace Farouk"*). Matching on name alone would have been wrong — the twin is the unique best name match for only 25 of the 124 pairs — so the merge keys on the ID offset *and* name similarity ≥ 0.85 *and* non-conflicting emails. Result: exactly the 1,900 distinct clients the ID block implies, with every booking and order reference remapped.
+
+**FX rates with decimal-point typos, in a currency that genuinely collapsed.** You cannot just cap outliers: the naira really did move 62% in a day. The rule corrects a rate only when it is >5× both neighbours *and* lands within 15% of a neighbour once divided by 10 — **7 typos corrected, every genuine devaluation step kept**. The source also only had weekday rates, so the table is forward-filled into a gap-free daily calendar (**888 filled currency-days**, each flagged with the rate date actually used).
+
+**Dates that lie about their format.** `bookings_2023.csv` is day-first, `bookings_2024.csv` is month-first, despite the dictionary saying both are DD/MM/YYYY. The 2025 workbook's header is on row 5, not row 1, and its "current" Pivot tab is stale. Order timestamps arrive in four formats, ~5% as epoch milliseconds.
+
+**A cost multiplier that doesn't exist.** The dictionary says `day_rate_charged` is 1.5× on overtime days. It isn't — the multiplier (0.5× / 1× / 1.5×) is statistically unrelated to the overtime flag, to hours, and to everything else in the data. So for the 1,020 rows with no charged rate, the standard day rate is used as the unbiased estimate (expected multiplier 0.997) and flagged `rate_is_estimated`, rather than inventing a number.
+
+**Traffic that isn't people.** 23,054 bot sessions (11.4%) and 5,200 spam sessions removed before any conversion rate is computed — which moves the conversion rate from a naive 1.9% to a real 2.14%.
+
+**Nothing is silently dropped.** For every file, `rows in = rows out + rows quarantined`, asserted on each run; the pipeline refuses to write if it doesn't hold. All 2,445 rejected rows are kept in the quarantine file with their original spreadsheet row number, loaded into the warehouse, and the money they carry is quantified: **6.87% of total revenue is touched by unresolved data issues**, and that figure is shown on the dashboard rather than buried.
+
+---
 
 ## Verification
 
-- Cleaning: **93 / 93** checks against `docs/VALIDATION_KEY.md` pass (`pipeline/validate.py`).
-- Row accounting: for every file, rows in = rows out + rows quarantined (2,445 quarantined, none deleted).
-- Warehouse: primary keys, foreign keys, CHECKs and an EXCLUDE constraint on price windows all hold on load.
-- Dashboard: **8 / 8** tie-out tests pass (`python -m pytest tests`).
-- Full rebuild from the raw files runs end to end in about 5 minutes.
+Every claim in the deck and memo is reproducible, and the repo proves it three ways:
 
-## Rebuild or run it yourself
+| Check | Result |
+|---|---|
+| Cleaning validated against the brief's validation key (`pipeline/validate.py`) | **93 / 93 pass** |
+| Row accounting — in = out + quarantined, every file | **holds** (2,445 quarantined, 0 deleted) |
+| Warehouse integrity — PKs, FKs, CHECKs, EXCLUDE on overlapping price windows | **all hold on load** |
+| Tie-out tests — dashboard == SQL results == `findings.json` (`pytest tests`) | **8 / 8 pass** |
+| Full rebuild from raw files | **~5 minutes, end to end** |
 
-Requirements: Python 3.12 with pandas, numpy, scipy, openpyxl, matplotlib, psycopg2-binary, pyarrow,
-streamlit, plotly, python-docx, python-pptx, pytest; PostgreSQL 17.
+The memo, appendix and deck read their numbers from `analysis/findings.json`, so no figure is ever typed by hand into a document.
+
+---
+
+## Running it
+
+### Just look at the results
+
+No database and no raw data needed:
 
 ```bash
-# 1. a PostgreSQL database for the warehouse (any server works; set XTRIM_DSN if not the default)
-initdb -D ~/xtrim_pg -U xtrim --auth=trust -E UTF8 --locale=en_US.UTF-8
-pg_ctl -D ~/xtrim_pg -o "-p 55432" -l ~/xtrim_pg/log start
-createdb -h localhost -p 55432 -U xtrim xtrim
-
-# 2. everything else
-python run_pipeline.py                     # reads ../xtrim_studios_project/raw_original_backup
-python run_pipeline.py --raw /path/to/raw  # or any folder with the 14 original files
-
-# just look at the warehouse without rebuilding
-pg_restore -h localhost -p 55432 -U xtrim -d xtrim warehouse/xtrim_warehouse.dump
-
-# the dashboard needs no database
+pip install streamlit plotly pandas pyarrow
 streamlit run dashboard/app.py
 ```
 
-PostgreSQL binaries from the EDB installer live in `/Library/PostgreSQL/17/bin`.
+The dashboard runs off the Parquet extracts in `dashboard/data/`. The SQL answers are already in `results/`, and the charts in `charts/`.
 
-## Notes on the source data
+### Explore the warehouse
 
-- The original raw files are in `../xtrim_studios_project/raw_original_backup/` (byte-for-byte originals). The
-  project's own `raw/` folder was overwritten with cleaned files by an earlier cleaning pass; this project reads
-  the backup, never `raw/`.
-- `fx_rates.csv` in `clean/` still names USD/GBP/EUR because it is the conversion table (naira per unit). Every
-  other money value is naira. In the warehouse, `core.fct_booking.invoice_currency` labels which jobs were invoiced
-  in USD/GBP (amounts are still naira) so the FX question can be answered.
+`warehouse/xtrim_warehouse.dump` is the loaded database:
+
+```bash
+createdb -h localhost -p 55432 -U xtrim xtrim
+pg_restore -h localhost -p 55432 -U xtrim -d xtrim warehouse/xtrim_warehouse.dump
+```
+
+Then run anything in `sql/02_questions_answered.sql` against it.
+
+### Rebuild everything from the raw files
+
+Requires Python 3.12 (`pandas`, `numpy`, `scipy`, `openpyxl`, `matplotlib`, `psycopg2-binary`, `pyarrow`, `streamlit`, `plotly`, `python-docx`, `python-pptx`, `pytest`) and a reachable PostgreSQL 17 (`XTRIM_DSN`, default `localhost:55432`, db `xtrim`, user `xtrim`).
+
+```bash
+python run_pipeline.py --raw /path/to/raw     # folder holding the 14 original files
+python run_pipeline.py --raw /path/to/raw --skip-docs   # skip the memo and deck
+```
+
+---
+
+## Repo map
+
+```
+run_pipeline.py          one command: rebuilds everything below from the raw files
+pipeline/                cleaning code — clean_lib, money/FX, column maps, validate
+clean/                   the 14 cleaned datasets, all money in NGN
+cleaning_report/         decisions log, quarantine, currency conversion audit, missing values
+data_quality_report/     Phase 1 per-column profile, defects, false dictionary claims
+sql/01_schema.sql        PostgreSQL star schema (stg / core / quarantine)
+sql/02_questions_answered.sql   the 14 questions, answered
+warehouse/               loader, query runner, extract exporter, decisions log, .dump
+results/                 q01.csv … q14.csv
+analysis/                analysis.py → findings.json + tables/, charts.py, narrative.py
+charts/                  the 13 charts used in the memo and deck
+dashboard/               Streamlit app + metrics + Parquet extracts (no database needed)
+memo/                    Director memo + technical appendix (Word + PDF) and their builder
+presentation/            PowerPoint deck (+ PDF) and its builder
+tests/                   tie-out tests
+```
+
+---
+
+## Notes
+
+- **The raw source files are not in this repo** — only the cleaned outputs. Point `--raw` at a folder holding the 14 originals to rebuild from scratch.
+- The brief's `DATA_DICTIONARY.md` and `VALIDATION_KEY.md` are likewise not included; `pipeline/validate.py` encodes the 93 checks the key defines.
+- `clean/fx_rates.csv` still names USD/GBP/EUR because it *is* the conversion table (naira per unit). Every other money value in `clean/` is naira. In the warehouse, `core.fct_booking.invoice_currency` records which jobs were originally invoiced in USD/GBP so the FX question stays answerable.
+- This was worked end to end as a single case study under the brief above — profiling, cleaning, modelling, analysis and delivery — in the shape a real contract engagement would take.
