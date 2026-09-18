@@ -16,6 +16,8 @@ What I was handed: a dump of every system the studio uses — an ERP migrated mi
 
 **Scope:** 2023 → H1 2025. All money is reported in Nigerian naira (₦).
 
+The brief I worked from is in [`brief/`](brief/), unedited — including the data dictionary it warns you not to trust, and the validation key used to score the cleaning.
+
 ---
 
 ## The answer
@@ -55,6 +57,7 @@ Charts behind each of these: [`charts/`](charts/). Full reasoning: the memo and 
 | **The data quality report** | [`data_quality_report/DATA_QUALITY_REPORT.md`](data_quality_report/DATA_QUALITY_REPORT.md) |
 | **Every cleaning decision + its evidence** | [`cleaning_report/CLEANING_DECISIONS.md`](cleaning_report/CLEANING_DECISIONS.md) |
 | **Every modelling decision** | [`warehouse/WAREHOUSE_DECISIONS.md`](warehouse/WAREHOUSE_DECISIONS.md) |
+| **The original brief** — the problem as handed over | [`brief/`](brief/) — brief, data dictionary, validation key, starter SQL |
 | **What was rejected and why** | [`cleaning_report/quarantine_rejected_rows.csv`](cleaning_report/quarantine_rejected_rows.csv) — 2,445 rows, none deleted |
 
 ---
@@ -167,6 +170,7 @@ python run_pipeline.py --raw /path/to/raw --skip-docs   # skip the memo and deck
 ## Repo map
 
 ```
+brief/                   the brief as handed over: data dictionary, validation key, starter SQL
 run_pipeline.py          one command: rebuilds everything below from the raw files
 pipeline/                cleaning code — clean_lib, money/FX, column maps, validate
 clean/                   the 14 cleaned datasets, all money in NGN
@@ -189,6 +193,6 @@ tests/                   tie-out tests
 ## Notes
 
 - **The raw source files are not in this repo** — only the cleaned outputs. Point `--raw` at a folder holding the 14 originals to rebuild from scratch.
-- The brief's `DATA_DICTIONARY.md` and `VALIDATION_KEY.md` are likewise not included; `pipeline/validate.py` encodes the 93 checks the key defines.
+- The brief, its data dictionary and its validation key are in [`brief/`](brief/); `pipeline/validate.py` encodes the key as 93 hard checks.
 - `clean/fx_rates.csv` still names USD/GBP/EUR because it *is* the conversion table (naira per unit). Every other money value in `clean/` is naira. In the warehouse, `core.fct_booking.invoice_currency` records which jobs were originally invoiced in USD/GBP so the FX question stays answerable.
-- This was worked end to end as a single case study under the brief above — profiling, cleaning, modelling, analysis and delivery — in the shape a real contract engagement would take.
+- This is a training brief with a synthetic dataset — the defects were planted so the cleaning could be scored objectively against a known answer key. I worked it end to end as if the engagement were real: profiling, cleaning, modelling, analysis, and delivery to a non-technical Director.
